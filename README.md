@@ -4,6 +4,7 @@
 
 - Cada estudiante deberá crear un fólder cuyo nombre será: `ApellidoIniciales`, por ejemplo: `VaughanN`. Para hacerlo sigan la guía de abajo (en `Otros`).
 - Esa carpeta será pública (podrá ser vista por todo el mundo), pero cada estudiante será responsable de su contenido.
+- En su carpeta creen un archivo con el nombre `proyecto.md` y pongan sus datos personales ahí. Vean [este ejemplo](VaughanN/proyecto.md).
 - ...
 
 ## Otros
