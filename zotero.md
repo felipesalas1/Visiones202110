@@ -29,7 +29,7 @@
 
 ![Zotero configurar grupo público](img/zotero04.png)
 
-5. Denle `Save`. 
+5. Hagan click en `Save Settings`. 
 
 6. Ahora necesitamos saber cuál es el enlace público del grupo. De nuevo en `Groups` hagan click en `Group Library`:
 
