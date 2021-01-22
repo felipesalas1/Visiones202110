@@ -14,3 +14,33 @@
 
 3. Ahí deberán poner los datos de su cuenta personal de Zotero. Asegúrense de que tengan las mismas opciones seleccionadas que en la imagen.
 
+
+## Creación de la bibliografía compartida
+1. Cada estudiante debe crear una bibliografía para su proyecto. Debe ser compartida (para que otros la puedan mirar, pero no cambiar).
+2. Usando la aplicación web, vayan a `Groups` y hagan click en `Create a New Group`:
+
+![Zotero crear grupo](img/zotero02.png)
+
+3. Denle el siguiente nombre al grupo: `Bibliografía Visiones` y seleccionen la segunda opción, `Public, Closed Membership`:
+
+![Zotero crear grupo público](img/zotero03.png)
+
+4. Ahora configuren el grupo así:
+
+![Zotero configurar grupo público](img/zotero04.png)
+
+5. Denle `Save`. 
+
+6. Ahora necesitamos saber cuál es el enlace público del grupo. De nuevo en `Groups` hagan click en `Group Library`:
+
+![Zotero link grupo](img/zotero05.png)
+
+7. Ese es el enlace del grupo. Cópienlo y péguenlo en una sección del documento `proyecto.md` titulada `Bibliografía`, por ejemplo así:
+
+```
+... 
+# Bibliografía
+El enlace de la bibliografía es este: https://www.zotero.org/groups/2726220/bibliografa_visiones/library
+```
+
+8. Asegúrense de que otras personas tengan acceso a ese enlace (p. ej. ábranlo en otro navegador o en una ventana incógnita)
