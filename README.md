@@ -12,6 +12,6 @@
 
 ## Otros
 
-1. [Instrucciones para crear un fólder o archivo nuevo](crear-folder-nuevo.md)
-2. [Cómo escribir los textos usando Markdown](instrucciones-textos.md)
-3. [Bibliografía en Zotero](zotero.md)
+1. [Instrucciones para crear un fólder o archivo nuevo](VaughanN/crear-folder-nuevo.md)
+2. [Cómo escribir los textos usando Markdown](VaughanN/instrucciones-textos.md)
+3. [Bibliografía en Zotero](VaughanN/zotero.md)
