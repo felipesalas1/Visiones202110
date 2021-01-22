@@ -35,7 +35,7 @@
 
 ![Zotero link grupo](img/zotero05.png)
 
-7. Ese es el enlace del grupo. Cópienlo y péguenlo en una sección del documento `proyecto.md` titulada `Bibliografía`, por ejemplo así:
+7. Ese es el enlace del grupo. Cópienlo y péguenlo en una sección del documento `proyecto.md` titulada `Bibliografía`,  así:
 
 ```
 ... 
@@ -44,3 +44,14 @@ El enlace de la bibliografía es este: https://www.zotero.org/groups/2726220/bib
 ```
 
 8. Asegúrense de que otras personas tengan acceso a ese enlace (p. ej. ábranlo en otro navegador o en una ventana incógnita)
+
+9. Ya pueden empezar a trabajar en la bibliografía:
+
+![Zotero nueva entrada](img/zotero06.png)
+
+
+## Otros recursos
+- https://www.zotero.org/support/es/start (en español)
+- https://www.zotero.org/support/start
+- [Zotero Groups](https://research.library.gsu.edu/zotero/groups)
+- [Learn how to use Zotero in 30 minutes](https://www.youtube.com/watch?v=BQL_7C-YqBk)
