@@ -11,8 +11,11 @@
 ## Palabras clave
 edición crítica; codificación; TEI; XML; XSLT
 
+## Abstract
+
 ## Objetivo general
-El proyecto de grado busca mostrar que ...
+
+## Lista de productos esperados 
 
 ## Problema
 
@@ -22,5 +25,5 @@ El proyecto de grado busca mostrar que ...
 
 ## Metodología
 
-# Bibliografía anotada
+## Bibliografía anotada
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2726220/bibliografa_visiones/library
