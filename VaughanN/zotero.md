@@ -43,11 +43,13 @@
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2726220/bibliografa_visiones/library
 ```
 
-8. Asegúrense de que otras personas tengan acceso a ese enlace (p. ej. ábranlo en otro navegador o en una ventana incógnita)
+8. Asegúrense de que otras personas también tengan acceso a ese enlace (p. ej. ábranlo en otro navegador o en una ventana incógnita)
 
 9. Ya pueden empezar a trabajar en la bibliografía:
 
 ![Zotero nueva entrada](img/zotero06.png)
+
+10. Asegúrense asimismo de que las entradas bibliográficas nuevas queden guardadas en el grupo compartido.
 
 
 ## Otros recursos
