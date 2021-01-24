@@ -1,3 +1,7 @@
+# Ejercicio con Voyant Tools sobre un corpus de textos
+
+
+
 1. Entre a https://voyant-tools.org, haga clic en `Upload` y suba el archivo `Corpus.zip.`
 
 2. Hecho eso, cree un enlace permanente para su corpus. Haga clic en el ícono de `Export URL`
