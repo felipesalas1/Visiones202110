@@ -1,5 +1,5 @@
 # Visiones de la Investigación 202110, Maestría en Humanidades Digitales, Universidad de los Andes
-# Anteproyecto del trabajo de grado
+# Anteproyecto de trabajo de grado
 
 ## Nicolás Vaughan, código 199712975
 
