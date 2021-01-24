@@ -2,7 +2,7 @@
 
 1. Construya en Zotero un corpus documental de al menos diez (10) fuentes secundarias relacionadas con su proyecto. Tenga en cuenta que para este ejercicio los documentos deben estar en el mismo idioma (español o inglés) y deben ser de al menos 500 palabras de extensión.
 2. En su carpeta personal en el [repositorio GitHub del módulo](https://github.com/nivaca/Visiones202110), cree un fólder llamado `Corpus`.
-3. Extraiga el texto de cada fuente (puede seleccionarlo todo y pegarlo, o si su editor/visor de PDF lo permite, puede guardarla como texto plano) y guárdela en un archivo de texto plano con la extensión `.txt`.
+3. Extraiga el texto de cada fuente (puede seleccionarlo todo y pegarlo, o si su editor/visor de PDF lo permite, puede guardarla como texto plano) y guárdelo en un archivo de texto plano con la extensión `.txt`.
 4. Nombre cada documento en secuencia: `01.txt`, `02.txt`, ..., `10.txt`. 
 5. Comprima en formato ZIP el fólder (el archivo resultando se llamará `Corpus.zip`).
 6. Entre a https://voyant-tools.org, haga clic en `Upload` y suba el archivo `Corpus.zip.`
