@@ -19,4 +19,4 @@ Colombia, memoria, comunicación democrática, conflicto armado
 ## Metodología
 ## Bibliografía anotada
 
-El enlace de la bibliografía es este:
+El enlace de la bibliografía es este: https://www.zotero.org/groups/2743728/bibliografa_visiones_guevarac/library
