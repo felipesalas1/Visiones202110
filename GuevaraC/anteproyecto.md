@@ -1,27 +1,22 @@
-**Visiones de la Investigación 202110, Maestría en Humanidades Digitales, Universidad de los Andes**
+# Visiones de la Investigación 202110, Maestría en Humanidades Digitales, Universidad de los Andes
+## Anteproyecto de trabajo de grado
+## Conni Guevara-Urrego, código 202010383
+## Fecha: enero 30 de 2021
+## Título
 
-**Anteproyecto de trabajo de grado**
+Provisional: Acompañamiento Informe Final - Comisión de la Verdad
 
-**Conni Guevara-Urrego, código 202010383**
+## Palabras clave
 
-**Fecha: enero 30 de 2021**
+Colombia, memoria, comunicación democrática, conflicto armado
 
-**Título**
+## Abstract
+## Objetivo general
+## Lista de productos esperados
+## Problema
+## Hipótesis de trabajo
+## Fuentes
+## Metodología
+## Bibliografía anotada
 
-**Palabras clave**
-
-**Abstract**
-
-**Objetivo general**
-
-**Lista de productos esperados**
-
-**Problema**
-
-**Hipótesis de trabajo**
-
-**Fuentes**
-
-**Metodología**
-
-**Bibliografía anotada** 
+El enlace de la bibliografía es este:
