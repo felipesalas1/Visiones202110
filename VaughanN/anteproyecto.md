@@ -17,7 +17,7 @@ edición crítica; codificación; TEI; XML; XSLT
 
 ## Lista de productos esperados 
 
-## Problema
+## Problema/pregunta de trabajo de grado
 
 ## Hipótesis de trabajo
 
