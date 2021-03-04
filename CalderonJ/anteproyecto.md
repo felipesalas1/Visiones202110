@@ -1,1 +1,3 @@
-
+...
+# Bibliografía
+El enlace de la bibliografía es este: https://www.zotero.org/groups/2815914/bibliografia_visiones/library
