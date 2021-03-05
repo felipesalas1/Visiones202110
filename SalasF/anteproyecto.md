@@ -6,12 +6,16 @@
 ## Fecha: enero 30 de 2021
 
 ## Título
+**Entendiendo los algoritmos de recomendación de música: una mirada desde el sur global y la música emergente**
 
 ## Palabras clave
+* Algoritmos de recomendación; Plataformas de Streaming (Apple Music, Spotify, Youtube Music); AI; Sesgos de los Algoritmos; Música Emergente
 
 ## Abstract
 
 ## Objetivo general
+
+Entender el funcionamiento de los algoritmos de recomendación de música, identificar sus sesgos y cómo afectan el descubrimiento de nuevos proyectos musicales. Con la finalidad de usar las APIs de las plataformas de streaming para crear una nueva experiencia para conocer nueva música. 
 
 ## Lista de productos esperados 
 
@@ -25,3 +29,4 @@
 
 ## Bibliografía anotada
 
+El enlace de la bibliografía es este: https://www.zotero.org/groups/2803661/bibliografavisiones/library
