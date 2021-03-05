@@ -6,7 +6,7 @@
 ## Fecha: enero 30 de 2021
 
 ## Título
-**Entendiendo los algoritmos de recomendación de música: una mirada desde el sur global y la música emergente**
+**Algoritmos de recomendación de música: una mirada desde el sur global y la música emergente**
 
 ## Palabras clave
 * Algoritmos de recomendación; Plataformas de Streaming (Apple Music, Spotify, Youtube Music); AI; Sesgos de los Algoritmos; Música Emergente
