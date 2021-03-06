@@ -21,7 +21,7 @@ Colombia; memoria; narraciones digitales; conflicto armado; legitimidad comunica
 
 ## Objetivo general
 
-Comprender de qué forma se presenta la legitimidad comunicativa en las narraciones digitales que hablan sobre el conflicto armado en Colombia realizadas por la Comisión de la Verdad, a través de un artefacto digital que permita evidenciar el proceso investigativo y ser fuente de un análisis crítico al respecto. 
+Comprender de qué forma se presenta la legitimidad comunicativa en las narraciones digitales que hablan sobre el conflicto armado en Colombia realizadas por la Comisión de la Verdad a través de un artefacto digital que permita evidenciar el proceso investigativo y ser fuente de un análisis crítico al respecto. 
 
 ## Lista de productos esperados
 ## Problema
