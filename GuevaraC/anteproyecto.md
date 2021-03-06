@@ -8,7 +8,7 @@ Legitimidad comunicativa en las narraciones digitales que hablan sobre el confli
 
 ## Palabras clave
 
-Colombia, memoria, narraciones digitales, conflicto armado, legitimidad
+Colombia; memoria; narraciones digitales; conflicto armado; legitimidad comunicativa
 
 ## Abstract
 ## Preguntas orientadoras
@@ -17,7 +17,6 @@ Colombia, memoria, narraciones digitales, conflicto armado, legitimidad
   * ¿Quiénes cuentan las historias relacionadas con en el conflicto armado en Colombia? Y ¿Desde qué lugar de enunciación lo hacen?
   * ¿Cuáles son los dispositivos pedagógicos a los que ha recurrido la Comisión de la Verdad para relatar el conflicto armado en Colombia?
   * ¿Cómo podría un artefacto digital a través de sus metadatos entregar diferentes formas de ubicar la información relacionada con legitimidad comunicativa en las narraciones transmedia realizadas por la Comisión de la Verdad?
-
 
 
 ## Objetivo general
