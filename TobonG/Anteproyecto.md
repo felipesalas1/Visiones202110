@@ -1,32 +1,34 @@
-Visiones de la Invetigación 202010, Maestría en Humanidades Digitales, Universidad de los Andes
+##Visiones de la Invetigación 202010 
+##Maestría en Humanidades Digitales
+##Universidad de los Andes
 
 
-Anteproyecto trabajo de grado
+#Anteproyecto trabajo de grado
 
 Génesis Natalia Tobón Becerra 
-Código: 201617884
+**Código:** 201617884
 
-Fecha: Marzo, 5 de 2021
+**Fecha:** Marzo, 5 de 2021
 
-Título
-Aimé Césaire: Obras completas
+**Título**
+_Aimé Césaire: Obras completas_
 
 
-Palabras Clave:
+**Palabras Clave:**
 Aimé Césaire; libro digital; literatura; poesía; ensayo; teatro;
 
-Abstract
+**Abstract**
 
-Objetivo General
+**Objetivo General**
 
-Lista de productos esperados
+**Lista de productos esperados**
 
-Problema
+**Problema**
 
-Hipótesis de trabajo
+**Hipótesis de trabajo**
 
-Fuentes
+**Fuentes**
 
-Metodología
+**Metodología**
 
-Bibliotrafía anotada
+**Bibliotrafía anotada**
