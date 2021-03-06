@@ -1,9 +1,9 @@
-##Visiones de la Invetigación 202010 
-##Maestría en Humanidades Digitales
-##Universidad de los Andes
+##Visiones de la Invetigación 202010## 
+##Maestría en Humanidades Digitales##
+##Universidad de los Andes##
 
 
-#Anteproyecto trabajo de grado
+#Anteproyecto trabajo de grado#
 
 Génesis Natalia Tobón Becerra 
 **Código:** 201617884
