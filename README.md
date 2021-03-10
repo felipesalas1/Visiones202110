@@ -8,7 +8,7 @@
 4. En su carpeta creen un archivo con el nombre de `anteproyecto.md` y pongan sus datos personales ahí (nómbres y códigos). Sigan [este ejemplo](VaughanN/proyecto.md). Ese será el documento en el que trabajarán durante este semestre. Ahí redactarán poco a poco el anteproyecto de trabajo de grado (pregunta, hipótesis, etc.).
 5. Recuerden siempre y solo usar el formato de Markdown en sus archivos de texto. Para hacerlo sigan [esta guía](VaughanN/instrucciones-textos.md).
 6. La bibliografía deberán elaborarla totalmente en [Zotero](https://www.zotero.org). Para hacerlo sigan [esta guía](VaughanN/zotero.md).
-7. La bibliografía anotada deben hacerla según [esta guía](VaughanN/biblio-anotada.md). **¡Nuevo!**
+7. La bibliografía anotada deben hacerla según [esta guía](VaughanN/biblio-anotada.md).
 - ...
 
 ## Guías
