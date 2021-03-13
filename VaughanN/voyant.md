@@ -1,6 +1,6 @@
 # Ejercicio con Voyant Tools sobre un corpus de textos
 
-1. Construya en Zotero un corpus documental de al menos diez (10) fuentes secundarias relacionadas con su proyecto. Tenga en cuenta que para este ejercicio los documentos deben estar en el mismo idioma (español o inglés) y deben ser de al menos 500 palabras de extensión.
+1. Construya en Zotero un corpus documental de al menos seis (6) fuentes secundarias relacionadas con su proyecto. Tenga en cuenta que para este ejercicio los documentos deben estar en el mismo idioma (español o inglés) y deben ser de al menos 500 palabras de extensión.
 
 2. En su carpeta personal en el [repositorio GitHub del módulo](https://github.com/nivaca/Visiones202110), cree un fólder llamado `Corpus`.
 
