@@ -5,7 +5,7 @@
 2. En su carpeta personal en el [repositorio GitHub del módulo](https://github.com/nivaca/Visiones202110), cree un fólder llamado `Corpus`.
 
 3. Extraiga el texto de cada fuente (puede seleccionarlo todo y pegarlo, o si su editor/visor de PDF lo permite, puede guardarla como texto plano) y guárdelo en un archivo de texto plano con la extensión `.txt`.
-   - Pueden probar la aplicación gratuita [pdftotext](https://www.xpdfreader.com/download.html).
+   - Puede probar la aplicación gratuita [pdftotext](https://www.xpdfreader.com/download.html).
 
 4. Nombre cada documento en secuencia: `01.txt`, `02.txt`, ..., `10.txt`. 
 
