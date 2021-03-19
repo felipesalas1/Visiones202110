@@ -18,7 +18,11 @@ El enlance de los diagramas de Voyant Tools es este: https://voyant-tools.org/?c
 
 #### 1. Palabras más comunes en los artículos. Item 1.
 
-Las 15 palabras más comúnes en el corups son: 
+Las 15 palabras más comúnes en el corpus son: 
+
+
+
+
 
 #### 1. Palabras en el corpus con más relación. Item 1a.
 
