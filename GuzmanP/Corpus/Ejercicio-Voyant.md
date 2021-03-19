@@ -32,11 +32,23 @@ new, students (queda en singular), way, real, provide
 
 #### 3. Palabras que incluiría en futuras consultas. 
 
+pedagogy (pedagogía)
+
 #### 4. Categorización de lista de palabras más comunes. Creación de etiquetas. 
+
+
 
 #### 5. Amplicación de búsquedas/ tema de investifación después del análisis. 
 
-#### 6. Palabras en el corpus con más relación.
+A continuación algunas ideas sobre ampliación de búsquedas sonbre el tema de investigación. 
+
+* Tecnología aplicada en el aprendizaje ubicado en el estudio de danza de ballet clásico. 
+* Caracterización de la población de danza en Colombia (atributo: habilidades en tecnología). 
+
+#### 6. Palabras en el corpus con más relación. Correlación entre términos. 
+
+
+
 
 
 
