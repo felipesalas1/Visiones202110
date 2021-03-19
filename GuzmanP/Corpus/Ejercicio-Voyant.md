@@ -30,7 +30,7 @@ Las 15 palabras más comúnes en el corpus son:
 
 #### 6. Palabras en el corpus con más relación.
 
-![imagen](GuzmanP/Corpus/Imágenes/nube de palabras.png)
+![imagen](Imágenes/nube de palabras.png)
 
 
 
