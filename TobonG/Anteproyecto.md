@@ -33,5 +33,9 @@ Gertrudis Gómez de Avellaneda; libro digital; literatura; poesía; ensayo; teat
 **Fuentes**
 
 **Metodología**
+**Bibliografía anotada**
+Esta es la bibliografía general que continene la obra completa de Gertrudis Gómez de Avellaneda: https://www.zotero.org/gntobonb/collections/DYZ3W9U8
+
+Esta es bibliografía de apoyo sobre el libro y la lectura digital: https://www.zotero.org/gntobonb/collections/UJU5VSYM
 
 **Bibliotrafía anotada**
