@@ -16,15 +16,9 @@ Carpeta _*Corpus documental*_.
 
 El enlance de los diagramas de Voyant Tools es este: https://voyant-tools.org/?corpus=ea1730c1b18405ab9cc785659c53425c&lang=es&stopList=keywords-6278231a9a8c735d8a03ec8038c16138&panels=cirrus,reader,wordtree,summary,contexts
 
-#### 1. Palabras más comunes en los artículos. Item 1.
+#### 1. Palabras más comunes en los artículos. 
 
 Las 15 palabras más comúnes en el corpus son: 
-
-
-
-
-
-#### 1. Palabras en el corpus con más relación. Item 1a.
 
 #### 2. Palabras excluidas. 
 
@@ -33,6 +27,10 @@ Las 15 palabras más comúnes en el corpus son:
 #### 4. Categorización de lista de palabras más comunes. Creación de etiquetas. 
 
 #### 5. Amplicación de búsquedas/ tema de investifación después del análisis. 
+
+#### 6. Palabras en el corpus con más relación.
+
+![imagen](GuzmanP/Corpus/Imágenes/nube de palabras.png)
 
 
 
