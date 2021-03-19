@@ -9,8 +9,30 @@
 ## Título
 *Uso de tecnología digital en los estudios de danza en Bogotá, Colombia para pedagogía, representación y colaboración.*
 
-## Análisis de seis documentos de bibliografía anotada en la aplicación Voyant Tools
+## Análisis de seis documentos de bibliografía anotada en la aplicación Voyant Tools.
+
+El enlace de la bibliografía es este: https://www.zotero.org/groups/2819973/bibliografa_visiones_guzman/library 
+Carpeta _*Corpus documental*_. 
+
+El enlance de los diagramas de Voyant Tools es este: https://voyant-tools.org/?corpus=ea1730c1b18405ab9cc785659c53425c&lang=es&stopList=keywords-6278231a9a8c735d8a03ec8038c16138&panels=cirrus,reader,wordtree,summary,contexts
+
+#### 1. Palabras más comunes en los artículos. Item 1.
+
+Las 15 palabras más comúnes en el corups son: 
+
+#### 1. Palabras en el corpus con más relación. Item 1a.
+
+#### 2. Palabras excluidas. 
+
+#### 3. Palabras que incluiría en futuras consultas. 
+
+#### 4. Categorización de lista de palabras más comunes. Creación de etiquetas. 
+
+#### 5. Amplicación de búsquedas/ tema de investifación después del análisis. 
 
 
 
-El enlace de la bibliografía es este: https://www.zotero.org/groups/2819973/bibliografa_visiones_guzman/library
+
+
+
+
