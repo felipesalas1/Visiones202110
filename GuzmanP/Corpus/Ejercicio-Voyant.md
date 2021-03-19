@@ -28,7 +28,7 @@ Las 15 palabras más comúnes en el corpus son: dance (danza), learning (aprendi
 
 #### 2. Palabras excluidas. 
 
-new, students (queda en singular), way, 
+new, students (queda en singular), way, real, provide
 
 #### 3. Palabras que incluiría en futuras consultas. 
 
