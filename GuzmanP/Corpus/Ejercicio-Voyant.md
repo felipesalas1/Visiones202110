@@ -20,6 +20,8 @@ El enlance de los diagramas de Voyant Tools es este: https://voyant-tools.org/?c
 
 Las 15 palabras más comúnes en el corpus son: 
 
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/nube%20de%20palabras.png)
+
 #### 2. Palabras excluidas. 
 
 #### 3. Palabras que incluiría en futuras consultas. 
@@ -30,7 +32,7 @@ Las 15 palabras más comúnes en el corpus son:
 
 #### 6. Palabras en el corpus con más relación.
 
-![imagen](Imágenes/nube de palabras.png)
+
 
 
 
