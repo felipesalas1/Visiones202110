@@ -14,11 +14,11 @@ Génesis Natalia Tobón Becerra
 Marzo, 5 de 2021
 
 **Título**
-_Obras completas de Aimé Césaire: Una edición digital_
+_Una lectura digital de "Sab" - Gertrudis Gómez de Avellaneda_
 
 
 **Palabras Clave:**
-Aimé Césaire; libro digital; literatura; poesía; ensayo; teatro;
+Gertrudis Gómez de Avellaneda; libro digital; literatura; poesía; ensayo; teatro;
 
 **Abstract**
 
