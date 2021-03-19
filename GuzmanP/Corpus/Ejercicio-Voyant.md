@@ -18,16 +18,17 @@ El enlance de los diagramas de Voyant Tools es este: https://voyant-tools.org/?c
 
 #### 1. Palabras más comunes en los artículos. 
 
-Según el corpus que se creó, se visualiza la siguiente nube de palabras. Las 15 palabras más comúnes en el corpus son: dance (danza), learning (aprendizaje), students (estudiantes), technology (tecnología), research (investigación), education (educación), online (en línea), practice (práctica), project (proyecto), teaching (enseñanza), new (nuevo), digital (digital),  
+Según el corpus que se creó, se visualiza la siguiente nube de palabras. 
 
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Nube%20de%20palabras.png)
+
+Las 15 palabras más comúnes en el corpus son: dance (danza), learning (aprendizaje), technology (tecnología), research (investigación), education (educación), online (en línea), practice (práctica), project (proyecto), teaching (enseñanza), digital (digital), process (proceso), student (estudiante), creative (creativo), technique (técnica) y video (video). 
 
 ![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Palabras%20ma%CC%81s%20comunes.png)
 
-
-
 #### 2. Palabras excluidas. 
 
-new, students (queda en singular), 
+new, students (queda en singular), way, 
 
 #### 3. Palabras que incluiría en futuras consultas. 
 
