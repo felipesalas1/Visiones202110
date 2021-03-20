@@ -8,7 +8,10 @@ Sin embargo, como se observa en el anterior gráfico de flujo, la palabra hipert
 Ahora, las palabras _leer_, _información_ y _forma_ no dicen nada sin un contexto específico. _Leer_ es un acto intrínseco del tema general de este proyecto -la literatura digital-, información sin un complemento que señale un _tipo_ o _manera_ es una palabra vacía, lo mismo pasa con _forma_ que a falta de un atributo específico no comunica nada. 
 <br/>
 
-Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico: 
+Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico: <br/><br/><br/>
+
+![flujo02](img/flujo02.png)
+![flujo03](img/flujo03.png)
 
 
 ¿Cuáles son las palabras más comunes en sus artículos? 
