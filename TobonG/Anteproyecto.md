@@ -50,4 +50,8 @@ Sin embargo, otro problema que ronda este proyecto serían las cuestiones que ap
 * Esta es bibliografía de apoyo sobre el libro y la lectura digitales: https://www.zotero.org/gntobonb/collections/UJU5VSYM
 
 **Referentes**
-* 
+* Rayuela, el libro red http://moebio.com/research/rayuela/
+* La dama boba: edición crítica y archivo digital http://damaboba.unibo.it/proyecto
+* Los ingenios del pincel. Geografía de la pintura y cultura visual en América colonial https://losingeniosdelpincel.uniandes.edu.co/#!/intro/1
+* Debates in the Digital Humanities https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/fcd2121c-0507-441b-8a01-dc35b8baeec6
+* Piedra y Cielo http://bibliotecanacional.gov.co/es-co/colecciones/biblioteca-digital/piedra-y-cielo/libro%20digital/index.html
