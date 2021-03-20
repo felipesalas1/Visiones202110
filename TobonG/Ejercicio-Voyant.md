@@ -1,7 +1,7 @@
 **Ejercicio Voyant Tools**
 
 
-![Mandala_tableta](img / Mandala_tableta.png)
+!https://github.com/nivaca/Visiones202110/blob/main/TobonG/img/Madala_tableta.png?raw=true
 
 ¿Cuáles son las palabras más comunes en sus artículos? 
 ¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema? 
