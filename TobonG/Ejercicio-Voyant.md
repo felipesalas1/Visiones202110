@@ -14,6 +14,7 @@ Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico:
 ![flujo03](img/flujo03.png)
 
 ![madala-tableta](img/madala-tableta.png)
+![mandala-hipertexto](img/mandala-hipertexto.png)
 
 ![madala-ipad](img/madala-ipad.png)
 ![madala-web](img/madala-web.png)
@@ -21,7 +22,7 @@ Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico:
 ![madala-literatura](img/madala-literatura.png)
 ![madala-internet](img/madala-internet.png)
 ![madala-tei](img/madala-tei.png)
-![mandala-hipertexto](img/mandala-hipertexto.png)
+
 
 ![dreamspace-error](img/dreamspace-error.png)
 ![error-cantón](img/error-cantón.png)
