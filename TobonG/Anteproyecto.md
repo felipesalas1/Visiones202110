@@ -43,7 +43,7 @@ Aún no lo tengo claro, pero creo que existe una conexión estrecha entre el pri
 
 **Hipótesis de trabajo**
 **Fuentes** <br />
-¿Aquí irían las obras de la autora que pretendo "digitalizar" o las referencias sobre el libro y la lectura digitales?
+~~¿Aquí irían las obras de la autora que pretendo "digitalizar" o las referencias sobre el libro y la lectura digitales?~~
 
 **Metodología**
 **Bibliografía anotada**
