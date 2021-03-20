@@ -28,18 +28,17 @@ Asimismo, otra herramienta que iliminó mucho más el corpus fue _Mandala_: <br/
 Este diagráma sí lo manipulé más arbitrariamente puesto que, depués de analizar las evidencias que arrojaron los Gráficos de flujo que vimos anteriormente, generé mi propia lista de _palabras clave_ que considero personalmente vale la pena examinar a detalle dentro del corpus.
 
 Revisemos las relaciones de los términoa resultantea con los textos: 
-**1. Hipertexto**<br/>
-![mandala-hipertexto](img/mandala-hipertexto.png)
-<br/>
+**1. Hipertexto**
+<br/>![mandala-hipertexto](img/mandala-hipertexto.png)<br/>
 Aquí podemos evidenciar que este término, en efecto, no es tranvesal a todo el corpus, no es tan importante y, como se dijo enteriormente, se podría obviar. Definir un _hipertexto_ no es el "objetivo" de estos textos. 
 
-**2. Literatura** <br/>
-![mandala-literatura](img/mandala-literatura.png)
+**2. Literatura** 
+<br/>![mandala-literatura](img/mandala-literatura.png)<br/>
 A pesar de que este término puede parecer obvio en un corpus como este, creo que es importante que lo resaltemos pues esta palabra "aterriza" un poco este conjunto de textos. La edición en sí es algo bastante grande que, generalmente, alude a la literatura, pero **NO** es necesariamente constitutiva de la acción de _editar_. Su presencia en la totalidad de este corpus es señal, una vez, de la pertinencia, validez y _alineación_ con los objetivos de este proyecto -que son enteramente literarios.
 
 **3. Web, internet y http** <br/>
 En este caso, el término predominante, presente en todos los textos, es _http_: 
-<br/>![mandala-http](img/mandala-http.png) 
+<br/>![mandala-http](img/mandala-http.png) <br/>
 Esto parece indicar que _http_ es el término que "definiría" el corpus. Sin embargo, si hacemos una indagación más profunda con la herramienta "Contextos", nos podemmos dar cuenta que _http_ se repite en todo el corpus por su caracter literal y no referencial. Es decir, _http_ aparece en todos los textos porque se han citado direcciones electrónicas, pero no por su concepto de _Hypertext Transfer Protocol_. Entonces, debimos haberlo excluído antes. <br/>
 
 Por otro lado, _internet_ sólo se encuentra ausente en el texto 1: 
@@ -60,15 +59,17 @@ Y _ipad_ en el restante 43% aprox.
 **5. tei** <br/>
 Este último término es sumamente interesante si, una vez más, lo ponemos en contexto:
 <br/>![mandala-tei](img/mandala-tei.png)<br/>
-Como podemos observar, _tei_ se encuentra exclusivamente en los textos 3 y 4, que son _La edición crítica digital de textos teatrales_ y _La edición digital de textos literarios planteamientos y perspectivas de futuro_ respectivamente. Esto ilumina especialmente la problemática de ***¿cómo "digitalizar" la literatura?*** específicamente ***el teatro***, que es una pregunta técnica pero vital para este proyecto porque uno de sus componentes -como edición de obras completas- es la obra dramática -que Gertrudis Gómez de Avellaneda produjo prolíferamente; ya que se hace referencia directamente a esta herramienta de marcado digital en el único texto del corpus que trata directamente ejemplos de edición digital de teatro -texto 3- y, más aún, en un texto que se piensa el porvenir del campo. 
+Como podemos observar, _tei_ se encuentra exclusivamente en los textos 3 y 4, que son _La edición crítica digital de textos teatrales_ y _La edición digital de textos literarios planteamientos y perspectivas de futuro_ respectivamente. Esto ilumina la problemática de ***¿cómo "digitalizar" la literatura?*** específicamente ***el teatro***, ya que se hace referencia a esta herramienta de marcado digital en el único texto del corpus que trata directamente ejemplos de edición digital de teatro -texto 3- y, más aún, en un texto que se piensa el porvenir del campo -texto 4. Esta es una pregunta técnica, pero vital para este proyecto porque uno de sus componentes -como edición de obras completas- es la obra dramática -que Gertrudis Gómez de Avellaneda produjo prolíferamente- y buscamos la mejor _manera_ de "digitalizar" dicha obra.
 
+**Otros apuntes** <br/>
+En cuanto a Voyant Tools, quisiera destacar la herramienta _Dreamscape_, que está en desarrollo aún pero que ofrece un diagrama de posibles "conexiones" sobre un mapa geográfico. Es decir, muestra la "trayectoria geográfica" de los textos, de lo que hablan los textos y sus referencias, localizando las ciudades en el mapa y trazando líneas de "diálogo". Por ejemplo, en el corpus conectó la _Universidad Católica de Pelotas_, en Brasil, con la _Complutense_ de Madrid:
+<br/>![conexión-brasil-españa](img/conexión-brasil-españa.png)<br/>
 
-![dreamspace-error](img/dreamspace-error.png)
+Hay que reconocer que esta herramienta aún está en desarrollo y por eso tiene fallas como aquí, que confundió el apellido _Cantón_ con la ciudad China:
 ![error-cantón](img/error-cantón.png)
-![conexión-brasil-españa](img/conexión-brasil-españa.png)
 
-¿Cuáles son las palabras más comunes en sus artículos? 
-¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema? 
-Al revisar la lista de "distinctive words", ¿podría organizar bajo una etiqueta común algunas de ellas? 
-En general, ¿ve alguna forma de acotar o ampliar sus búsquedas y/o tema de investigación después de hacer el ejercicio?
-Extraiga de Voyant Tools las imágenes que considere pertinentes para su análisis.
+Pero, en general puede ayudar a hacer conexiones geográficas que resultan interesantes para localizar espacialmente el diálogo, como esta entre Madrid -Universidad Complutense- y Cambridge:
+![madrid-cambridge](img/madrid-cambidge)
+
+
+
