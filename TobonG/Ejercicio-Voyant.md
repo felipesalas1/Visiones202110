@@ -27,7 +27,7 @@ Asimismo, otra herramienta que iluminó mucho más el corpus fue _Mandala_: <br/
 
 Este diagrama sí lo manipulé más arbitrariamente puesto que, después de analizar las evidencias que arrojaron los Gráficos de flujo que vimos anteriormente, generé mi propia lista de _palabras clave_ que considero personalmente vale la pena examinar a detalle dentro del corpus.
 
-Revisemos las relaciones de los términos resultantes con los textos: <br/>
+Revisemos las relaciones de los términos resultantes con los textos: <br/><br/>
 **1. Hipertexto**
 <br/>![mandala-hipertexto](img/mandala-hipertexto.png)<br/>
 Aquí podemos evidenciar que este término, en efecto, no es transversal a todo el corpus, no es tan importante y, como se dijo anteriormente, se podría obviar. Definir un _hipertexto_ no es el "objetivo" de estos textos. 
