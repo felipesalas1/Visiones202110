@@ -1,7 +1,8 @@
 **Ejercicio Voyant Tools**
 
 
-![Mandala_tableta](img/Madala_tableta.png)
+![Gráfico de flujo](img/Gráfico de flujo.png)
+
 
 
 ¿Cuáles son las palabras más comunes en sus artículos? 
