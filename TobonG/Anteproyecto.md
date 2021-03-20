@@ -51,9 +51,11 @@ Aún no lo tengo claro, pero creo que existe una conexión estrecha entre el pri
 **Metodología** <br /><br />
 
 **Bibliografía anotada**
-* Esta es la bibliografía general que contiene la obra completa de Gertrudis Gómez de Avellaneda: https://www.zotero.org/gntobonb/collections/DYZ3W9U8
+* Esta es la bibliografía completa https://www.zotero.org/groups/2850890/bibliografa-visiones/library
+* 
+* Esta es la bibliografía general que contiene la obra completa de Gertrudis Gómez de Avellaneda: https://www.zotero.org/groups/2850890/bibliografa-visiones/collections/NV5KVNUV
 
-* Esta es bibliografía de apoyo sobre el libro y la lectura digitales: https://www.zotero.org/gntobonb/collections/UJU5VSYM
+* Esta es bibliografía de apoyo sobre el libro y la lectura digitales: https://www.zotero.org/groups/2850890/bibliografa-visiones/collections/K7BE98VR
 <br />
 
 **Referentes**
