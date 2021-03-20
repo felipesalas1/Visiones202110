@@ -1,4 +1,4 @@
-### Ejercicio Voyant Tools ###
+## Ejercicio Voyant Tools ##
 
 Inicialmente, las palabras más comunes fueron _http_, _hipertexto_, _leer_, _información_ y _forma_. <br/><br/><br/>
 ![flujo](img/flujo.png)
@@ -69,4 +69,4 @@ Hay que reconocer que esta herramienta aún está en desarrollo y por eso tiene 
 ![error-cantón](img/error-cantón.png)
 
 Pero, en general puede ayudar a hacer conexiones geográficas que resultan interesantes para localizar espacialmente el diálogo, como esta entre Madrid —Universidad Complutense— y Cambridge:
-![madrid-cambridge](img/madrid-cambidge)
+![madrid-cambridge](img/madrid-cambidge.png)
