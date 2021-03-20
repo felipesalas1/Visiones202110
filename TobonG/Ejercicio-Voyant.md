@@ -1,7 +1,7 @@
 **Ejercicio Voyant Tools**
 
 
-![Mandala_tableta](img/Mandala_tableta.png)
+![Mandala_tableta](img / Mandala_tableta.png)
 
 ¿Cuáles son las palabras más comunes en sus artículos? 
 ¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema? 
