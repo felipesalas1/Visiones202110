@@ -42,9 +42,16 @@ A partir del gráfico de mandala que la aplicación visualiza, que muestra las r
 
 ![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Mandala:categori%CC%81as.png)
 
-Categorías y palabras principales emcarcadas en cada etiqueta:
+Del árbol de palabras que se visualiza se pueden extraer palabras adicionales para ser categorizadas; studio (estudio), learner (aprendiz), community (comunidad). 
+
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/A%CC%81rbol%20de%20palabras.png)
+
+
+##### _*Categorías y palabras principales emcarcadas en cada etiqueta:*_
 
 * **online (en línea)**
+
+community (comunidad)
 
 * **practice (práctica)**
 
@@ -53,10 +60,12 @@ creative (creativo)
 * **project (proyecto)**
 
 student (estudiante)
+learner (aprendiz)
 
 * **dance (danza)**
 
 technique (técnica)
+studio (estudio)
 
 * **learning (aprendizaje)**
 
