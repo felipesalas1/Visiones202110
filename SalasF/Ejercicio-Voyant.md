@@ -30,13 +30,17 @@ De estas palabras me parece importante diferenciar entre *usuarios* y *usuario* 
 * online
 * York
 
-La mayoría de estas palabras las excluiría porque me permiten limpiar los gráficos (son organizaciones que ya sé que usan algoritmos de recomendación). Las otras porque no son de utilidad para mi proyecto ni para la busqueda de nueva información.
+La mayoría de estas palabras las excluiría porque me permiten limpiar los gráficos (son organizaciones que ya sé que usan algoritmos de recomendación). Las otras porque no son de utilidad para mi proyecto ni para la búsqueda de nueva información.
+
+Por otro lado, la palabra *People* tiene relevancia en dos de los artículos que estudian los algoritmos en un contexto cultural y no solamente en su funcionamiento técnico. Por esta razón, tambien incluiría esta palabra en próximas fuentes.
 
 ![Mandala palabras más usadas](imgs/voyant/mandala20032021.png)
 
-Este gráfico me ha ayudado a ver la relación entre mis fuentes, cuales son sus enfoques y el camino de investigación que debería seguir. 
+Este gráfico me ha ayudado a ver la relación entre mis fuentes, cuáles son sus enfoques y el camino de investigación que debería seguir. 
 
 * Buscar sobre los usuarios, los datos, y la diferencia entre usuarios y usuario.
+
+
 
 #### Palabras Distintivas
 
