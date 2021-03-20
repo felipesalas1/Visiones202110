@@ -54,23 +54,23 @@ creative (creativo)
 
 student (estudiante)
 
-* **dance (danza)*
+* **dance (danza)**
 
 technique (técnica)
 
-* **learning (aprendizaje)*
+* **learning (aprendizaje)**
 
 process (proceso)
 
-* **technology (tecnología)*
+* **technology (tecnología)**
 
 digital (digital)
 
-* **research (investigación)*
+* **research (investigación)**
 
 video (video)
 
-* **education (educación)*
+* **education (educación)**
 
 teaching (enseñanza)
 
