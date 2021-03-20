@@ -82,7 +82,9 @@ A continuación algunas ideas sobre ampliación de búsquedas sonbre el tema de 
 * Tecnología aplicada en el aprendizaje ubicado en el estudio de danza de ballet clásico. 
 * Caracterización de la población de danza en Colombia (atributo: habilidades en tecnología). 
 
-#### 6. Palabras en el corpus con más relación. Correlación entre términos. 
+#### 6. Correlación, significación y correspondencia entre términos. 
+
+#Correlación y significacion.
 
 Se incluyen las palabras que tengan el puntaje de correlación más cercano a 1; puntuación que significa una relación directamente proporcional (lineal creciente), si una variable aumenta, la otra también. Por otro lado, se incluye en el análisis las palabras que tengan el puntaje de significación menor a 0.05 que representa una relación fuerte. 
 
@@ -96,4 +98,14 @@ Las palabras en el corpus que tienen más correlación y significación son:
 * **creative (creativo) - learning (aprendizaje)**
 
 Las siguientes palabras tienen un puntaje de significación mayor 0.05 que no evidencian una relación fuerte. 
+
+#Correspondencia.
+
+Las tres palabras que poseen la relación más estrecha de correspondencia (concordancia según análisis estadístico) son: **dance (danza), learning (enseñanza) y teaching (enseñanza).**
+
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Correspondencia.png)
+
+
+
+
 
