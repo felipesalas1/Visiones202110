@@ -3,7 +3,7 @@
 
 En el siguiente Gráfico de flujo:
 
-![export URL](Visiones202110/TobonG/img/Gráfico de flujo.png)
+![export URL](Visiones202110/TobonG/img/Gráfico_de_flujo.png)
 
 ¿Cuáles son las palabras más comunes en sus artículos? 
 ¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema? 
