@@ -38,23 +38,29 @@ Aquí podemos evidenciar que este término, en efecto, no es tranvesal a todo el
 A pesar de que este término puede parecer obvio en un corpus como este, creo que es importante que lo resaltemos pues esta palabra "aterriza" un poco este conjunto de textos. La edición en sí es algo bastante grande que, generalmente, alude a la literatura, pero **NO** es necesariamente constitutiva de la acción de _editar_. Su presencia en la totalidad de este corpus es señal, una vez, de la pertinencia, validez y _alineación_ con los objetivos de este proyecto -que son enteramente literarios.
 
 **3. Web, internet y http** <br/>
-En este caso, el término predominante, presente en todos los textos, es _http_: ![mandala-http](img/mandala-http.png) <br/>
+En este caso, el término predominante, presente en todos los textos, es _http_: 
+<br/>![mandala-http](img/mandala-http.png) 
 Esto parece indicar que _http_ es el término que "definiría" el corpus. Sin embargo, si hacemos una indagación más profunda con la herramienta "Contextos", nos podemmos dar cuenta que _http_ se repite en todo el corpus por su caracter literal y no referencial. Es decir, _http_ aparece en todos los textos porque se han citado direcciones electrónicas, pero no por su concepto de _Hypertext Transfer Protocol_. Entonces, debimos haberlo excluído antes. <br/>
 
-Por otro lado, _internet_ sólo se encuentra ausente en el texto 1: ![mandala-internet](img/mandala-internet.png) <br/>
-Y _web_ en 1 y 5: ![mandala-web](img/mandala-web.png) <br/>
-Esta frecuencia de estos términos indicaría que la edición digital se estaría volcando -según los autores- hacia la publicación en línea más que hacia otro tipo de distribución. Personalmente, me atrevería a asegurar que no se ha contemplado otro medio de distribución que no se internet y, tal vez, no otro receptáculo para la publicación digital que una _Web_. Aunque habría que revisar a qué se refiere cáda artículo con estos términos, todo parece apuntar a que toda edición digital debe ser publicada _en línea_, y que no se ha concevido un proyecto de edición que no requiera de dicha conexión.
+Por otro lado, _internet_ sólo se encuentra ausente en el texto 1: 
+<br/>![mandala-internet](img/mandala-internet.png) <br/>
 
+Y _web_ en 1 y 5: 
+<br/>![mandala-web](img/mandala-web.png) <br/>
+Esta frecuencia de estos términos indicaría que la edición digital se estaría volcando -según los autores- hacia la publicación en línea más que hacia otro tipo de distribución. Personalmente, me atrevería a asegurar que no se ha contemplado otro medio de distribución que no se internet y, tal vez, no otro receptáculo para la publicación digital que una _Web_. Aunque habría que revisar a qué se refiere cáda artículo con estos términos, todo parece apuntar a que toda edición digital debe ser publicada _en línea_, y que no se ha concebido un proyecto de edición que no requiera de dicha conexión.
 
+**4. tableta y ipad** 
+La frecuencia de esto dos términos llamó mi atención pues iluminó la pregunta **¿dónde -en qué dispositivo- lee el nuevo lector digital?**, pues, hasta ahora, no habíamos contemplado la dificultad que presenta el _formato_ de lectura, en tanto que este sea "adaptable" a multiples dispositivos de lectura -y aquí no entraron en discusión las Kindles. 
+Ahora, en contraste, parece que, al menos en cuanto a términos concierne, el más popular y utilizado en este corpus fue _tableta_, presente en 57% aprox. del corpus -en 4 de 7 textos:
+<br/>![madala-tableta](img/madala-tableta.png)<br/>
 
-
-
-**4. tableta y ipad** <br/>
-![madala-tableta](img/madala-tableta.png)
-![mandala-ipad](img/mandala-ipad.png)
+Y _ipad_ en el restante 43% aprox.
+<br/>![mandala-ipad](img/mandala-ipad.png)<br/>
 
 **5. tei** <br/>
-![mandala-tei](img/mandala-tei.png)
+Este último término es sumamente interesante si, una vez más, lo ponemos en contexto:
+<br/>![mandala-tei](img/mandala-tei.png)<br/>
+Como podemos observar, _tei_ se encuentra exclusivamente en los textos 3 y 4, que son _La edición crítica digital de textos teatrales_ y _La edición digital de textos literarios planteamientos y perspectivas de futuro_ respectivamente. Esto ilumina especialmente la problemática de ***¿cómo "digitalizar" la literatura?*** específicamente ***el teatro***, que es una pregunta técnica pero vital para este proyecto porque uno de sus componentes -como edición de obras completas- es la obra dramática -que Gertrudis Gómez de Avellaneda produjo prolíferamente; ya que se hace referencia directamente a esta herramienta de marcado digital en el único texto del corpus que trata directamente ejemplos de edición digital de teatro -texto 3- y, más aún, en un texto que se piensa el porvenir del campo. 
 
 
 ![dreamspace-error](img/dreamspace-error.png)
