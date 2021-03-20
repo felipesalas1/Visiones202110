@@ -1,6 +1,6 @@
-## Ejercicio Voyant Tools ##
-<br/>
-Inicialmente, las palabras más comunes fueron _http_, _hipertexto_, _leer_, _información_ y _forma_. <br/><br/>
+**Ejercicio Voyant Tools**
+
+Inicialmente, las palabras más comunes fueron _http_, _hipertexto_, _leer_, _información_ y _forma_. <br/><br/><br/>
 ![flujo](img/flujo.png)
 
 Sin embargo, como se observa en el anterior gráfico de flujo, la palabra hipertexto se encuentra muy brevemente en los artículos 6 y 7, Y completamente ***ausente*** en 3, 4 y 5. Esto me lleva a pensar que, aunque hipertexto para mi proyecto sea una palabra _definitoria_, cuando se estudia transversalmente resulta redundante, pues pareciera que los textos estudiados la omiten no por su poca pertinencia sino por su obviedad: todo texto digital es entonces un _hipertexto_. <br/>
@@ -28,7 +28,7 @@ Asimismo, otra herramienta que iluminó mucho más el corpus fue _Mandala_: <br/
 Este diagrama sí lo manipulé más arbitrariamente puesto que, después de analizar las evidencias que arrojaron los Gráficos de flujo que vimos anteriormente, generé mi propia lista de _palabras clave_ que considero personalmente vale la pena examinar a detalle dentro del corpus.
 
 Revisemos las relaciones de los términos resultantes con los textos: 
-<br/>**1. Hipertexto**
+**1. Hipertexto**
 <br/>![mandala-hipertexto](img/mandala-hipertexto.png)<br/>
 Aquí podemos evidenciar que este término, en efecto, no es transversal a todo el corpus, no es tan importante y, como se dijo anteriormente, se podría obviar. Definir un _hipertexto_ no es el "objetivo" de estos textos. 
 
@@ -48,8 +48,8 @@ Y _web_ en 1 y 5:
 <br/>![mandala-web](img/mandala-web.png) <br/>
 Esta frecuencia de estos términos indicaría que la edición digital se estaría volcando —según los autores— hacia la publicación en línea más que hacia otro tipo de distribución. Personalmente, me atrevería a asegurar que no se ha contemplado otro medio de distribución que no se internet y, tal vez, no otro receptáculo para la publicación digital que una _Web_. Aunque habría que revisar a qué se refiere cada artículo con estos términos, todo parece apuntar a que toda edición digital debe ser publicada _en línea_, y que no se ha concebido un proyecto de edición que no requiera de dicha conexión.
 
-**4. Tableta y ipad**<br/> 
-La frecuencia de esto dos términos llamó mi atención pues iluminó la pregunta ***¿dónde —en qué dispositivo— lee el nuevo lector digital?***, pues, hasta ahora, no habíamos contemplado la dificultad que presenta el _formato_ de lectura, en tanto que este sea "adaptable" a múltiples dispositivos de lectura —y aquí no entraron en discusión las Kindle. 
+**4. tableta y ipad** 
+La frecuencia de esto dos términos llamó mi atención pues iluminó la pregunta **¿dónde —en qué dispositivo— lee el nuevo lector digital?**, pues, hasta ahora, no habíamos contemplado la dificultad que presenta el _formato_ de lectura, en tanto que este sea "adaptable" a múltiples dispositivos de lectura —y aquí no entraron en discusión las Kindle. 
 Ahora, en contraste, parece que, al menos en cuanto a términos concierne, el más popular y utilizado en este corpus fue _tableta_, presente en 57% aprox. del corpus —en 4 de 7 textos:
 <br/>![madala-tableta](img/madala-tableta.png)<br/>
 
@@ -61,7 +61,7 @@ Este último término es sumamente interesante si, una vez más, lo ponemos en c
 <br/>![mandala-tei](img/mandala-tei.png)<br/>
 Como podemos observar, _tei_ se encuentra exclusivamente en los textos 3 y 4, que son _La edición crítica digital de textos teatrales_ y _La edición digital de textos literarios planteamientos y perspectivas de futuro_ respectivamente. Esto ilumina la problemática de ***¿cómo "digitalizar" la literatura?*** específicamente ***el teatro***, ya que se hace referencia a esta herramienta de marcado digital en el único texto del corpus que trata directamente ejemplos de edición digital de teatro —texto 3— y, más aún, en un texto que se piensa el porvenir del campo —texto 4. Esta es una pregunta técnica, pero vital para este proyecto porque uno de sus componentes —como edición de obras completas— es la obra dramática —que Gertrudis Gómez de Avellaneda produjo prolíferamente— y buscamos la mejor _manera_ de "digitalizar" dicha obra.
 
-### Otros apuntes ###
+**Otros apuntes** <br/>
 En cuanto a Voyant Tools, quisiera destacar la herramienta _Dreamscape_, que está en desarrollo aún pero que ofrece un diagrama de posibles "conexiones" sobre un mapa geográfico. Es decir, muestra la "trayectoria geográfica" de los textos, de lo que hablan los textos y sus referencias, localizando las ciudades en el mapa y trazando líneas de "diálogo". Por ejemplo, en el corpus conectó la _Universidad Católica de Pelotas_, en Brasil, con la _Complutense_ de Madrid:
 <br/>![conexión-brasil-españa](img/conexión-brasil-españa.png)<br/>
 
