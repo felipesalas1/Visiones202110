@@ -38,21 +38,42 @@ pedagogy (pedagogía)
 
 #### 4. Categorización de lista de palabras más comunes. Creación de etiquetas. 
 
-dance (danza)
-learning (aprendizaje)
-technology (tecnología)
-research (investigación)
-education (educación)
-online (en línea)
-practice (práctica)
-project (proyecto)
-teaching (enseñanza)
-digital (digital)
-process (proceso)
-student (estudiante)
+A partir del gráfico de mandala que la aplicación visualiza, que muestra las relaciones entre los términos según su frecuencia, se deduce una categorización según las intersecciones más comunes. Estos son los principales términos de búsqueda (términos imanes) que extraen documentos hacia ellos. 
+
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Mandala:categori%CC%81as.png)
+
+Categorías y palabras principales emcarcadas en cada etiqueta:
+
+* **online (en línea)**
+
+* **practice (práctica)**
+
 creative (creativo)
+
+* **project (proyecto)**
+
+student (estudiante)
+
+* **dance (danza)*
+
 technique (técnica)
+
+* **learning (aprendizaje)*
+
+process (proceso)
+
+* **technology (tecnología)*
+
+digital (digital)
+
+* **research (investigación)*
+
 video (video)
+
+* **education (educación)*
+
+teaching (enseñanza)
+
 
 #### 5. Amplicación de búsquedas/ tema de investifación después del análisis. 
 
