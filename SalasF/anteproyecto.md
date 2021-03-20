@@ -17,6 +17,13 @@
 
 Entender el funcionamiento de los algoritmos de recomendación de música, identificar sus sesgos y cómo afectan el descubrimiento de nuevos proyectos musicales. Con la finalidad de usar las APIs de las plataformas de streaming para crear una nueva experiencia para conocer nueva música. 
 
+Comentarios Grupo: 
+- Quizá meter algunos Generos músicales o especificar eso.
+- Revisar cuál es mi fin, es crear la experiencia. primero poner mi experiencia y despues el cómo.
+
+- Relación entre la teoria del algoritmos y la parte practica 
+
+
 ## Lista de productos esperados 
 
 ## Problema

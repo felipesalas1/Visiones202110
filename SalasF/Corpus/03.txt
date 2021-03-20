@@ -1,0 +1,691 @@
+7
+The Esthetics of Hidden Things
+Scott Dexter
+
+‘ ... drawers, chests, wardrobes. What psychology hides behind their
+locks and keys! They bear within themselves a kind of esthetics of hidden things.’ – (Bachelard 1994: xxxvii)
+
+On the slip
+Katherine Hayles observes, ‘Along with the hierarchical nature of codes goes
+a dynamic of concealing and revealing that operates in ways that have no
+parallel in speech and writing’ (2005: 54). Hayles alludes to two examples of
+this dynamic. The first is to the ‘essential practice’ in software engineering
+of ‘conceal[ing] code with which one is not immediately concerned’ (2005:
+54). The second example is, well, more revealing: ‘[R]evealing code when it is
+appropriate or desired also bestows significant advantage. The “reveal code”
+command in HTML documents ... may illuminate the construction and intent
+of the work under study’ (2005: 54). This essay unfolds in the space between
+concealing and revealing limned by these two examples.
+Hayles’ characterisation of revealing code, while generally accurate in its
+implications, itself conceals a double slip which simultaneously defines and
+textures my argument. Hayles first slips among hierarchies and layers of code
+when she locates the command ‘in’ HTML documents. From the perspective of
+someone sitting in front of a computer browsing the Web, it may not be clear
+‘where’ this command is. As I browse, using Firefox version 3.6.12 for Ubuntu,
+I find this command available both in the browser’s ‘Edit’ menu and in the
+menu which appears when I right-click in a displayed HTML document; the
+command is also executed when I use the control-u key combination. Is the
+command ‘in’ the document? Authors of HTML documents need not expend
+any extra effort to put this command ‘in’ their documents: their concern –
+their place in the hierarchy – is exclusively the content, structure, and behaviour of the document as it will be rendered by a browser application. HTML
+127
+
+D. M. Berry (ed.), Understanding Digital Humanities
+© Palgrave Macmillan, a division of Macmillan Publishers Limited 2012
+
+128 Scott Dexter
+
+authors know that these browser applications provide the dual functionality
+of displaying an HTML page in a more or less legible manner and also, if the
+reader wishes, of providing the HTML ‘source’. Is the command ‘in’ the document? It would appear not.
+But yet ... Hayles knows that, ‘One of the advantages of object-oriented languages is bundling code within an object so that the object becomes a moreor-less autonomous unit’ (2005: 54). That is, object-oriented programming
+(of which more below) relies heavily on the metaphor of an ‘object’, which,
+roughly, is a collection of data and operations on that data which have been so
+closely associated (through particular syntactic strategies) as to be understood
+as a single entity. Firefox itself is written with a number of programming languages; two of the most heavily used (according to SfR Fresh 2010), C++ and
+Java, are object-oriented. From the perspective (layer) of Firefox programmers,
+the Firefox code represents an HTML document as an ‘object’, and with this
+document object is bundled the Firefox code responsible for displaying the
+HTML source. Is the command ‘in’ the document? From the Firefox programmer’s perspective, yes. Thus Hayles has slipped an observation from the programmer’s layer into a description of experience at the user’s layer.
+Hayles also slips, simultaneously, among the ever-lubricated layers and hierarchies of desire. For in fact the command in question is not ‘reveal codes’
+but ‘view source’. (The phrase ‘reveal codes’ is more closely associated with
+the WordPerfect word processor, beloved by many of its users largely because
+of this feature, which shows exactly how WordPerfect’s formatting codes are
+interpolated among the text and allows them to be moved, deleted, and even
+themselves edited; see Acklen 2010.) This slip is an easy one to make, isn’t
+it? We believe computers to be full of mysteries which might be revealed, if
+our desire for revelation is appropriate. We approach them as supplicants, preferring to request (do we truly believe we have the authority to ‘command’?)
+revelation rather than to assert our right to view the source. Why? An accounting of the ‘reveal code’ dynamic may be part of what Matthew Fuller calls on
+‘speculative software’ to do: ‘What characterises speculative work in software
+is, first, the ability to operate reflexively upon itself and the condition of being
+software – to go where it is not supposed to go, to look behind the blip; to make
+visible the dynamics, structures, regimes, and drives of each of the little events
+which it connects to’ (Fuller 2003: 32). Yet, as I aim to show, that which software purports to hide – that which it therefore might be compelled to make
+visible – is rarely what is actually hidden, is often already visible. To posit the
+existence of an arena where software is not supposed to go but which contains
+answers to questions which might be reflexively asked by software itself is to
+cede much ground indeed, to further mystify. This slip, these layers of desire
+for mystery, for open secrets, for the yielding of authority, are the primary generators of the esthetic of the hidden which suffuses modern computing.
+
+The Esthetics of Hidden Things 129
+
+As Rebecca Schneider reminds us, such slips are familiar and fertile ground
+for scholarship: ‘Blind spots and slips of the tongue have long been granted an
+important role in excavating meaning’ (Schneider 2006: 255). What Hayles slip
+reveals, I suggest, is that we need the workings of the computer to be hidden
+from us. In particular, we need the peculiarly human imperatives of the computer to be hidden. The signal defining characteristic of the modern computing device is that its hardware provides very little constraint on what it will do.
+Most of those constraints are provided instead by code produced by extremely
+fallible humans – this structure is exactly why ethicist James Moor characterises computers as ‘malleable’, and loads much ethical complexity onto that
+term. Yet most accounts of the limits – and potentials – of computing deny,
+more or less vociferously, the role of the embodied human in realising these
+limits and potentials.
+In order to begin to retrieve this role of the human, in this essay I consider
+three intersecting arcs of theoretical and technological development within
+the history of computer science: Alan Turing’s formulation, in the mid-1930s,
+of a theoretical model of a computing machine; the mechanisation of memory; and the rise of object-oriented programming. Each of these trajectories
+is marked both by a particular tension between the human and the machine
+and by a particular formation of the ‘reveal code’ dynamic. To study code is,
+indeed, to study layers, hierarchies, and the slippery meanings they imperfectly conceal and reveal. Through these interweaving developments I aim to
+illuminate something of the development of the ‘reveal code’ dynamic, examining the ways in which ‘layers’ in code structure and are structured by an
+esthetic of the hidden which inflects not only how we think about computation but what we are not able to think.
+
+Abstracting the human
+A few years ago, when very little had been heard of digital computers, it was possible to elicit much incredulity concerning them, if one mentioned their properties
+without describing their construction. (Turing 1950: 448)
+In 1937 British mathematician Alan Turing published a fundamental result
+about the limitations of computation, several years before the creation of computing machines with the basic characteristics we today associate with computers (Turing 1937). While this result alone would have been enough to secure
+Turing’s scholarly reputation, his career saw him making similarly significant
+contributions both to the British war effort by developing techniques for
+decrypting German communications and to the early development of modern
+electrical computers. He committed suicide at the age of 42, a year after concluding a year-long course of estrogen therapy which had been administered
+
+130 Scott Dexter
+
+being after he had been found guilty of ‘gross indecency with a male person’
+(Hodges 1983).
+The argument in Turing’s 1937 paper relied on his development of an abstract
+notion of a computing machine. Turing had at his disposal a number of concrete models of machinic computation from which he could have abstracted,
+as the idea of mechanical computation already had a rich European history
+(see Goldstine [1992] for one treatment of the European history of mechanical computing from circa 1600). Yet he chose to abstract not from the various
+techniques of computation instantiated in these various machines, but rather
+from another well-developed scientific practice, that of human computation.
+As documented in David Alan Grier’s When Computers Were Human, the term
+‘computer’ designated someone who was employed to carry out mathematical computations from as early as 1765, when the British Admiralty funded
+Nevil Maskelyne to produce a celestial almanac using a staff of five computers (Grier 2005: 29). The practice continued and evolved, variously employing
+unemployed hairdressers, adolescent boys, women who had graduated college
+with mathematics degrees, and, near the end, when modern electromechanical computers were rendering human computing offices obsolete, shortly
+after World War II, ‘the dispossessed ... those who lacked the financial or social
+standing to pursue a scientific career. ... Women ... , African Americans, Jews,
+the Irish, the handicapped, and the merely poor’ (Grier 2005: 277).
+In the process of developing his abstract computing machine, Turing guides
+the reader through a remarkably detailed analysis of the activity of a human
+computer. He begins by grounding the notion of machinic computation in
+the limits of human capacity: ‘We have said that the computable numbers
+are those whose decimals are calculable by finite means. This requires rather
+more explicit definition. ... For the present I shall only say that the justification lies in the fact that the human memory is necessarily limited. We may
+compare a man in the process of computing a real number to a machine
+which is only capable of a finite number of conditions’ (Turing 1937: 231).
+This limitation of human memory is overcome, in the case of the human
+computer, by using writing to augment and stabilise what is remembered:
+‘Some of the symbols written down will form the sequence of figures which
+is the decimal of the real number which is being computed. The others are
+just rough notes to “assist the memory” ’ (Turing 1937: 231–2). Thus the bulk
+of what is written in the course of a complex calculation, Turing emphasises,
+are disposable intermediate figures which only need be written because of the
+fallibility of human memory. As Jacques Le Goff has observed, this connection between calculation and memory was sedimented in European scientific
+practice as early as the seventeenth century, when ‘[t]he arithmetical machine
+invented by Pascal ... added to the faculty of memory a calculative faculty’ (Le
+Goff 1992: 91).
+
+The Esthetics of Hidden Things 131
+
+Turing completed his model of computation by observing, and then mechanising, the human process of computation: ‘The behaviour of the [human]
+computer at any moment is determined by the symbols which he is observing, and his “state of mind” at that moment. ... Let us imagine the operations
+performed by the computer to be split up into “simple operations” which
+are so elementary that it is not easy to imagine them further divided. ... We
+may now construct a machine to do the work of this computer’ (Turing 1937:
+249–51).
+Through his contributions to the war effort, Turing would become involved
+in designing and constructing some of the earliest electrical computing
+machines, machines which were to obscure the human roots of computation
+both through the Taylorist abstractions inherent in their design and through
+the eventual engineering of machine components which realised the potential
+for mechanisation to exceed some limits of human cognitive capacity.
+Several years later, in a paper arguably as influential as his 1937 work on
+the limits of computation, Turing made another gesture towards what, and
+why, computation might conceal (Turing 1950). In this piece Turing adopts a
+nearly conversational tone to present some ideas on the question of whether
+machines might ever be said to think. In his opening gambit, Turing describes
+a parlour game in which an interrogator is trying to guess the genders of two
+contestants, a man and a woman, based solely on the nature of their responses
+to questions. Turing then presents a slightly more fanciful reformulation of
+this game in which the man/woman binary is replaced by the man/machine
+binary, and the question becomes whether the machine can fool the interrogator into believing the machine is human (if so, we would say that the machine
+has ‘passed the Turing Test’). Of course concealment is a necessary part of the
+game, as Turing well recognised: ‘The form in which we have set the problem
+reflects the ... condition which prevents the interrogator from seeing or touching the other competitor, or hearing their voices’ (Turing 1950: 434). Indeed, the
+specific technique for so preventing the interrogator from having such bodily
+knowledge is that ‘the answers should be written, or better still, typewritten.
+The ideal arrangement is to have a teleprinter communicating between the two
+rooms’ (1950: 434). As Tyler Curtain observes, this concealment, this ‘neat disarticulation of physical indications of gender from the conditions of judgment
+about “intelligence” ’ has the ultimate effect of ‘reseating gender firmly within
+“intelligence” itself’ as gender, being made invisible through the mechanism
+of the test, instead becomes part of the ‘world knowledge’ any intelligent being
+should have (Curtain 1997: 142).
+Thus, what began, in Turing’s writings, as a mechanised simplification
+of the behaviours of human calculation has become a process by which, it
+is conceivable, all manner of human behaviours may be emulated. Yet, as
+Curtain suggests, in the act of assessing the verisimilitude of these emulations,
+
+132
+
+Scott Dexter
+
+we necessarily slip as we inject a layer between the behaviours we consider suitable for emulation and the qualities of human-ness by which they are judged.
+
+Memory and security
+Memory is the storehouse and guardian of all things. (Cicero, De Oratore I, 5)
+Turing’s treatment of machine computation is by no means the first effort
+(however abstract) to overcome the limits of human cognition, most especially
+memory. Indeed, much of the technicisation of information has been aimed at
+overcoming perceived limitations of human memory and its related faculties.
+One set of limitations, of course, consists of those attached to human fallibility:
+capacity, accuracy and speed with information is both ‘stored’ and ‘recalled’. As
+beautifully documented in Yates’ The Art of Memory (1966), these were prime
+concerns of scholars through the medieval and Renaissance eras. A more interesting limitation is the individuality of human memory; as Jacques Le Goff points
+out, ‘outside of writing mnesic activity is constant not only in societies without
+writing, but also in those that have it’ (Le Goff 1992: 55). That is, the dynamic
+connection between individual memory and collective memory must always
+be tended to. Writing and subsequent technologies have both eased this connection and also made new problems manifest. For example, as Leroi-Gourhan
+observes, the revolution of the printing press can be understood as a revolution in memory: ‘Readers not only obtained access to an enormous collective
+memory whose entire contents they could not possible register but were also
+frequently confronted with new material. A process of the exteriorisation of the
+individual memory then began to take place’ (Leroi-Gourhan 1993: 261).
+The individuality of memory is likely the root of the ancient and pervasive
+metaphor of information storage. While what we term ‘information’ has always
+been understood as ineffable, it has also been understood as something which
+may be stored – and, more specifically, hidden – through techniques and technologies of memory. As Caesar observed in his account of the Druids in Gaul,
+the difference in value and utility between writing and memory can be discerned by considering the problem of keeping secrets: while written language
+was understood to be superior for some purposes, human memory is one of the
+best repositories for the storage of secrets.
+[The Druids] believe that religion forbids these courses to be written down,
+whereas for almost everything else, both public and private accounts, they
+use the Greek alphabet. They seem to me to have established this custom
+for two reasons: because they do not wish to divulge their doctrine, or to
+see their pupils neglect their memory by relying on writing. (Caesar, Gallic
+Wars, VI, 14, quoted in Le Goff 1992: 57)
+
+The Esthetics of Hidden Things 133
+
+In this ancient account, writing was problematic in some applications because
+it held the potential to expose secrets too broadly; yet in Turing’s parlour
+games, writing – that is, the intervention of a ‘teleprinter’ between interrogator
+and contestants – is used to hide the secret ‘identity’ of the contestants. As we
+will see, modern technologies of memory substantially conflate the operations
+of writing and memory, generating multiple layers of anxiety about revelation
+and concealment.
+The storehouse metaphor of memory is not without its critics, of course.
+Thomas Reid, criticising Locke’s adaptation of the storehouse metaphor in
+Essay II.x. 1–2, observed,
+The analogy between memory and a repository ... is obvious and is to be
+found in all languages, it being very natural to express the operations of the
+mind by images taken from things material. But in philosophy we ought
+to ... view [the mind’s operations] naked. When therefore memory is said
+to be a repository or store-house of ideas where they are laid up when not
+perceived and again brought forth when they are needed, I take this to be
+popular and rhetorical and figurative. For [Locke] tells us that when they are
+not perceived they are nothing and no where, and therefore can neither be
+laid up in a repository, nor drawn out of it. (Reid 1969: 368–9)
+Nonetheless, as information technologies advanced throughout the nineteenth
+century, the metaphor of storage persisted, so that Charles Babbage was able,
+without any apparent hesitation, to describe his Analytical Engine as being
+comprised of
+[a] Store ... considered as the place of deposit in which the numbers and
+quantities given by the ... question are originally placed, in which all the
+intermediate results are provisionally preserved and in which at the termination all the required results are found. (Babbage 1837/1982: 23)
+and a ‘Mill in which all operations are performed’ (Babbage 1837/1982: 19).
+As actual computing machines were designed and enhanced after World War II,
+the dual metaphors of information storage and computer memory as analogue
+of human memory deepened and further entangled. John von Neumann, writing about the first ‘stored program’ computer (the EDVAC), described the utility
+of storing programs by observing, ‘The instructions which govern a complicated problem may constitute a considerable material. ... This material must
+be remembered’ (von Neumann, 1945/1982, p. 383). Further, describing the
+computing mechanism of the EDVAC as a whole, von Neumann noted, ‘The
+[central arithmetic unit, central control, and memory] correspond to the associative neurons in the human nervous system’ (von Neumann 1945/1982: 384).
+
+134
+
+Scott Dexter
+
+But in fact the mechanisation and successive miniaturisation of memory has
+rendered any perceived correspondence between machine memory and human
+memory fallacious. As discussed above, the dual role of human memory as
+protector of secrets and as source of individuation (to some extent, our selfunderstanding as individuals depends on the uniqueness and privacy of our
+memories) has long been understood. Mechanical memory, while improving
+on some limits of human memory, was not designed to guard secrets.
+In Turing’s abstract computing machine, ‘memory’ is conceived of as ‘a “tape”
+(the analogue of paper) running through it, and divided into sections (called
+“squares”) each capable of bearing a “symbol”. At any moment there is just one
+square ... which is “in the machine”.’ (Turing 1937: 231).1 The rest of the squares
+are, in principle, open to inspection and even alteration by entities outside the
+machine; indeed, in a subsequent paper (Turing 1939), Turing developed the
+notion of a kind of hypercomputation in which his machines were aided by an
+‘oracle’ which was capable of instantaneously computing a function and writing the result on the tape.
+Turing’s notion of memory as a nominally linear collection of ‘squares’ which
+contain ‘symbols’ continues in heavy use, especially in pedagogical contexts.
+The ‘Guide to Using Memory Diagrams’ by Holliday and Luginbuhl (2004) is
+representative: in a 14-page document, the authors develop and explain a particular system for visualising, in an abstract yet rigorous way, the contents of
+memory at any point in the execution of a Java program. In this system, as is
+common, variables – the software analogue to material memory, where values
+are ‘stored’ and later retrieved – are represented by rectangles; the interior may
+contain a value (just as Turing’s squares may bear symbols), and the exterior
+may sport labelling information such as the type of value expected to be stored
+(a character, or an integer, etc.). These snapshot-diagrams can be concatenated
+to form a ‘memory evolution diagram’ which may trace, explain, or document
+the operations of a program.
+Such diagrams entail a complex of claims about the properties of computer
+memory amounting to a kind of theory of semi-permeability: memory compartments are passively transparent, most especially to the programmer but
+also to the program itself, yet the contents of these compartments shall only
+change when the program’s instructions decree. But, as I outline below, mechanical memory lives up to none of these expectations.
+Any materialisation of memory is certainly more volatile than Turing’s
+abstraction; indeed, as the pioneering designers of computing machines realised, any physical system, such as ‘storing electrical charges on a dielectric
+plate inside a cathode-ray tube’ or ‘acoustic feed-back delay lines’ (Burks et al.
+1947/1982: 403), will be inherently unreliable. John von Neumann expressed
+exactly these concerns regarding the design of the EDVAC: ‘Malfunctioning of
+any device has ... always a finite probability – and for a complicated device and
+
+The Esthetics of Hidden Things 135
+
+a long sequence of operations it may not be possible to keep this probability
+negligible’ (von Neumann 1945/1982: 383).
+Modern DRAM (dynamic random access memory) technology is no exception
+to von Neumann’s observation; it is remarkably sensitive to a variety of errorinducing conditions. According to a 2009 study, the likelihood of an ‘event
+that leads to the logical state of one or multiple bits being read differently from
+how they were last written’ (Schroeder 2009) is high enough to make memory
+hardware equipped with ‘error correcting codes ... crucial for reducing the large
+number of memory errors to a manageable number of uncorrectable errors’.
+Specifically, the study observes that computing installations which contain a
+large number of memory modules are so vulnerable to uncorrectable memory
+errors (the study reports a 0.22 per cent annual error rate per module) that additional protection mechanisms must be written into the software running on
+these computers. For example, a ‘crash-tolerant application layer [is] indispensable for large-scale server farms’ (Schroeder 2009).
+If the contents of memory change ‘unexpectedly’, it is rare for cosmic rays to
+be named explicitly as the culprit; most computing practitioners are rather more
+inclined to blame some kind of error elsewhere in the system. Nonetheless, the
+casual assumption that each program, like an individual human, has an allocation of memory which it ‘owns’ and controls exclusively is, while completely
+wrong in many important respects, deeply pervasive to the point of being
+arguably the single largest source of software ‘security’ problems. As I show
+below, much effort has been expended in a quest to graft onto computer memory those desirable characteristics of human memory which were overlooked
+in the early quest for reliability, capacity, and speed of access. It is this quest to
+retrofit computer memory with these implicit desiderata which spawned many
+of the earliest (and deepest) layers underwriting the reveal code dynamic.
+The idea of ‘hiding’ as an engineering strategy emerged in the computing
+world as both the growing complexity of computing tasks and the increasing
+heterogeneity of computer programmers and users put pressure on the transparent, permeable qualities of computer memory. In one influential presentation,
+Butler Lampson described the design of an operating system, Cal-TSS, which,
+in 1971, was one of the first to take on the challenge of augmenting computer
+memory. Lampson did not use the term ‘hiding’ in this paper, emphasising
+‘protection’ instead, but the crucial role of hiding, in a very particular sense
+of the term, emerges clearly. Lampson begins by acknowledging the growing
+pressures: ‘A considerable amount of bitter experience in the design of operating systems has been accumulated in the last few years, both by the designers
+of the systems which are currently in use and by those who have been forced to
+use them’ (Lampson 1971: 423). The ‘radical changes’ which Lampson discusses
+are focused around ‘a very powerful and general protection mechanism’. This
+mechanism is based on two ideas. The first is that ‘an operating system should
+
+136
+
+Scott Dexter
+
+be constructed in layers’, where the purpose of the lower layers is to re-present
+the ‘bare machine provided by the hardware manufacturer’ as a collection of
+‘user machines’ which are allowed to make use of the computer’s resources ‘in
+a controlled manner’ (Lampson 1971: 423). The second idea is what Lampson
+calls ‘enforced modularity ... [in which] interactions between layers or modules
+can be forced to take place through defined paths only’. In particular, the system is designed so that ‘no possible action of a higher layer, whether accidental
+or malicious, can affect the functioning of a lower one’ (Lampson 1971: 424).
+The specifics of the implementation of this system are not directly significant; what we have is a system which aims to allocate memory and other system
+resources to individual computational processes, enforcing this individuation
+through a programmed layering which both conceals the ‘bare machine’ and
+simultaneously blocks any process’s effort to see or manipulate either the lower
+layers or another process’s designated resources on the same layer. Of course,
+while this individuation is naturally occurring in human cognition, in the case
+of the computer it requires using ‘powerful protection’ and ‘enforced interactions’ to guard the vulnerability of the ‘bare machine’. While Lampson acknowledges the possibility of ‘malicious’ action, there is little evidence that computing
+installations of the 1960s experienced security problems in the modern sense of
+the term. It is more likely that the system was designed to protect against ‘accidental’ action, as Cal-TSS was an early example of a ‘time-sharing’ system, able
+to serve up to 26 users (who also shared memory!) simultaneously.
+A few years later, the Cambridge CAP computer sported many of these features in refined form. The system aimed to provide very tight control over
+how memory was accessed and utilised: ‘The intention is that each module of
+program which is executed on the CAP shall have access to exactly and only
+that data which are required for correct functioning of the program. Access to
+a particular area of memory should never imply access to any other.’ Further,
+computational processes were organised into an explicit hierarchy of privilege:
+‘The CAP also supports a hierarchical structure of processes, of such a nature
+that the position of a process in the hierarchy determines the resources available to it’ (Needham and Walker 1977: 1).
+At roughly the same time, a general notion of ‘information hiding’ as a
+programming practice was being developed and articulated by David Parnas,
+whose 1972 paper gave the first published use of the term ‘information hiding’. As Parnas notes, ‘The flowchart was a useful abstraction for systems with
+on the order of 5,000–10,000 instructions, but as we move beyond that it does
+not appear to be sufficient; something additional is needed’ (p. 1056). Instead,
+Parnas proposes designing programs in such a way that each module ‘is characterized by its knowledge of a design decision which it hides from all others.
+Its interface or definition [is] chosen to reveal as little as possible about its inner
+workings’ (Parnas 1972: 1056). Again, the motivating factor is that the simple
+
+The Esthetics of Hidden Things 137
+
+models in place in the earliest days of computing seemed to be succumbing to
+demands of increased heterogeneity and complexity.
+Parnas enumerates the virtues of his mode of program design and decomposition as improved ‘changeability’, ‘independent development’, and ‘comprehensibility’, while Lampson and Needham and Walker emphasise the ‘flexibility’
+and ‘reliability’ of a system based on protection and layering. Thus, the first
+efforts to implement ‘hiding’, which also manifested as ‘protection’ and, soon,
+‘security’, amounted to strategies for implementing a kind of individuation in
+which the human capacity to hide knowledge from all others was simulated by
+layers of software on top of a fundamentally transparent memory.
+Although it may seem that systems designers of the 1970s had solved this
+problem of transparent memory, it continues to be at the core of our contemporary understanding of computer and software security. As the authors of
+Building Secure Software, one of the first compendia of tools and techniques,
+assert, ‘Behind every computer security problem and malicious attack lies a
+common enemy – bad software’ (Viega and McGraw 2002: 1). While Viega and
+McGraw successfully demonstrate that software may contain an astonishing
+variety of faulty assumptions about software’s users and environments, it turns
+out that ultimately what ‘software security’ is trying to prevent is the appearance in memory of data which has either been manipulated by a program
+other than the one who ‘owns’ that of memory, or which has properties other
+than the ones anticipated by the programmer.
+Viega and McGraw detail many subtle mechanisms by which an attacker could
+gain access to and privileges on a computer, but the two most common, and
+most fundamental, mechanisms rely on being permitted to insert unexpected
+data (typically, code masquerading as data) in unexpected memory locations.
+The first is when data is transferred into memory from an input source: ‘[Some]
+security vulnerabilities boil down to bad assumptions about trust. Usually, trust
+problems manifest when taking input of any sort. This is mostly because it is
+often possible to craft malicious input to have deleterious side effects’ (Viega
+and Mcgraw 2002: 308). The second is known as a ‘buffer overflow’; in this
+scenario, a designated storage area in memory (a ‘buffer’) is made to hold more
+data than it has capacity to store, with the result that the overflow is written
+into adjacent memory locations. Even though this overflow memory space is
+‘owned’ by the same process which owns the buffer, it is relatively straightforward to use this overflow condition to gain extra/illicit system privileges.2
+Much of the layering which characterises modern computing, then, arises
+from the yet-unsolved problems of memory. As I will show below, as these layers
+continue to deepen with the introduction of more expressive, metaphor-driven
+programming languages, and as these languages debut new strategies to simulate memory which is ‘private’, exclusively owned and controlled by one ‘individual’, the urge to treat machine calculations anthropomorphically also rises.
+
+138 Scott Dexter
+
+Towards autonomous objects
+Instead of a bit-grinding processor raping and plundering data structures, we have
+a universe of well-behaved objects that courteously ask each other to carry out their
+various desires. (Ingalls, 1981)
+At present, the dominant metaphor for software development is object-oriented
+programming (OOP). This metaphor is dually grounded in technical considerations of programming security and effectiveness and in claims about human
+cognition. Dan Ingalls, one of the core designers of the early object-oriented
+language Smalltalk, suggests that the object metaphor is based on a fundamental cognitive operation:
+The mind observes a vast universe of experience, both immediate and
+recorded. ... [I]f one wishes to participate, literally to take a part, in the universe, one must draw distinctions. In so doing one identifies an object in the
+universe, and simultaneously all the rest becomes not-that-object. ... [W]e
+can associate a unique identifier with an object and, from that time on, only
+the mention of that identifier is necessary to refer to the original object.
+(Ingalls 1981)
+While the designers of Smalltalk were strongly motivated by recent developments in the understanding of human cognition (for example, they paid close
+attention to the work of Piaget, Papert, and Montessori), they were equally
+motivated by technical challenges, especially those arising from increasing
+complexity. As Alan Kay, one of the lead developers, explains, they were motivated to ‘qualitatively improve the efficiency of modeling ... ever more complex
+dynamic systems’, in particular to ‘find a better module scheme for complex
+systems involving hiding of details’ (Kay 1993: 3–4).
+The metaphor of ‘object’ was introduced with the 1967 version of the programming language Simula. In an autobiographical reflection on the development of
+Simula, Ole-Johan Dahl, one of its two designers, notes that, ‘The most important new concept of Simula 67 is surely the idea of data structures with associated
+operators ... called objects. ... Clearly, in order to enforce the use of abstract object
+views, read access to variable attributes would also have to be prevented’ (Dahl
+2004: 7). The object metaphor, then, offers an explicit structure for determining
+which parts of memory should be hidden; sustaining the object metaphor requires
+a high degree of abstraction away from the open memory of the bare machine, so
+the programming language must offer mechanisms for preventing the ‘variable
+attributes’ (i.e. the data) of an object from being read by other objects.
+This mechanism was initially only an aspiration: ‘A main aspect of security’
+was the intention that the language would allow programmers to design objects
+
+The Esthetics of Hidden Things 139
+
+specifying which data elements would be ‘invisible’ to other objects except
+through programmer-defined means; these specifications were to be enforced
+when the program was translated (compiled) into executable form, with the
+translator refusing to complete its work if any of the Simula code attempted
+to transgress the programmer-specified object boundaries. For example, ‘In
+a model containing “customers” and “clerks” the active agent would need
+access to its own data as well as those of [a “customer” object] during “service” ’
+(Nygaard and Dahl 1981: 448–9). The nature of this concern about security is
+much more about enforcing the metaphor of the individual than about reining
+in rogue programmers. Indeed, it is foolish to deploy the information-hiding
+mechanisms of object-oriented languages towards achieving protection against
+malicious agents; while a translated program will respect information-hiding
+boundaries, knowledgeable and motivated programmers could in many cases
+‘link in’ other, less well-behaved translated code and circumvent the compiler’s
+checks (Viega & McGraw 2002: 53).
+In Smalltalk, which was influenced in its early stages both by the design of
+Simula and by the work of Butler Lampson and David Parnas cited above, the
+idea of ‘hiding’ is purified to such an extent that it needs not be made explicit:
+‘The last thing you wanted any programmer to do is mess with internal state even
+if presented figuratively’ (Kay 1993: 25). In Smalltalk, computation is refigured
+as a recursive conversation among message-passing objects. These objects are
+‘ “shiny” and impervious to attack’ (Kay: 20) – nothing about their internal condition is available to other objects, friend or foe, in the computational system.
+This anthropomorphic view of programs and computation is one of the most
+remarkable characteristics of object-oriented programming. Rather than viewing a computational process as a sequence of calculational steps, in which a
+faint echo of the original human computers may be heard, the object-oriented
+metaphor posits a model of computation in which objects compute by actively –
+nearly autonomously – passing messages among themselves. This understanding of computation effectively amounts to a vision of a new social order within
+computation of ‘well-behaved’, even ‘courteous’, objects which act from their
+‘desires’. As a result of the Smalltalk design process, the vulnerability of the bare
+machine has finally been completely cocooned, it would seem, by a technological evolution which comes closest yet to providing human-like individuation among a community of computing and communicating processes.
+While the 1967 version of Simula was the first language to implement the concept of ‘object’, the designers’ aspirations for security did not explicitly develop
+into a proto-anthropomorphic perspective until several years later. In Dahl’s
+account, ‘There is an important difference, except in trivial cases, between the
+inside view of an object, understood in terms of local variables ... and implemented procedures operating on the variables ... , and the outside view. This
+difference ... underlies much of our program designs from an early time on,
+
+140
+
+Scott Dexter
+
+although not usually conscious and certainly not explicitly formulated [until
+several years later]’ (Dahl 2004: 7). Based on this explicit formulation, subsequent versions of Simula compiler included keywords ‘hidden’ and ‘protected’
+which could be used by the programmer to indicate that selected attributes
+could not be accessed by other objects.
+OOP’s anthropomorphic perspective may also arise from its roots in simulation, as Simula was from its very early stages intended to study, through simulation, various systems and processes involving humans: ‘the basic concepts of
+SIMULA [in 1963] were: (1) A system, consisting of a finite and fixed number of
+active components named stations, and a finite, but possibly variable number of
+passive components named customers’ (Nygaard and Dahl 1981: 443).3
+Nygaard and Dahl (the co-designers of Simula) provide some example code
+from this early phase of Simula’s development, showing the manner in which
+an air passenger is abstracted into a passive ‘customer’ component which consumes a random amount of time at the service counter before being sent on
+either to passport control or payment:
+system Airport Departure := arrivals, counter, fee collector, control, lobby;
+customer passenger (fee paid) [500]; Boolean fee paid;
+station counter;
+begin accept (passenger) select:
+(first) if none: (exit);
+hold (normal (2, 0.2));
+route (passenger) to:
+(if fee paid then control else fee collector)
+end;
+station fee collector, etc.
+The analogy between the object-based model of computation and a sort of social
+order deepened with Bjarne Stroustrup’s development of the language C++, which
+drew on some ideas developed in Simula and, more importantly, on Stroustrup’s
+experiences with the Cambridge CAP computer. ‘The notions of protection from
+the Cambridge CAP computer and similar systems – rather than any work in programming languages – inspired the C++ protection mechanisms. ... By default,
+all information is private. Access is granted by declaring a function in the public
+part of a ... declaration, or by specifying a function ... as a friend’ (Stroustrup 1993:
+14; emphasis added). With C++, objects are graced with a potential social life
+rivalling that of the most hardened computer programmer.
+Thus, the reveal/conceal dynamic of code traverses a number of related
+binaries – hidden/shown, inside/outside, and, ultimately, public/private – as
+various imperatives provoked their creation. Lamport, and then Stroustrup,
+
+The Esthetics of Hidden Things 141
+
+needed to protect the machine from processes which violated the crude individuality marked out in the allocation of memory. For Nygaard and Dahl,
+the tacit recognition of inside/outside yielded an explicit formulation of ‘hidden’ only after a mathematical abstraction – paralleling Turing’s original
+abstraction – made clear the nature of the boundary. And in Smalltalk, the
+emphasis, deriving from both Lamport and from Parnas’s characterisation of
+the utility to programmers of ‘information hiding’, is on highly abstract communicating objects whose organisation approaches the social. Within each of
+these binaries is another: the tension between denying and yearning towards
+the human.
+
+On the slip
+There will always be more things in a closed, than in an open, box. To verify
+images kills them, and it is always more enriching to imagine than to experience.
+The action of the secret passes continually from the hider of things to the hider of
+self. (Bachelard 1994: 88)
+If we’re lucky, the slip itself may slip from being a momentary enquiry to a
+mode of enquiry: ‘certain moments in our collective thinking have encouraged
+us to lean toward a rigor that utilizes the slip, a scholarship not only of the slip
+but on the slip, one that emulates as well as excavates the slip for the ways of
+knowing a slip might allow’ (Schneider 2006: 255). Hayles expresses concern
+that ‘[t]he ‘reveal code’ dynamic helps to create expectations ... in which ... layered hierarchical structure ... reinforces and is reinforced by the worldview of
+computation’ (2005: 55). But a richer ‘reveal code dynamic’ might become
+available if we move onto the slip. The meaning of code – that code even has
+meaning – is far from clear: does it not need to interact, as it executes, with
+humans, or at least data? The view that, ‘Finally, a computer program only has
+one meaning: what it does. ... Its entire meaning is its function’ (Rosenberger
+1997), as articulated by programmer Ellen Ullman, is widely shared by programmers and other scholars. Can the static text of a program, ultimately just
+a bunch of instructions which might not even qualify as ‘text’, as it sits awaiting its apotheosis as executing program, have anything meaningful to tell
+us? Such a question risks opening up ‘something diffuse, something slippery,
+something akin to ... hollowness, lack, excess, misfiring, error, or even void’
+(Schneider 2006: 255).
+Actually hiding things in software is hard: this is such a fundamental truth,
+at least from a technical perspective, that Viega and McGraw enshrine it as
+‘Principle 8: Remember That Hiding Secrets Is Hard’ (2002: 109). Even the tactic of hiding secrets in the pure binary of machine code is doomed to failure,
+as ‘it is very easy to acquire and use reverse-engineering tools that can turn
+
+142
+
+Scott Dexter
+
+standard machine code into something much easier to digest ... enough effort
+can reveal any secret you try to hide in your code’ (2002: 73).
+This, then, is part of the esthetics of the hidden which structures code: to
+call something ‘hidden’, either in the imperative mode of code or in the prescriptive mode of engineering practice, is not to hide but to make some other
+mark. This kind of hiding is not a vertical tactic but a horizontal one; to be
+hidden-from is to be adjacent-to. Objects may assert their privacy, but to programmers they are still but bare machines – or, at the level of machine code,
+boundaries between objects dissolve into collective memory. To hide is to stratify through (imperfect) individuation.
+Yet, of course, something is hidden. Looking ‘downward’ these layers conceal little perhaps. The keyword ‘hidden’ is used not only in the (now somewhat archaic) Simula language, but also in the (less archaic) Common Gateway
+Interface (CGI) for allowing webservers to delegate webpage generation to other
+applications. Webpages which pass data to a CGI application may contain fields
+designated as ‘hidden’. But ‘hidden fields are not meant for security (since anyone can see them), but just for passing session information to and from forms
+transparently’ (Guelich et al. 2000). The hidden is transparent. But looking
+upward is inconceivable: this is another part of the esthetics of the hidden. The
+one who says to hide is hidden; ‘hidden’ denies the one who can see.
+Ghosting this essay, hidden to a greater or lesser extent, is Eve Kosofsky
+Sedgwick, who exhorts us to move beyond fundamentally paranoid reading
+practices: ‘[I]t is possible that the very productive critical habits embodied in
+what Paul Ricoeur memorably called the “hermeneutics of suspicion” ... may
+have made it less rather than more possible to unpack the local, contingent
+relations between any given piece of knowledge and its narrative/epistemological entailments for the seeker, knower, or teller’ (Sedgwick 1997: 4). This
+hermeneutics demonstrates a strong affinity for guile, concealment, mystification, for code: ‘the fundamental category of consciousness is the relation
+hidden-shown ... the distinguishing characteristic ... is the general hypothesis concerning both the process of false consciousness and the method of
+deciphering’ (Ricoeur 34–5, qtd in Sedgwick, 1997, p. 5). The relation hidden-shown is an enormously unstable one when it comes to code, though it
+nonetheless contains remarkable psychological power to inhibit the unpacking
+of relations between code and its entailments for anyone who seeks it. When
+we acknowledge the open secrets of code, we find, I suspect, something very
+queer indeed.
+
+Acknowledgements
+I am grateful for the interlocution, and other constructive interventions, of
+Karl Steel, Mobina Hashmi, Federica Frabetti, and Amy E. Hughes.
+
+The Esthetics of Hidden Things 143
+
+Notes
+1. As Turing goes on to point out, the machine’s memory also inheres, to some extent,
+in its current state: ‘The “scanned symbol” is the only one of which the machine
+is, so to speak, “directly aware”. However, by altering its [state] the machine can
+effectively remember some of the symbols which it has “seen” (scanned) previously.’
+(Turing 1937: 231). My focus here, though, is ‘recorded’ memory.
+2. Since the publication of Viega and McGraw’s book, other types of security flaws
+based on memory vulnerabilities have come to light. For example, in 2007, Jonathan
+Afek and Adi Sharabani produced the first public account (Afek and Sharabani 2007)
+of a ‘dangling pointer’ bug which could be used to attack the Microsoft IIS webserver.
+3. Nygaard and Dahl anachronistically identify customers as ‘objects’ in their discussion; the ‘network’ and ‘process’ metaphors provided structure during the initial
+course of the language’s design, with ‘object’ introduced in 1967.
+
+References
+Acklen, L. (2010), ‘Getting the Most out of Reveal Codes in WordPerfect’. http://www.
+corel.com/servlet/Satellite/us/en/Content/1153321168468.
+Afek, J. and Sharabani, A. (2007), ‘Dangling Pointer: Smashing the Pointer for Fun and
+Profit’. http://www.blackhat.com/presentations/bh-usa-07/Afek/Whitepaper/bh-usa07-afek-WP.pdf.
+Babbage, C. (1837/1982), ‘On the Mathematical Powers of the Calculating Engine’,
+in B. Randell (ed.), The Origins of Digital Computers: Selected Papers, 3rd edn (Berlin/
+Heidelberg/New York: Springer-Verlag).
+Bachelard, G. (1994), The Poetics of Space (Boston: Beacon Press).
+Burks, A.W., Goldstine, H. H., and von Neumann, J. (1947/1982), ‘Preliminary Discussion
+of the Logical Design of an Electronic Computing Instrument’, in B. Randell (ed.),
+The Origins of Digital Computers: Selected Papers, 3rd edn (Berlin/Heidelberg/New York:
+Springer-Verlag).
+Curtain, T. (1997), ‘The “Sinister Fruitiness” of Machines: Neuromancer, Internet
+Sexuality, and the Turing Test’, in E. K. Sedgwick (ed.), Novel Gazing: Queer Readings in
+Fiction (Durham, NC: Duke University Press).
+Dahl, O. J. (2004), ‘The Birth of Object Orientation: The Simula Languages’, in . O. Owe,
+S. Krogdahl, and T. Lyche (eds), From Object-Orientation to Formal Methods: Essays in
+Memory of Ole-Johan Dahl, LNCS 2635 (Berlin/Heidelberg/New York: Springer Verlag,
+15–25). http://www.olejohandahl.info/papers/Birth-of-S.pdf
+Fuller, M. (2003), Behind the Blip: Essays on the Culture of Software (Brooklyn: Autonomedia).
+Goldstine, H. H. (1992), The Computer from Pascal to von Neumann (Princeton: Princeton
+University Press).
+Grier, D. A. (2005), When Computers Were Human (Princeton: Princeton University Press).
+Guelich, S., Gundavaram, S., and Birznieks, G. (2000), CGI Programming with Perl, 2nd
+edn. http://docstore.mik.ua/orelly/linux/cgi/index.htm (O’Reilly & Associates).
+Hayles, N. K. (2005), My Mother Was a Computer: Digital Subjects and Literary Texts
+(Chicago: University of Chicago Press).
+Hodges, A. (1983), Alan Turing: The Enigma (New York: Simon & Schuster).
+Holliday, M. and Luginbuhl, D. (2004), ‘A Guide to Using Memory Diagrams’. http://
+paws.wcu.edu/holliday/LectureNotes/150/MemoryDiagramGuide.pdf.
+
+144
+
+Scott Dexter
+
+Ingalls, D. H. H. (1981), ‘Design Principles behind Smalltalk’, BYTE Magazine, August.
+http://stephane.ducasse.free.fr/FreeBooks/BlueBookHughes/Design%20Principles
+%20Behind%20Smalltalk.pdf.
+Lampson, B. W. (1971), ‘On Reliable and Extendible Operating Systems’, The Fourth
+Generation: Infotech State of the Art Report 1, 421–44. http://research.microsoft.com/
+en-us/um/people/blampson/07-ReliableOS/07-ReliableOSInfotech.pdf.
+LeRoi-Gourhan, A. (1993), Gesture and Speech (Cambridge, MA: MIT Press).
+Kay, A. (1993), ‘The Early History of Smalltalk’, ACM SIGPLAN Notices 28(3): 1–54.
+Le Goff, J. (1992), History and Memory, trans. Steven Renjdall and Elizabeth Claman (New
+York: Columbia University Press).
+Needham, R. M. and Walker, R. D. H. (1977), ‘The Cambridge CAP Computer and Its
+Protection System’, Proceedings of Sixth ACM Symposium on Operating Systems Principles,
+1–10.
+Normand, E. (1996), ‘Single Event Upset at Ground Level’, IEEE Transactions on Nuclear
+Science 43: 2742–50.
+Nygaard, K. and Dahl, O.-J. (1981), ‘The History of the SIMULA Languages’, in R. Wexelblat
+(ed.), History of Programming Languages (Waltham, MA: Academic Press, Inc.).
+Parnas, D. L. (1972), ‘On the Criteria to Be Used in Decomposing Systems into Modules’,
+Communications of the ACM 15(12): 1053–8.
+Reid, T. (1969), Essay on the Intellectual Powers of Man (Cambridge, MA: MIT Press).
+Rosenberger, S. (1997), ‘Elegance and Entropy: Ellen Ullman talks about what makes
+programmers tick’. http://www.salon.com/technology/feature/1997/10/09/interview/
+index.html.
+Schneider, R. (2006), ‘Intermediality, Infelicity, and Scholarship on the Slip’, Theatre
+Survey 47(2): 253–60.
+Schroeder, B., Pinheiro, E. and Weber, W.-D. (2009), ‘DRAM Errors in the Wild: A LargeScale Field Study’, Sigmetrics/Performance 2009. http://www.cs.toronto.edu/~bianca/
+papers/sigmetrics09.pdf.
+Sedgwick, E. K. (1997), ‘Paranoid Reading and Reparative Reading; or, You’re So Paranoid,
+You Probably Think This Introduction Is about You’, in E. K. Sedgwick [ed.], Novel
+Gazing: Queer Readings in Fiction (Durham, NC: Duke University Press).
+SfR Fresh. (2010), ‘CLOC Analysis of FireFox-4.0b7.source.tar.gz’. http://www.sfr-fresh.
+com/linux/misc/firefox-4.0b7.source.tar.gz/cloc.html.
+Stroustrup, B. (1993), ‘A History of C++: 1979–1991’, Proceedings of the ACM History of
+Programming Languages Conference (HOPL-2). http://www.research.att.com/~bs/hopl2.
+pdf.
+Turing, A. (1937), ‘On Computable Numbers, with an Application to the
+Entscheidungsproblem’, Proceedings of the London Mathematical Society s2–42(1): 230–65.
+Turing, A. (1939), ‘Systems of Logic Based on Ordinals’, Proceedings of the London
+Mathematical Society 45: 161–228.
+Turing, A. (1950), ‘Computing Machinery and Intelligence’, Mind 59: 433–60.
+Viega, J., and Mcgraw, G. (2002), Building Secure Software: How to Avoid Security Problems
+the Right Way (Boston: Addison Wesley Longman).
+von Neumann, J. (1945/1982) ‘First Draft of a Report on the EDVAC, Contract No.
+W-670-ORD-4926’ in B. Randell (ed.), The Origins of Digital Computers: Selected Papers,
+3rd edn (Berlin/Heidelberg/New York: Springer-Verlag).
+Yates, F. (1966), The Art of Memory (Chicago: The University of Chicago Press).
+
+

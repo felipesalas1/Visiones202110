@@ -1,0 +1,362 @@
+Music recommendation
+at Spotify
+Ben Carterette
+
+What we do
+
+Spotify’s mission is to
+unlock the potential of
+human creativity — by
+giving a million creative
+artists the opportunity to
+live off their art and
+billions of fans the
+opportunity to enjoy and
+be inspired by it.
+
+http://everynoise.com/
+
+ARTISTS
+
+FANS
+
+Our team mission:
+
+Match fans and artists in a personal and relevant way.
+
+Fans
+
+Artists
+
+What does it mean to match fans and artists in
+a personal and relevant way?
+
+catalog
+
+songs
+playlists
+podcasts
+...
+
+search
+browse
+talk
+
+users
+
+What does it
+mean to match
+fans and artists
+in a personal
+and relevant
+way?
+
+↓
+Personalization
+
+Research @
+Personalization
+
+Areas of research expertise
+Machine learning
+
+Information retrieval
+
+Evaluation
+
+Language technologies
+
+Content analysis
+
+Algorithmic bias
+
+Human computer
+interaction
+
+Recommender systems
+
+User modeling
+
+5 labs
+
+… Boston, London, New York & San Francisco
+
+hai: we research the interactions between the rich diversity of people and personalized
+audio experiences that matter to them.
+LiLT: we research how Spotify users and creators communicate using written and spoken
+language, and how machine-learning models using this knowledge can improve user
+satisfaction.
+preamp: we research how to match audience to artists using machine learning, search &
+recommendation, and rigorous experimentation.
+SIA: we develop machine learning based solutions to understand, interpret and influence
+interactions and consumption signals.
+algo-bias: we empower Spotify teams to assess & address algorithmic bias and better
+serve underserved audiences & creators.
+
+Examples
+
+Home
+
+Home
+Home is the default screen of the mobile app
+for all our users worldwide.
+It surfaces the best of what Spotify has to
+offer, including music and podcasts for every
+situation, personalized playlists, new releases,
+old favorites, and undiscovered gems.
+Value to the user here means helping them
+find something they’re going to enjoy listening
+to, quickly.
+
+BaRT: Machine learning algorithm for Spotify Home
+
+BaRT
+
+Streaming
+
+User
+
+Explore, Exploit, Explain: Personalizing Explainable Recommendations with Bandits, J McInerney, B Lacker, S Hansen, K Higley, H.Bouchard, A Gruson,
+R Mehrotra, ACM RecSys 2018.
+
+BaRT (Bandits for Recommendations as Treatments)
+
+How to rank playlists (cards) in each shelf first, and then how to rank the shelves?
+
+Multi-armed bandit algorithms
+
+https://hackernoon.com/reinforcement-learning-part-2-152fb510cc54
+
+Explore vs Exploit
+Flip a coin with given probability of tail
+If head, pick best card in M according to predicted reward r → EXPLOIT
+If tail, pick card from M at random → EXPLORE
+
+Discover Weekly
+
+Richer understanding of user satisfaction
+
+Album view duration
+
+Unambiguously
+positive signals for
+Discover Weekly
+
+Artist view duration
+Downstream msPlayed
+Ds completed plays
+Album views count
+Artist views count
+Collection saves count
+Playlist adds count
+
+Understanding and evaluating user satisfaction with music discovery, J Garcia-Gathright, B St. Thomas, C Hosey, Z Nazari, F Diaz, ACM SIGIR 2018.
+
+Four main goals emerged; behaviors differ by goal
+
+Play new
+background music
+
+Listen to new
+music now and later
+
+Find new
+music for later
+
+Engage with
+new music
+
+No skipping
+
+Saves or adds
+
+Saves or adds
+
+Artist page views
+
+Saves or adds
+
+% tracks heard
+
+Streams
+
+Album page views
+
+Listening time
+
+Streams over half the song
+
+Downstream listening
+
+Downstream listening
+
+Sessions per week
+
+Downstream listening
+
+Trained model to predict satisfaction for each track
+Features were informed by hypotheses from user interviews
+
+This Week’s Data
+(User interactions
+with the playlist)
+
+Historical Data
+(Deviation from
+Normal Behavior)
+
+This Week’s Cluster
+Data (User Goal)
+
+Survey
+Satisfaction
+
+Model
+(Gradient Boosted
+Decision Tree)
+
+Current work: Modeled metric as an optimization target
+
+Learn to
+Rank
+
+Modeled metric
+(user-track scores)
+
+What we are working
+on now … some examples
+
+Home
+
+Multiple objective functions
+
+Metric 1
+
+Metric 2
+Metric 3
+
+Home
+Optimising for fairness and
+satisfaction at the same time
+“Fairness”
+
+Towards a Fair Marketplace: Counterfactual Evaluation of the
+trade-off between Relevance, Fairness & Satisfaction in
+Recommendation Systems. R Mehrotra, J McInerney, H Bouchard,
+M Lalmas & F Diaz, CIKM 2018.
+
+Relevance
+
+Search
+
+Large catalog
+40M+ songs, 3B+ playlists
+2K+ microgenres
+Many languages
+78 countries
+Different modalities
+Typed, voice
+Various granularities
+Song, artist, playlist
+Various goals
+Focus, discover, lean-back, mood
+
+Search
+
+FOCUSED
+One specific thing in mind
+
+●
+●
+
+●
+
+●
+●
+Just Give Me What I Want: How People Use and Evaluate Music
+Search. C Hosey, L Vujović, B St. Thomas, J Garcia-Gathright &
+J Thom, CHI 2019.
+
+Find it or not
+Quickest/easiest
+path to results is
+important
+
+How the user
+thinks about
+results
+
+OPEN
+
+EXPLORATORY
+
+A seed of an idea in mind
+
+A path to explore
+
+From nothing good
+enough, good enough
+to better than good
+enough
+Willing to try things out
+But still want to fulfil
+their intent
+
+●
+●
+●
+
+●
+
+Difficult for users to
+assess how it went
+May be able to answer
+in relative terms
+Users expect to be
+active when in an
+exploratory mindset
+Effort is expected
+
+Evaluation
+
+ML Lab
+An offline evaluation framework to
+launch, evaluate and archive machine
+learning studies, ensuring
+reproducibility and allowing sharing
+across teams.
+
+Offline Evaluation to Make Decisions About Playlist
+Recommendation Algorithms. A Gruson, P Chandar, C Charbuillet,
+J McInerney, S Hansen, D Tardieu & B Carterette, WSDM 2019.
+
+Other things we are doing
+
+RecSys Challenge 2018
+Earlier in 2018 we hosted the RecSys Challenge on
+Automatic Playlist Continuation, together with researchers
+from JKU Linz and UMass Amherst.
+
+The dataset was 1 million user-created playlists from Spotify.
+
+The challenge was to predict tracks that would complete a
+given playlist. This is similar to the Recommended Songs
+feature on Spotify.
+
+Participation
+791 participants from over 20 countries & 410 teams
+with 1497 submissions.
+
+WSDM Cup 2019
+We are currently running the WSDM Cup 2019 challenge on
+Sequential Skip Prediction.
+The dataset is 130 million listening sessions on Spotify, along with
+associated interactions.
+The challenge is to predict which tracks in a session will be
+skipped.
+
+bit.ly/spotify-wsdm-cup-2019
+
+Thank you
+
+

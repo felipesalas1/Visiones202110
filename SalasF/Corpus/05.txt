@@ -1,0 +1,1264 @@
+Original Research Article
+
+Folk theories of algorithmic
+recommendations on Spotify: Enacting
+data assemblages in the global South
+
+Big Data & Society
+January–June: 1–15
+! The Author(s) 2020
+Article reuse guidelines:
+sagepub.com/journals-permissions
+DOI: 10.1177/2053951720923377
+journals.sagepub.com/home/bds
+
+Ignacio Siles1 , Andr
+es Segura-Castillo2, Ricardo Solıs3 and
+3
+M
+onica Sancho
+
+Abstract
+This paper examines folk theories of algorithmic recommendations on Spotify in order to make visible the cultural
+specificities of data assemblages in the global South. The study was conducted in Costa Rica and draws on triangulated
+data from 30 interviews, 4 focus groups with 22 users, and the study of “rich pictures” made by individuals to graphically
+represent their understanding of algorithmic recommendations. We found two main folk theories: one that personifies
+Spotify (and conceives of it as a social being that provides recommendations thanks to surveillance) and another one that
+envisions it as a system full of resources (and a computational machine that offers an individualized musical experience
+through the appropriate kind of “training”). Whereas the first theory emphasizes local conceptions of social relations to
+make sense of algorithms, the second one stresses the role of algorithms in providing a global experience of music and
+technology. We analyze why people espouse either one of these theories (or both) and how these theories provide
+users with resources to enact different modalities of power and resistance in relation to recommendation algorithms.
+We argue that folk theories thus offer a productive way to broaden understanding of what agency means in relation
+to algorithms.
+Keywords
+Agency, algorithms, audience research, folk theories, Latin America, music streaming services, surveillance
+Algorithmic recommendations are key in contemporary processes of surveillance and anticipatory governance. Scholars have envisioned algorithms as
+technologies of “ideological control” (Cohn, 2019)
+and crucial pieces in the production of “data subjects”
+(Prey, 2018). In both academic and journalistic discourse, there is a fundamental concern that
+“algorithms are everywhere” and that they are “ruling
+our lives,” as the writer of a recent article put it in
+Wired magazine (Turk, 2019).
+Critical data studies have helped situate the study of
+algorithms within the operation of “data assemblages”
+(Kitchin and Lauriault, 2014), that is, sociotechnical
+networks in which “systems of thought, forms of
+knowledge, finance, political economy, governmentalities and legalities, materialities and infrastructures,
+practices, organisations and institutions, subjectivities
+and communities, places, and marketplaces” mutually
+constitute each other (Kitchin, 2014: 20). Thus, modes
+of thinking, rationalities, and theories have been a concern for critical data scholars. However, the study of
+
+these systems of thought has focused primarily on the
+production of data. Concurring with Milan and Trere
+(2019), there has been relative disproportionate
+“attention to technical aspects to the detriment of
+appropriations, practices, and the human agency
+around and behind data” (p. 327). From this perspective, an investigation of data assemblages around issues
+like dataveillance and prediction would invite questions
+such as: How do users actually make sense of algorithms? How do they think that algorithmic recommendations work?
+
+1
+School of Communication, Universidad de Costa Rica, San Jose,
+Costa Rica
+2
+Universidad Estatal a Distancia, San Jose, Costa Rica
+3
+School of Communication, Universidad de Costa Rica, San Jose,
+Costa Rica
+
+Corresponding author:
+Ignacio Siles, School of Communication, Universidad de Costa Rica, CP
+11501-2060, San Jose, Costa Rica.
+Email: ignacio.siles@ucr.ac.cr
+
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons AttributionNonCommercial 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and Open Access pages (https://us.
+sagepub.com/en-us/nam/open-access-at-sage).
+
+2
+In this paper, we follow Iliadis and Russo’s (2016)
+call for critical data studies that investigate “meta-theoretical modes of conversation and styles of [. . .]
+thinking” (p. 2) but argue that this form of investigation also needs to focus on the users of media technologies. We seek to understand how people make sense of
+datafication processes such as algorithmic recommendations in daily life (Kennedy, 2018). To this end, we
+examined how a group of Spotify users in Costa Rica
+formulated “folk theories” of how this platform and its
+algorithms work. Folk theories are “intuitive, informal
+theories that individuals develop to explain the outcomes, effects, or consequences of technological systems, which guide reactions to and behavior towards
+said systems” (DeVito et al., 2017: 3165). This case is
+relevant for critical data studies for various reasons.
+First, it focuses on a platform for which algorithms
+occupy a crucial position in its technological and economic models (Eriksson et al., 2019). Second, it brings
+to the fore how people make sense of streaming—a
+defining practice and technology of present media
+infrastructures (Thibault, 2015).
+The focus on Costa Rica is significant given
+Spotify’s recent growth in Latin America. According
+to the company, this region experienced the fastest
+growth in the worldwide number of subscribers in
+early 2019 (Iqbal, 2019). Examining the Costa Rican
+case also helps going “beyond data universalism”
+(Milan and Trere, 2019) by making visible the cultural
+specificities of data assemblages in the global South
+rather than assuming that they inevitably reproduce
+the patterns and processes identified in other places.
+In this way, we seek to “question the notion that
+engagement with digital media is based on and
+informed by a single culture” (Toff and Nielsen,
+2018: 638).
+Our analysis draws on triangulated data from 30
+interviews, 4 focus groups with 22 users, and the
+study of “rich pictures” made by individuals to graphically represent how they make sense of algorithmic
+recommendations on this platform. We found two
+interrelated theories: one that personifies Spotify (and
+conceives of it as a social being that provides recommendations thanks to surveillance) and another one
+that envisions it as a system full of resources (for
+which Spotify is a computational machine that offers
+an individualized musical experience through the
+appropriate kind of “training”). Whereas the first
+theory emphasizes local conceptions of social relations
+to make sense of algorithms, the second one stresses the
+role of algorithms in providing a global experience of
+music and technology. We analyze why people espouse
+either one of these theories (or both) and how these
+theories provide users with resources to enact different
+modalities of power and resistance in relation to
+
+Big Data & Society
+recommendation algorithms. In this way, we argue
+that folk theories offer a productive way to broaden
+understanding of what agency means in relation to
+algorithms.
+
+Enacting data assemblages through folk
+theories
+We turn to the notion of folk theory to operationalize
+the “systems of thought” held by users in data assemblages (Iliadis and Russo, 2016; Kitchin, 2014). Folk
+theories are intuitive ways of thinking about things or
+issues, which are rooted in evolving practices and experiences, and are functional for individuals who adopt
+them (Rip, 2006). They are malleable ways to explain
+and act in the world. Folk theories matter because of
+how they shape the behavior of those who adopt them:
+they “organize experience, generate inferences, guide
+learning, and influence behavior and social interactions” (Gelman and Legare, 2011: 380).
+We use folk theories to integrate (and expand)
+insights and concepts employed in critical data studies
+to theorize how people make sense of media technologies. For example, we see important links between folk
+theories and Bucher’s (2018) “algorithmic imaginaries”
+or the “ways of thinking about what algorithms are,
+what they should be, how they function, and what these
+imaginations, in turn, make possible” (p. 113). Like
+“imaginaries,” folk theories contemplate what people
+think and feel about algorithms and how this leads to
+specific ways of acting. In a similar manner, folk theories incorporate “data valences,” that is, the “wide
+range of people’s expectations of and values for data
+that emerge from their discourses and practices across
+different contexts for data” (Fiore-Gartland and Neff,
+2015: 1468).
+When scholars have employed the concept of folk
+theories in the case of media technologies, they have
+usually focused on the mechanisms and affordances on
+which platforms rely to recommend content (Rader
+and Gray, 2015). Eslami et al. (2016) thus found at
+least 10 theories held by users to explain how they
+thought that Facebook chose content for their News
+Feed. These theories centered on mechanisms such as
+how frequently users interacted with others on
+Facebook, how many reactions a post had generated,
+what formal features characterized a post, and when
+was a given content posted, among others. DeVito
+et al. (2018) noted that people also draw on information that is “exogenous” to platforms to explain how
+they work.
+Although we share such interest in people’s explanations of mechanisms and affordances, we take a somewhat different approach. We envision folk theories as
+
+Siles et al.
+ways to enact data assemblages, that is, to bring into
+being a particular “data ontology” (Kitchin and
+Lauriault, 2014: 8). The notion of “enactment” points
+to how people forge and sustain specific realities (Mol,
+2002; Siles, 2013). As Seaver (2017) explains, “actors do
+not act on pre-given objects, but rather bring them into
+being” (p. 4). We argue that folk theories enact data
+assemblages by forging specific links between their constitutive dimensions. Seen in this way, algorithms stand
+as a synecdoche of larger data assemblages (Gillespie,
+2016). For this reason, we think it is necessary to go
+beyond an exclusive focus on how users think that
+Spotify works and also contemplate how they make
+sense of other dimensions of data assemblages, such
+as the platform’s place in their daily lives and social
+relations, how they think it makes money, what their
+typical appropriation practices are, what other platforms and devices they use, in what places they typically appropriate them, what kind of social groups they
+belong to, etc. This approach helps to situate systems
+of thought about datafication within the wider context
+in which the mechanisms and affordances of platforms
+acquire certain cultural meaning.
+If users enact data assemblages through folk theories, then it becomes crucial to understand why people
+espouse certain theories over others. To account for
+this, we draw on the work of Swidler (1986, 2001)
+(cf. Toff and Nielsen, 2018). For this author, culture
+is “a bag of tricks or an oddly assorted tool kit [. . .]
+containing implements of varying shapes that fit the
+hand more or less well, are not always easy to use,
+and only sometimes do the job” (Swidler, 2001: 24).
+Culture provides individuals with certain kinds of
+capacities: to perform specific identities, internalize
+habits, negotiate belonging to social groups, and
+express certain worldviews (Swidler, 2001). In
+Swidler’s (2001) words, “Culture equips persons for
+action both by shaping their internal capacities and
+by helping them bring those capacities to bear in particular situations” (pp. 71–72). We argue that users
+espouse specific folk theories (as opposed to or alongside others) as they seek to develop cultured capacities
+through the use of technologies such as Spotify.
+The notion of enactment also emphasizes the centrality of user practices in bringing into being certain
+data assemblages through folk theories (Seaver, 2017;
+Siles, 2013). Put differently, folk theories also matter
+for how they speak to issues of agency: they allow
+people to act in certain ways. Swidler’s notion of
+“strategies of action” helps understanding how people
+act through folk theories. She defines these as “general
+solutions to the problem of how to organize action over
+time, rather than specific ways of attaining particular
+ends [. . .] [They] provide [. . .] one or more general ways
+of solving [. . .] difficulties” (Swidler, 2001: 82–83).
+
+3
+Through particular practices and strategies, people
+enact specific modalities of power and resistance in
+relation to algorithms. This, we suggest, enables a
+better understanding of what agency means in the age
+of algorithms.
+
+Research design
+This study was carried out in Costa Rica, a country
+that illustrates the interest that digital platforms such
+as Spotify have in Latin America: it has a relatively
+large middle-class, high Internet connectivity rates,
+and a reliable telecommunications infrastructure
+(Gao, 2015). Spotify arrived in the country in late
+2013, and its user base has grown steadily since.
+A recent study showed that Spotify is among the
+most-used entertainment apps on mobile phones in
+Costa Rica (Red 506, 2018).
+We opted for a research design of the qualitative
+kind to “delve into the workings of assemblages”
+from the perspective of users (Kitchin and Lauriault,
+2014: 14). This type of methods have proved a valuable
+asset for critical data studies in that they allow to
+understand the centrality of “social context [. . .] in
+both the production and interpretation of meaning
+[and the] ever-present cultural regimes of interpretation
+[that] structure the analysis of all data, ‘big’ or small”
+(Dalton and Thatcher, 2014). They also help to “map
+different values for data evoked in different discourses
+of and contexts for data” (Fiore-Gartland and Neff,
+2015: 1471). Our findings come from triangulated
+data (by using multiple sources), methods (by combining different strategies), and investigators (by employing various observers of the same phenomenon).
+Our study employed three methods: interviews,
+focus groups, and rich pictures. We began by selecting
+a sample of Spotify users for interviews. Similar to previous studies, we shared a call for participants on social
+media profiles associated with the university where the
+research was conducted (DeVito et al., 2018). Beuscart
+et al. (2019) have shown that “heavy” users tend to
+explore more features in music streaming platforms
+than casual users. For this reason, we selected individuals who identified themselves as “heavy” users of
+Spotify, in order to identify people with more experience and a deeper understanding of the platform. This
+strategy allowed us to interest many individuals who
+had reflected specifically on how algorithmic recommendations work (thus enabling the formation of intuitive theories) but could have prevented us from
+identifying theories that come from more casual uses
+of the technology.
+We selected 30 individuals among respondents for
+semi-structured interviews through a criterion strategy
+that fostered diversity in sociodemographic profiles.
+
+4
+Our sample included 15 men and 15 women,
+19–52 years old, mostly educated, and from a variety
+of professional backgrounds. We interviewed this
+group of people between August and November 2018
+at the University of Costa Rica for an average of
+40 min. Since this university is located in the country’s
+capital (San Jose), this sampling strategy also allowed
+us to talk with individuals who lived in several provinces of Costa Rica’s Central Valley, where the majority of the population resides. Interviews focused on the
+history and practices of music consumption, but also
+included conversations about people’s backgrounds
+and social contexts, and their use of various media
+technologies. Using an adapted version of the “think
+aloud protocol” (Fonteyn et al., 1993), we asked participants to open their Spotify account on a computer,
+which was projected on a screen. We then asked participants to explain the content shown on their
+accounts and the context of the recommendations displayed. We specifically requested explanations of how
+they thought that Spotify works and how it recommended this music to them. Interviews were recorded
+and transcribed in their entirety.
+Second, we conducted four focus groups with 22
+additional individuals (aged 18–62 years old) between
+August and October 2019. We employed the same sampling strategy described in the previous paragraph.
+That is, we fostered sociodemographic diversity in
+our sample (although almost all our participants have
+received higher education in various fields). Focus
+groups are ideal for exploring the social nature of
+folk theories, that is, how they form as people share
+them with others (including the researchers). Thus, in
+addition to gathering data on how individuals
+accounted for algorithmic recommendations, during
+the focus groups we also examined the dialogues, discussions, and collective construction of folk theories
+(Cyr, 2016). We focused on both the responses to our
+questions about the use of Spotify and the debates that
+unfolded to answer these questions. Focus groups were
+also recorded and transcribed.
+We carried out a third research method, namely rich
+pictures. Rich pictures are a building block of the socalled soft systems methodology, an approach that
+emerged in the late 1970s to help actors in conflict
+reach agreements using a variety of visualization techniques (Checkland, 1981). We argue that some of these
+techniques, most notably rich pictures, can be used in
+the context of scholarly research as a tool for analyzing
+“complex situation[s] [and to] provide a space by which
+participants can negotiate a shared understanding of a
+context” (Bell et al., 2019: 2).
+Rich pictures consist of diagrams or drawings made by
+individuals to graphically represent a specific phenomenon. We employed this technique as a method for making
+
+Big Data & Society
+more explicit the unstated and taken-for-granted nature
+of users’ knowledge of algorithms and data assemblages.
+We provided participants in focus groups with blank
+sheets and a set of pens. We then asked them to individually draw how they thought that Spotify worked and
+how it provided them with specific music recommendations. After explaining the exercise and allowing for sufficient time for the making of the pictures, images became
+the starting point of conversations during focus groups.
+Participants explained their own pictures and discussed
+aspects of other participants’ drawings. The research
+team functioned as a facilitator of these conversations.
+We then analyzed these pictures by identifying the main
+patterns in relation to three specific questions: how did
+users represent Spotify? How did they express a relationship with the platform? How were algorithmic recommendations explained? We used Bell and Morse’s
+(2013) guide to this end and thus coded for patterns in
+descriptive features and structures (such as use of colors,
+shapes, thickness, relationships, and arrangements,
+among others).
+We drew on grounded theory to analyze and integrate the findings from different methods and sources
+into theoretical constructs. We fostered investigator triangulation by mixing individual coding and team analysis during three rounds of coding. First, we identified
+the variety of ways in which people made sense of algorithmic recommendations. This round was conducted
+individually by each member of the research team. The
+second round was conducted collectively and focused
+on comparing similitudes and differences in how each
+member of the team had coded users’ accounts of algorithms. Finally, the third round of coding sought to
+aggregate the data into broader categories that captured the main patterns and relationships.
+In this way, we identified two main folk theories. We
+focus specifically on these two theories because of how
+representative they are of the data and because they
+were the most coherent ones in the sense given by
+Gelman and Legare (2011), that is, they reflected the
+strongest interrelationships between concepts and
+beliefs in our data. The next section presents the results
+of this analysis. We integrate into our discussion
+excerpts from interviews and focus groups, as well as
+examples from rich pictures. (Interviews and focus
+groups were conducted in Spanish. All translations
+are our own.)
+
+Folk theories of algorithmic music
+recommendations
+Most participants in our study defined themselves as
+heavy and satisfied Spotify users. They have domesticated this platform into a regular component of their
+
+Siles et al.
+
+5
+
+Figure 1. Representations of Spotify as a human-like being. (a) Spotify and user are drawn the same way. (b) A surveillant Spotify with
+eyes, arms, and legs. (c) Spotify has the user’s hair.
+
+daily lives. How users think of Spotify’s algorithms
+stems in part from how they conceive of infrastructures
+and technologies other than this platform. Users typically incorporate their experiences with other algorithmic devices into their understanding of Spotify.
+Links to other algorithms were established through
+two main dynamics. On the one hand, users aggregated
+their experiences with a variety of technologies into a
+general imaginary or stock of beliefs from which they
+draw to interpret all algorithms. Juliana, a 45-year old
+PhD student in environmental studies, thus assumed
+that Spotify’s and Netflix’s algorithms shared a
+common logic toward standardization: “Over the
+years, I’ve seen what the [Spotify] algorithm offers to
+me and, it’s just like with Netflix: it keeps recommending me always the same [content].” Similar comments
+were made in relation to platforms such as Facebook.
+But, on the other hand, users establish patterns of
+difference when they compare platforms that they
+think accomplish the same purpose (in this case, recommend music). Mario, a musician, thus noted during
+one of our focus groups: “[My understanding of
+Spotify] is built by contrasting it with Apple Music,
+which is completely different. [Apple Music] is more
+like ‘my music.’ I don’t want anybody else to have
+access to it.” Similarly, users compared Spotify and
+YouTube repeatedly. For this reason, folk theories
+need to be understood as part of larger data
+assemblages.
+In what follows, we discuss the main theories that
+explain how they think Spotify makes recommendations and why they think these recommendations are
+successful (or not).
+
+Dealing with a surveillant “buddy”
+A common theory is to conceive of Spotify as a personlike being that engages in surveillance to provide a
+
+higher good: music recommendations. This theory is
+based on the premise of “mutual personalization”
+(Siles et al., 2019a): while users turn the platform into
+a reflection of their personality, they also personalize
+the platform by treating it as an entity that has
+human-like characteristics. In this process, people
+draw on local conceptions of friendship and public
+behavior to make sense of the platform and its
+algorithms.
+Users employed expressions such as “a little
+dummy” or “toy” (un mu~
+nequito), or “my little
+buddy,” to refer to Spotify. As Figure 1 exemplifies,
+the most common way to depict the platform in this
+theory was by characterizing it as having features such
+as eyes, hands, legs, hair, and even a (smiling) face. In
+Figure 1(a), there is no major distinction in how
+humans and Spotify are represented.
+An exchange between participants during focus
+groups helps to further understand the features attributed to the platform:
+Interviewer: How do you define Spotify? What do you
+think it is?
+Mariana: Someone very intense.
+Laura: Yes, a stalker.
+Gloriana: But I wouldn’t want to humanize it. It is
+better to say that it is an online hacker.
+Maria: Like a little ghost or weird little thing who says
+to you: “I saw that yesterday you were driving home
+and were listening to this. [Raises voice] I THINK
+YOU WILL LIKE THIS.” And then just leaves . . .
+
+During this conversation, Gloriana realized the underlying dynamic of the theory, that is, the personification
+of Spotify. Her immediate reaction was to tone down
+this tendency by expressing a desire not to “humanize
+it.” Yet, as an alternative, she still put forth the notion
+of a person whose face is always hidden from plain
+
+6
+
+Big Data & Society
+
+sight or who is not easy to recognize. As this conversation reveals, users also employ human-like characteristics to conceptualize those features they don’t like
+about Spotify. Thus, they criticize receiving unrequested algorithmic recommendations constantly by
+defining the platform as “a very annoying dude” or
+“the most intense of your friends.”
+How to determine when a person has become
+“annoying” or too “intense” is of course a cultural process. It is not surprising that these terms are mentioned
+in Costa Rica, a country where “the importance of the
+collective and maintenance of harmony are valued over
+personal satisfaction” (Rodrıguez-Arauz et al., 2013:
+49). As a human-like being, Spotify’s algorithmic recommendations thus need to comply with local rules of
+friendship and public behavior. Users thus prefer that
+algorithms hide their “face” rather than draw attention
+to them by providing one too many unsolicited recommendations that disrupt harmony.
+Users invoked human-like characteristics also to
+refer to the financial dimensions of this data assemblage. In this way, they questioned the motivations
+behind the platform’s recommendations. According
+to Maria, “I know that he wants us to be friends
+because he is making money. He laughs with me, but
+he is not feeling anything behind that smile” (emphasis
+added). In this account, Spotify is an insincere male
+counterpart who is primarily motivated by greed.
+Personifying Spotify is a crucial way to naturalize
+issues of surveillance. There is a generalized belief that
+Spotify is watching everything users do on the platform. Users typically captured this by drawing
+Spotify as an eye. Gloriana, a 20-year old student,
+gave the following explanation of Figure 1(b):
+“Spotify watches my life, it is there watching us. I’ve
+connected my [account] to Facebook, and [Spotify]
+thus has lots of information to process.” Yet, more
+than a “Big Brother,” Spotify is seen as a “Dear
+Brother.” It is, after all, a “buddy.” Users conceive of
+surveillance as a necessary condition for receiving the
+benefit of useful recommendations. They envision algorithmic recommendations as a constant reminder that
+one is being observed for a reason that seems justified.
+Pablo, the 23-year old electric engineer who referred to
+Spotify as “a little dummy” and depicted it as a stick
+figure with a smiling face, explained Figure 1(a) thusly:
+“I heard that electronic gadgets listen to us and that’s
+how [companies] can learn our tastes, what every
+person likes . . . That’s a bit scary, but that’s how
+things are.”
+As Segura and Waisbord (2019) argue:
+In Latin America [. . .] the politics of data surveillance
+work differently than in the United States and other
+Western countries insofar as states historically did not
+
+develop massive, effective large-scale operations for
+gathering, analyzing, and managing data about populations during the past half century. (p. 417)
+
+This is particularly salient in Costa Rica, which has
+built a national identity around the idea of peace
+since 1948—when the military was abolished
+(Sandoval, 2002). In the absence of historical precedents to evaluate its consequences, surveillance seems
+like less of a threat (it is only “a bit scary”).
+Moreover, according to users, surveillance is the
+precise factor that endows the platform with its great
+capacities. For example, people think that this allows
+Spotify to know users and, as a result, to better understand them. Pablo further explained:
+Spotify, the little dummy, asks: ‘What would you like
+to listen?’ It knows my tastes a little bit and [adjusts] if I
+want something heavier, if I’m sad, or upset, or happy,
+if I want something more chill or something for
+any occasion . . . it always knows what I want.
+(Emphasis added)
+
+In this example, Spotify acts like a psychologist who
+not only recognizes the user’s moods and desires but
+also helps him recognize his own emotions and affective states (Siles et al., 2019b).
+As a human-like entity, users conceive of Spotify as
+part of their most intimate social relations and daily
+activities. Laura, an architecture student, explained:
+“[Spotify] is very much ingrained in my social relationships. It influences a lot how I interact with people
+around me.” Like Laura, users interpret the possibilities offered by the platform to share music with
+others, learn what they are listening to, and talk
+about music with them as a means to shape their relationships. Maria, who created Figure 2, noted:
+“[Recommendations] generate shared interests and a
+form of bonding with someone else.” In this way,
+users envision Spotify as a privileged social intermediary: its algorithmic recommendations are not only a
+way to form or strengthen a tie but also an intrinsic
+part of that relationship.
+People mentioned three kinds of factors to account
+for how Spotify makes recommendations: practices of
+music consumption (such as frequency and listening
+rituals); the moods and affective states surrounding
+these practices; and the singularities of the music
+itself (meta-data about music genres, styles, tempo,
+etc.). As the next section shows, these criteria are not
+unlike what other folk theories suggest. What is distinctive is the logic that explains how these factors are
+combined and turned into personal recommendations.
+For people who think of Spotify in this way, the main
+criterion employed by the platform to recommend
+
+Siles et al.
+
+7
+
+Figure 2. Representation of Spotify as embedded in social relations and daily life.
+
+music is the construction of patterns based on similarity with users who share sociodemographic characteristics with them. This is consistent with the belief in
+Spotify as a central social intermediary. Leo, an audiovisual producer and self-taught musician, aptly summarizes this view: “I imagine that what the platform wants
+is to average between factors” (emphasis added). For
+Leo and other users, algorithms recommend the most
+typical or common music heard by particular social
+groups (of which Spotify is an intermediary) so that
+they can reveal the preferences of most people.
+
+Training the algorithms of a “feedback control
+system”
+Another common folk theory is to conceive of Spotify
+as a non-human yet responsive entity that can be
+trained to obtain results (in the form of algorithmic
+recommendations). Some users see it as a computational machine that provides expected results if appropriate
+input is given. These users employed terms such as “a
+very long code” or “a feedback control system” to
+define it. As Figures 3 and 4 show, most users who
+espoused this theory turned to basic geometric figures,
+such as squares, rectangles and circles, or simply
+Spotify’s logo, to graphically represent the platform.
+Others preferred metaphors that stressed the abundance of resources: “a mine of minerals,” “an
+encyclopedia,” a “catalog,” “a database,” and a
+
+Figure 3. Use of basic geometric figures to represent Spotify.
+
+“world.” The notion of “resources” is central in
+Costa Rica’s imaginary of national identity. By using
+expressions such as “No Artificial Ingredients” and
+“Only the Essentials” as international marketing campaigns in the past, the country has consistently emphasized the notion that the kind of resources available is
+what makes a place unique. These definitions thus
+create a view of Spotify as a machine that offers valuable and exclusive resources.
+
+8
+
+Big Data & Society
+
+Figure 4. Distinction between Spotify (technology) and users (society).
+
+This theory reproduces some of the main premises of
+the discourses that have surrounded music streaming
+platforms in other parts of the world. It emphasizes
+ideas aptly expressed by Harvey:
+streaming platforms aim to zero in on the tastes of the
+individual listener. [. . .] the recording industry is [. . .]
+betting on a future of distribution and discovery dictated by quantification [. . .] to execute the recording
+industry’s century-long mission: suggesting with mathematical detail what a listener wants to hear before
+they know they want to hear it. (Harvey, 2014, emphasis added)
+
+By adopting this logic almost word by word, users suggest that data assemblages in a place like Costa Rica
+are not necessarily different than in other countries.
+Moreover, it signals that users are strategically establishing equivalences among the operations of data
+assemblages around the world.
+Whereas the first theory emphasized the notion of
+surveillance as the root of appropriate recommendations, this theory focused on the properties of technological systems in ways that are reminiscent of
+cybernetics. Users conceived of Spotify as a machine
+that aims at improvement through increasing specificity
+and precision in music recommendation. As Ruben, an
+electrical engineering student, put it: “Obviously,
+[Spotify] will never be perfect. You may like its recommendations or not. If you do, that’s a positive
+
+feedback. It will give you more things like that and it
+will become more and more precise.” For Gabriel, a
+political scientist, this requires time and repetition. He
+thus explained the process of improving algorithmic
+recommendations as “a system that is cyclical.”
+This theory asserts that appropriate “feedback”
+(through endless iterative loops) is what improves the
+Spotify machine. By feedback, users referred mostly to
+engaging in certain practices and using certain features
+to help Spotify’s algorithms capture what counts as an
+appropriate recommendation and what does not. The
+preferred metaphors to label these feedback-giving
+practices were “training” or “teaching” algorithms.
+Referring to the streaming services she uses, Juliana
+explained this with words that could have been used
+to describe pet training:
+Out of nowhere, [they] ‘throw’ [recommend] something
+that I don’t like and I’m like: ‘But, what is this? That’s
+a no, no, no.’ I go ahead and delete them [these songs]
+and tell them [streaming services]: ‘Not this.’ I am thus
+training them a little bit so they won’t recommend me
+such things. These last few years have been of training
+and there is not as much surprise [in music
+recommendations].
+
+The theory discussed in the previous section conceived
+of Spotify as embedded in social relations. In contrast,
+these users think of data assemblages as divided in two
+clear-cut dimensions: on the one hand are humans (and
+
+Siles et al.
+their ideas, practices, and relations) and on the other
+are technologies (and their materialities, infrastructures, business models, marketplaces, etc.). Figure 4
+provides a graphic representation of this common
+belief. Mario, the musician who created this picture,
+explained: “I split it into two categories: First, the corporation [Spotify] itself, which provides the catalog.
+Second, the users. These are all connected and you
+can even see in real time what someone else is listening
+to.” In this account, social relations are a strictly
+human dynamic.
+Similarly, Viviana, an engineering student, decided
+to draw two different pictures during the focus group.
+When pressed to explain why, she indicated: “Because
+to me these are two completely independent things;
+[one] is how they designed the platform, its code; and
+[the other one] is what every person feels.” This theory
+frames the use of the platform as a long-term relationship between these two different domains (human and
+technological). Mario thus reinterpreted the metaphor
+of feedback: “Users feed the platform and the platform
+gives them content in return.” Algorithmic recommendations are seen as evidence that this relationship is
+evolving over time.
+Users invoked the same factors to account for how
+they received algorithmic recommendations than those
+discussed in the previous theory: music consumption
+practices; the moods and affective states surrounding
+these practices; and the characteristics of music itself.
+However, this theory provides a distinct rationale to
+explain how these factors are combined or, more precisely, calculated by the Spotify machine. Here the logic
+is one of individualization, rather than average.
+Individualization results from the power of quantification. Says Ruben, “This is a system based purely on
+numbers. If I choose a song, that’s a number. What the
+software does is take the data and make a comparison
+[between numbers].” Viviana added: “What I feel is
+that [Spotify] has databases and generates a code so
+that each person can follow a trail.” For these users,
+algorithmic recommendations are codes that can only
+be cracked individually by each person. These codes (or
+“trails”) are the product of computational capacities
+that aim to provide recommendations with mathematical precision.
+For users, individualization means refinement in
+music recommendation or, as Viviana described it,
+“purification.” Mario explained his rich picture,
+shown in Figure 4, in the following way:
+On the side of the artists and the catalog, it seems to me
+things are a bit more structured, and not so messy or
+chaotic [as humans]. I did it gradually smaller, through
+smaller boxes. There are big categories (genres, artists,
+etc.), which keep getting smaller and smaller . . .
+
+9
+The premise behind this statement can be stated thusly:
+although at first Spotify offers users songs that could
+be recommended to anybody, with the appropriate
+feedback the platform will gradually “add and subtract” data input (as a user put it) until it recommends
+music that is only appropriate for each individual.
+
+Folk theories and cultured capacities
+These two theories point to somewhat different cultural
+directions: one emphasizes the need to make algorithms
+fit into prevailing conceptions of friendship and social
+behavior, while the other suggests that algorithms (and
+the data assemblages they represent) do not operate
+differently in countries like Costa Rica. To further
+understand why people espouse either one of these
+folk theories (or both), we turn to Swidler’s (1986,
+2001) approach to culture. We argue that people
+adopt folk theories “to construct, maintain, and refashion the ‘cultured capacities’ that constitute actors’ basic
+repertoires for action” (Swidler, 2001: 71). People draw
+on specific folk theories as resources that allow them to
+foster certain cultured capacities. Users in our study
+mobilized these two folk theories to strengthen three
+specific capacities: to be a specific kind of person, to
+negotiate a sense of belonging in certain social groups,
+and to sustain or strengthen ongoing social relations.
+One of the most prevalent reasons that led users to
+espouse a specific theory were issues of identity. People
+think of Spotify and its recommendations as a way of
+performing a self, of being or becoming a certain kind
+of person. During an interview, Roberto, a 39-year old
+psychologist, described his relationship with the platform in the following way: “[Using it] suggests that you
+can have a refined taste, it is not only for others but
+also for yourself.” Roberto thus considered that specific parts of the self (such as “taste”) were at stake in
+how he used the platform. Both theories discussed
+above operated as markers of identity in this way.
+Like Roberto, those who personified Spotify integrated
+recommendations into definitions of the self. This is
+captured with precision by Laura’s words: “Each
+thing that Spotify recommends to me is very much
+mine; when other people see it, I feel naked.” Behind
+this assertion lies the premise that Spotify is embedded
+in social relationships and, as a result, it provides a
+window for others into the most private aspects
+of the self.
+It was common for interviewees and participants in
+focus groups to justify their theory to others based on
+their academic major, profession, or trade. Roberto
+argued that his conception of the platform was “a
+very social psychology thing.” Some of those who
+thought of Spotify primarily as a computational
+system quickly clarified that their understanding of
+
+10
+the platform was a product of their academic training.
+For example, Ruben noted that the term “feedback
+control system” came from the field of electrical engineering. Gabriel also indicated that his conception of
+Spotify as a “system” was a product of his training in
+political science. In this way, folk theories become an
+expression of who the person is and wants to be seen.
+To be a “good” psychologist or engineer is to think of
+the platform and the self in particular ways.
+Confronted by a clear articulation of the Spotify as
+social being theory given by another participant in a
+focus group, Viviana—the engineering student—asked:
+“Are you an Arts major or something similar?”
+It would be misleading to interpret that people hold
+folk theories based exclusively on their profession. In
+our sample of informants, there were examples of engineers who personified Spotify and artists who thought
+of it as a system. Instead, we argue that ideas associated
+with specific majors (such as skills and professional
+routines) allow users to bring specific capacities to
+bear in certain situations, such as defining themselves
+by how they appropriate the platform. Established
+understandings of professions offer useful symbolic
+resources to obtain self-forming capacities.
+Folk theories also operate as a way to negotiate
+group membership. This is by no means a minor
+issue in Costa Rica, where more importance is usually
+placed on “group affiliation (as opposed to personal
+achievement)” and where “interpersonal bonds are
+highly valued” (Rodrıguez-Arauz et al., 2013: 49).
+The premise here is that knowledge of certain phenomena (bands, styles, artists, etc.) is shared by all members
+of a group. Adopting those phenomena thus becomes a
+way to signal membership. This cultural capacity is of
+key concern for those who personify Spotify. To be
+sure, people have traditionally seen music itself as a
+means of being part of certain groups. But how users
+achieve this capacity now rests on how they specifically
+think that Spotify’s algorithms work. For example, for
+Carla, a 52-year old audit specialist, believing that
+Spotify recommended music by averaging collective
+preferences was crucial in following recommendations
+or not. She explains, “[I began using it] maybe to not
+feel so outdated that sometimes I have to ask what
+young people are doing these days. They feed me a
+lot in that sense so I don’t stay behind.” In this way,
+she argues, the platform allows her to “understand
+what are today’s tendencies” in music consumption.
+This explanation combined both matters of content
+and issues of technology (Siles and Boczkowski,
+2012), that is, an idea of how algorithms capture certain substance (the music of “young people”) and a
+belief of how this is achieved (averaging what most
+users listen to into group “tendencies”).
+
+Big Data & Society
+A similar example comes from those who have
+adopted the logic of individualization and quantification to explain how algorithms work. As noted above,
+this theory reproduces the main tenets of how various
+platforms promote their services and algorithms (Prey,
+2018). By incorporating this rationale into their system
+of thought, users suggest that, despite the geographic
+distances, they can enact (and thus inhabit) the same
+data assemblage than those in other parts of the world.
+Many users in Costa Rica interpret differences in catalogs (that is, the substance of what is being recommended) as a form of exclusion (Siles et al., 2019a).
+They typically react against not having the same content available in other countries (despite paying the
+same fees).
+This form of thinking also applies to technological
+infrastructures (that is, how recommendations work).
+Users expect that technologies will function the same
+way everywhere. Explaining how he became a Spotify
+user, one interviewee recalled, “A friend who lives
+abroad said to me: ‘This is what everyone is using
+now and you have to use it!’ He was referring to
+using Spotify on the computer and on the phone.”
+Porter (1995) famously argued that quantification is a
+technology of “distance” that allows seeing phenomena
+from afar. Yet users in this case tend to value it for the
+opposite reason: it makes them feel closer to a world
+that they aspire to be a part of. They value algorithmic
+recommendations as a technology of “proximity” that
+helps them feel connected to global conversations
+about music and technology.
+Users also adopt certain theories to foster the capacity of keeping or strengthening social relations that are
+meaningful to them. This capacity is aptly captured by
+Levy’s (2013) notion of “relational big data”: “people
+constitute and enact their relations with one another
+through the use and exchange of data” (p. 75, emphasis
+in original). Considering social relations as central to
+music consumption is a key in personifying Spotify.
+Carla, the audit specialist, explains:
+I prefer the personal over the digital. I feel like I can
+put a face [to recommendations]. That’s a trigger for
+me. It makes me say, ‘I have to look at this song
+because it was someone [who recommended it]’.
+Emotionally, it’s not the same.
+
+Personifying Spotify thus creates fertile grounds for
+accepting its recommendations. It also solidifies the
+view that Spotify is an ideal intermediary of social
+ties. As Pablo, the electric engineer, put it, “Spotify
+[is a matter] of social relations with my friends because
+it gives us conversation topics, it connects you even
+more with the people you love.”
+
+Siles et al.
+A specific instance of this dynamic is the use of
+Spotify to maintain certain social relations through
+music. Many users indicated that they began listening
+to certain artists or songs because they reminded them
+of those who helped discover this music. This means
+that they acquired the habit of listening to certain
+music because they were exposed to it through another
+person. In these cases, the music stands in for the relationship as a form of “inheritance.” Personifying
+Spotify is a way to keep musical inheritances and relationships alive.
+Cultured capacities are thus central to understanding why users espouse certain theories on specific occasions and why they can oscillate between them. The
+next section explains how these theories and capacities
+are linked to specific user practices and ways of relating
+to or resisting algorithms.
+
+Agency, power, and resistance
+Folk theories provide people with means to act in certain ways. In the case of Spotify, these theories provide
+users with resources to carry out a specific set of strategies of action through which they enact different
+modalities of power and resistance in relation to recommendation algorithms.
+Each folk theory posits that agency is distributed
+differently between users and technologies such as
+algorithms. Users who personalize Spotify tend to
+attribute it a form of power that is difficult to elude.
+This power stems from the platform’s place in their
+interpersonal lives and from the knowledge it has
+acquired from users through surveillance. Leo, the
+audiovisual producer, stated:
+[Once you begin using the platform] you sign the agreement. There is no turning back. It is a demon. It takes
+control of everything. When [Spotify] is over, it’s going
+to be a shock. We’ll think: “Remember when it existed
+and there were all those data that [we] gave to it?”
+
+Not only does Leo describe the platform as a kind of
+being, but he also emphasizes how powerful he thinks
+its surveillance is: it ends up possessing the user in both
+the sense of ownership and invasion. At that point,
+Spotify stopped being a “buddy” and became a devil.
+Instead, the theory that envisions Spotify as a
+machine distributes agency in more symmetrical ways.
+During a focus group, two individuals arrived at this
+conclusion. Ruben began by stating: “I think the algorithms feeds on the person”; Viviana immediately finished his response: “It needs it. And then vice versa.”
+People mobilize different strategies of action based
+on the theory they hold (and the agency they attribute
+to the platform). The first theory we discussed oscillates
+
+11
+between two distinct action strategies: submission and
+resistance. Users shift between these two strategies
+based on their perception of surveillance. Studies
+have shown a fundamental tension in people’s response
+to surveillance, best captured by Lyon (2006): “the
+more stringent and rigorous the panoptic regime, the
+more it generates active resistance, whereas the more
+soft and subtle the panoptic strategies, the more it produces the desired docile bodies” (p. 4). This conundrum
+aptly describes users’ strategies of action in relation
+to Spotify.
+On many occasions, users think they are unable to
+resist the platform. As Marcia, an Arts student, put it:
+it is just too “addictive.” Her rich picture portrayed a
+data assemblage oriented toward financial goals. In this
+account, the objective of Spotify is to get users addicted
+to the platform in order to make them pay a monthly
+subscription. Yet, once again, users emphasize the benefits of submission rather than the costs. For example,
+people typically stress Spotify’s role as a social intermediary to justify their inability to resist the platform.
+When they do this, they downplay issues of surveillance
+and normalize the appropriation of features that afford
+a sense of being in contact with their networks of
+social ties. Leo explained a strategy of action he
+employs regularly:
+I can’t finish one week without listening to my
+‘Discover Weekly’ [an algorithmically curated set of
+recommendations that changes on a weekly basis]
+and the one from three more people. If not, I
+wonder: ‘What could I be missing?’ It has to be
+people whose music I admire or [who I follow] for
+emotional reasons.
+
+Leo described this strategy as a ritual he is unable to
+stop practicing. By considering algorithmic recommendations as a neutral window into other people’s lives,
+people normalize the use of specific technological features. Other affordances that allow this strategy are
+watching what others are listening on the platform
+(through the “Friend Activity” feature) and using the
+“Charts” tab to listen to “Top 50” artists in the country
+or other parts of the world.
+Conversely, strategies of resistance tend to take
+place when the surveillance of the Spotify being is
+more explicit. For some, algorithms disrupt Costa
+Rica’s much-valued social harmony when they “fail,”
+that is, when they recommend songs that users deem
+outside of their musical interests. At this point, algorithms show their surveillant “face” rather than remain
+hidden. According to one interviewee, “It always fails.
+Let’s just say that, of all the times Spotify has recommended something to me, I only like one song and
+that’s the only song I like from that band.”
+
+12
+
+Big Data & Society
+
+For others, surveillance becomes evident because of the
+way algorithmic recommendations are presented on the
+platform: they are explicit, arrive constantly, and have
+neither context nor explanation. Mario clarified this
+point during a focus group:
+I hate apps that suggest things to me! Do not tell me
+what I need to listen to! If I do want to listen to something new, I just ask another real person. [. . .] And
+there’s something else: I don’t like the interface. I feel
+like I’m in a labyrinth, like I’m getting inside a hole.
+(Emphasis added)
+
+In a similar manner, Luis, a 19-year old college student,
+indicated:
+If an algorithm recommends it to me, I don’t know if
+I’m going to listen to it, because it is always giving me
+music, whether I like it or not. Sometimes I pay attention to it and sometimes I just ignore it. People do have
+more value [than algorithms] because they do it [recommend music] personally.
+
+Luis thus uses ignorance of algorithms strategically.
+Other people indicated employing affordances that prevent algorithmic recommendations to appear in the
+first place, such as listening primarily to their playlists,
+searching for specific songs, or pre-defining the queue
+of songs they will listen to at any given time (cf. Siles
+et al., 2019b).
+The second theory we discussed is tied to a rather
+different set of action strategies. The belief that users
+are interacting with the platform is crucial in this case.
+In this view, users and algorithms are interconnected
+through feedback loops. Users expect that the Spotify
+machine will accomplish its role in this relationship and
+improve constantly to provide more specific music. In
+this sense, reliability works as a “data valence” (FioreGartland and Neff, 2015). Accordingly, they place
+responsibility on people: they need to hold up their end
+of the bargain. This set of action strategies acquires the
+status of an exigence. In order for individualization to
+work, users consider it mandatory to engage in feedbackgiving practices such as letting the platform know whether they liked a particular song (by tapping the “heart”
+feature), “following” an artist, and purposefully and
+repeatedly listening to certain music to establish a pattern
+that can be recognized by the platform. These strategies
+need to be carried out constantly and almost without
+exception to “train” algorithms appropriately.
+
+Concluding remarks
+This paper argued that folk theories matter for critical
+data studies because they help to broaden our
+
+understanding of how users make sense and relate to
+datafication processes in daily life. They also enable a
+better understanding of how people enact their agency
+in relation to these technologies. To make this case, we
+developed three main arguments.
+First, we contended that folk theories help to examine the cultural specificities of datafication processes.
+Because of the prevalence of this definition in the
+USA and other Western countries, it might seem
+“obvious” that people think of platforms like Spotify
+as a computational machine aimed at individualizing
+music experiences through Big Data procedures. Yet,
+in this paper, we demonstrated that not all people think
+of these platforms in this way. Alternatively, we proposed to shift the analytical focus and investigate
+instead why such definitions become “obvious,” for
+whom, and under what circumstances. In the case we
+examined here, what might seem “obvious” is the fact
+that users think of algorithmic technologies as an intermediary of social relationships. This is explained partially by the fact that surveillance has a relatively
+different history in Costa Rica and other countries in
+the South. Even the cultural meaning of quantification,
+perhaps well established in other places in the global
+North, changes when one goes “beyond data universalism” (Milan and Trere, 2019): users can adopt such
+thinking not because it is “natural” or “inevitable”
+but rather because it allows them to acquire a capacity
+they value (such as participating in global conversations about music and technology).
+Second, we provided an explanation of why users
+enact certain folk theories (over or alongside others).
+We built on the work of Swidler (1986, 2001) to suggest
+that folk theories operate as resources that allow individuals to obtain cultured capacities such as performing specific identities, negotiate belonging to social
+groups, and sustain existing social relationships.
+Paraphrasing Swidler (2001: 36), we showed that
+people do not simply have folk theories; they have
+vivid stories about how they received recommendations
+that shaped their social lives and selves. We envisioned
+folk theories as part of cultural repertoires and practices through which people enact data assemblages and
+their place in them. In this sense, folk theories become
+useful or acceptable resources for people if they fit with
+specific cultural situations and demands.
+Third, we argued that folk theories offer a key entry
+point into issues of agency in relation to algorithms. By
+situating folk theories as critical parts of the “systems
+of thought” that constitute data assemblages, we conceptualized agency as a product of the relationship
+between people and algorithms. Scholarly literature
+tends to portray a one-sided scenario of “algorithmic
+power.” In this paper, we sought to put forth an alternative to the tendency to assume rather than investigate
+
+Siles et al.
+algorithmic power. We showed that people do not
+think or act in the same ways when relating to algorithms. Concurring with Livingstone (2019), our perspective starts from the recognition “that all analyses of
+media power include, implicitly if not explicitly, claims
+about audiences, meaning that research with audiences
+[. . .] must be brought within in the critical project”
+(p. 179). Folk theories provide a useful resource to
+this end.
+Our approach also stressed an often-neglected
+dimension of agency in research about users and algorithms: imagination. Emirbayer and Mische (1998: 970)
+consider the “projective element” represented by imagination as one of the three components of the “chordal
+triad of agency,” alongside with habit and judgment.
+They explain, “Projectivity encompasses the imaginative generation by actors of possible future trajectories
+of action, in which received structures of thought and
+action may be creatively reconfigured in relation to
+actors’ hopes, fears, and desires for the future”
+(Emirbayer and Mische, 1998: 971). Despite some
+notable exceptions (Bucher, 2018), most accounts of
+user interaction with algorithms have been limited to
+discussions of the practical dimension of agency at the
+expense of imagination. Accordingly, researchers have
+located the agency of users in practices of resistance,
+autonomy, and awareness (Beuscart et al., 2019; Eslami
+et al., 2016). Yet, if algorithms are part of data assemblages where power is produced, a much thorough
+understanding of human and technological agency is
+warranted. In this sense, folk theories offer a way of
+empirically assessing how agency is enacted through
+both practice and imagination. We contributed to this
+critical project by showing how theories and imaginaries of algorithms relate to specific sets of action strategies that shape modalities of power and resistance.
+Further research could help to reach the analytic
+promise of folk theories for critical data studies. We
+suggest that a comparative research agenda could
+offer fruitful avenues for future studies. This research
+agenda rests on three building blocks. First, studies
+that compare findings from different research methods
+and data sources would help identify how users think of
+algorithmic technologies. In this paper, we hope to
+have shown the potential of various forms of qualitative research and triangulation (data, method, and
+investigator) for examining the workings of data
+assemblages from the perspective of users. Because
+technologies (such as algorithms) are complex procedures hidden from plain sight and embedded in larger
+socio-technical systems (Seaver, 2017), understanding
+them can be challenging for users. Thus, a combination
+of methods and sources with different sets of strengths
+should provide a better opportunity to reveal why
+people think (and act) as they do. In this sense,
+
+13
+qualitative methods provide an ideal supplement to
+so-called digital methods. By focusing on the results
+of users’ actions, digital methods offer great opportunities to understand what people actually do when they
+use technologies such as Spotify (rather than depending
+exclusively on users’ self-accounts). Yet, they also run
+the risk of taking for granted why people act the way
+they do or of projecting the researchers’ own folk theories onto users.
+Second, because of the emphasis on culture, empirical comparative studies of different geographical settings should enable a better understanding of how
+local or global certain folk theories are. In addition
+to studies between (and within) countries, this line of
+research could be conducted in different groups of
+people and various moments in time. For example,
+studies can be carried out with more casual users or
+individuals without formal education to assess the generalization potential of the theories we identified.
+Finally, research could examine the intuitive theories
+that emerge from a comparison of how people domesticate various platforms. As noted above, conceptions of
+how algorithms work on Spotify were informed by the
+use of other technologies (and vice versa). As a supplement to studies that focus on one single platform,
+research should account for how the proliferation of
+media technologies and logics shapes how users understand them both individually and collectively. After all,
+using multiple platforms is one of the staples of contemporary media ecologies.
+Acknowledgements
+We wish to extend a heartfelt thanks to Jean-Samuel
+Beuscart, Samuel Coavoux, Edgar G
+omez Cruz, and
+Larissa Tristán for their most helpful comments on previous
+versions of this manuscript. We also thank the editors of this
+journal, Matthew Zook and Jennifer Gabrys, and three anonymous reviewers for their exceptional suggestions.
+
+Declaration of conflicting interests
+The author(s) declared no potential conflicts of interest with
+respect to the research, authorship, and/or publication of this
+article.
+
+Funding
+The author(s) received no financial support for the research,
+authorship, and/or publication of this article.
+
+ORCID iD
+Ignacio Siles
+
+https://orcid.org/0000-0002-9725-8694
+
+14
+References
+Bell S, Berg T and Morse S (2019) Towards an understanding
+of rich picture interpretation. Systemic Practice and Action
+Research 32: 601–614.
+Bell S and Morse S (2013) How people use rich pictures to
+help them think and act. Systemic Practice and Action
+Research 26(4): 331–348.
+Beuscart JS, Maillard S and Coavoux S (2019) Les algorithmes de recommandation musicale et l’autonomie de
+l’auditeur. R
+eseaux 213(1): 17–47.
+Bucher T (2018) If.Then: Algorithmic Power and Politics.
+Oxford: Oxford University Press.
+Checkland P (1981) Systems Thinking, Systems Practice.
+Chichester: Wiley.
+Cohn J (2019) The Burden of Choice: Recommendations,
+Subversion and Algorithmic Culture. New Brunswick:
+Rutgers University Press.
+Cyr J (2016) The pitfalls and promise of focus groups as a
+data collection method. Sociological Methods & Research
+45(2): 231–259.
+Dalton C and Thatcher J (2014) What does a critical data
+studies look like, and why do we care? Seven points for a
+critical approach to ‘big data’. Society and Space 29.
+Available at: https://www.countercartographies.org/criti
+cal-data-studies-look-like/.
+DeVito MA, Birnholtz J, Hancock JT, et al. (2018) How
+people form folk theories of social media feeds and what
+it means for how we study self-presentation. In:
+Proceedings of the 2018 CHI conference on human factors
+in computing systems, Montreal, Canada, 21–26 April
+2018, pp.1–12. New York: ACM.
+DeVito MA, Gergle D and Birnholtz J (2017) “Algorithms
+ruin everything”: #RIPTwitter, folk theories, and resistance to algorithmic change in social media. In:
+Proceedings of the 2017 CHI conference on human factors
+in computing systems, Denver, CO, USA, May 2017,
+pp.3163–3174. New York: ACM.
+Emirbayer M and Mische A (1998) What is agency? American
+Journal of Sociology 103(4): 962–1023
+Eriksson M, Fleischer R, Johansson A, et al. (2019) Spotify
+Teardown: Inside the Black Box of Streaming Music.
+Cambridge: MIT Press.
+Eslami M, Karahalios K, Sandvig C, et al. (2016) First I
+“like” it, then I hide it: Folk theories of social feeds. In:
+Proceedings of the 2016 CHI conference on human factors
+in computing systems, San Jose, CA, USA, 7–12 May 2016,
+pp.2371–2382. New York: ACM.
+Fiore-Gartland B and Neff G (2015) Communication, mediation, and the expectations of data: Data valences across
+health and wellness communities. International Journal of
+Communication 9: 1466–1484.
+Fonteyn ME, Kuipers B and Grobe SJ (1993) A description
+of think aloud method and protocol analysis. Qualitative
+Health Research 3(4): 430–441.
+Gao G (2015) Latin America’s middle class grows, but in
+some regions more than others. Pew Research Center.
+http://www.pewresearch.org/fact-tank/2015/07/20/latinamericas-middle-class-grows-but-in-some-regions-morethan-others (accessed 18 March 2020).
+
+Big Data & Society
+Gelman SA and Legare CH (2011) Concepts and folk theories. Annual Review of Anthropology 40: 379–398.
+Gillespie T (2016) Algorithm. In: Peters B (ed.) Digital
+Keywords: A Vocabulary of Information Society and
+Culture. Princeton: Princeton University Press, pp.18–30.
+Harvey E (2014) Station to station: The past,
+present, and future of streaming music. Pitchfork.
+Available at: https://pitchfork.com/features/cover-story/
+reader/streaming/ (accessed 28 March 2020).
+Iliadis A and Russo F (2016) Critical data studies: An introduction. Big Data & Society 3(2): 1–7.
+Iqbal M (2019) Spotify usage and revenue statistics (2019).
+Business of apps. Available at: https://www.businesso
+fapps.com/data/spotify-statistics/ (accessed 28 March 2020).
+Kennedy H (2018) Living with data: Aligning data studies
+and data activism through a focus on everyday experiences
+of datafication. Krisis: Journal of Contemporary
+Philosophy 1: 18–30.
+Kitchin R (2014) The Data Revolution: Big Data, Open Data,
+Data Infrastructures and Their Consequences. London:
+Sage.
+Kitchin R and Lauriault TP (2014) Towards critical data
+studies: Charting and unpacking data assemblages and
+their work. The Programmable City Working Paper 2.
+Available at: https://papers.ssrn.com/sol3/papers.cfm?
+abstract_id=2474112 (accessed 18 March 2020).
+Levy KEC (2013) Relational big data. Stan L Rev Online 66:
+73–79.
+Livingstone S (2019) Audiences in an age of datafication:
+Critical questions for media research. Television & New
+Media 20(2): 170–183
+Lyon D (2006) The search for surveillance theories. In: Lyon
+D (ed.) Theorizing Surveillance: The Panopticon and
+Beyond. Cullompton: Willan Publishing, pp.3–20.
+Milan S and Trere E (2019) Big data from the South(s):
+Beyond data universalism. Television & New Media
+20(4): 319–335.
+Mol A (2002) The Body Multiple: Ontology in Medical
+Practice. Durham: Duke University Press.
+Porter TM (1995) Trust in Numbers: The Pursuit of
+Objectivity in Science and Public Life. Princeton:
+Princeton University Press.
+Prey R (2018) Nothing personal: Algorithmic individuation
+on music streaming platforms. Media, Culture, and Society
+40(7): 1086–1100.
+Rader E and Gray R (2015) Understanding user beliefs about
+algorithmic curation in the Facebook news feed. In:
+Proceedings of the 2018 CHI conference on human factors
+in computing system, Montreal, Canada, 21–26 April 2018,
+pp.173–182. New York: ACM.
+Red 506 (2018) Red 506. San Jose, Costa Rica: El Financiero.
+Rip A (2006) Folk theories of nanotechnologists. Science as
+Culture 15(4): 349–365.
+Rodrıguez-Arauz G, Mealy M, Smith V, et al. (2013) Sexual
+behavior in Costa Rica and the United States. International
+Journal of Intercultural Relations 13(1): 48–57.
+Sandoval C (2002) Threatening Others: Nicaraguans and the
+Formation of National Identities in Costa Rica. Athens:
+Ohio University Press.
+
+Siles et al.
+Seaver N (2017) Algorithms as culture: Some tactics for the
+ethnography of algorithmic systems. Big Data & Society
+4(2): 1–12.
+Segura MS and Waisbord S (2019) Between data capitalism
+and data citizenship. Television & New Media 20(4):
+412–419.
+Siles I (2013) Inventing Twitter: An iterative approach to
+new media development. International Journal of
+Communication 7: 2105–2127.
+Siles I and Boczkowski PJ (2012) At the intersection of content and materiality: A texto-material perspective on
+agency in the use of media technologies. Communication
+Theory 22(3): 227–249.
+Siles I, Espinoza J, Naranjo A, et al. (2019a) The mutual
+domestication of users and algorithmic recommendations
+on Netflix. Communication, Culture & Critique 12(4):
+499–518.
+
+15
+Siles I, Segura-Castillo A, Sancho M, et al. (2019b) Genres as
+social affect: Cultivating moods and emotions through
+playlists on Spotify. Social Media þ Society 5(2): 1–9.
+Swidler A (1986) Culture in action: Symbols and strategies.
+American Sociological Review 51(2): 273–286.
+Swidler A (2001) Talk of Love: How Culture Matters.
+Chicago: University of Chicago Press.
+Thibault G (2015) Streaming: A media hydrography of televisual flows. VIEW Journal of European Television History
+and Culture 4(7): 110–119.
+Toff B and Nielsen RK (2018) “I just Google it”: Folk theories of distributed discovery. Journal of Communication
+68(3): 636–657.
+Turk V (2019) What happened when I let algorithms run my
+life for a week. Wired. Available at: https://www.wired.co.
+uk/article/algorithm-decision-making (accessed 28 March
+2020).
+
+
