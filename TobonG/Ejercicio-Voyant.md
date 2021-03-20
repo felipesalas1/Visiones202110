@@ -1,6 +1,6 @@
-**Ejercicio Voyant Tools**
+## Ejercicio Voyant Tools ##
 
-Inicialmente, las palabras más comunes fueron _http_, _hipertexto_, _leer_, _información_ y _forma_. <br/><br/><br/>
+Inicialmente, las palabras más comunes fueron _http_, _hipertexto_, _leer_, _información_ y _forma_. <br/>
 ![flujo](img/flujo.png)
 
 Sin embargo, como se observa en el anterior gráfico de flujo, la palabra hipertexto se encuentra muy brevemente en los artículos 6 y 7, Y completamente ***ausente*** en 3, 4 y 5. Esto me lleva a pensar que, aunque hipertexto para mi proyecto sea una palabra _definitoria_, cuando se estudia transversalmente resulta redundante, pues pareciera que los textos estudiados la omiten no por su poca pertinencia sino por su obviedad: todo texto digital es entonces un _hipertexto_. <br/>
@@ -48,25 +48,25 @@ Y _web_ en 1 y 5:
 <br/>![mandala-web](img/mandala-web.png) <br/>
 Esta frecuencia de estos términos indicaría que la edición digital se estaría volcando —según los autores— hacia la publicación en línea más que hacia otro tipo de distribución. Personalmente, me atrevería a asegurar que no se ha contemplado otro medio de distribución que no se internet y, tal vez, no otro receptáculo para la publicación digital que una _Web_. Aunque habría que revisar a qué se refiere cada artículo con estos términos, todo parece apuntar a que toda edición digital debe ser publicada _en línea_, y que no se ha concebido un proyecto de edición que no requiera de dicha conexión.
 
-**4. tableta y ipad** 
-La frecuencia de esto dos términos llamó mi atención pues iluminó la pregunta **¿dónde —en qué dispositivo— lee el nuevo lector digital?**, pues, hasta ahora, no habíamos contemplado la dificultad que presenta el _formato_ de lectura, en tanto que este sea "adaptable" a múltiples dispositivos de lectura —y aquí no entraron en discusión las Kindle. 
+**4. Tableta y ipad** <br/>
+La frecuencia de esto dos términos llamó mi atención pues iluminó la pregunta ***¿dónde —en qué dispositivo— lee el nuevo lector digital?***, pues, hasta ahora, no habíamos contemplado la dificultad que presenta el _formato_ de lectura, en tanto que este sea "adaptable" a múltiples dispositivos de lectura —y aquí no entraron en discusión las Kindle. 
 Ahora, en contraste, parece que, al menos en cuanto a términos concierne, el más popular y utilizado en este corpus fue _tableta_, presente en 57% aprox. del corpus —en 4 de 7 textos:
 <br/>![madala-tableta](img/madala-tableta.png)<br/>
 
 Y _ipad_ en el restante 43% aprox.
 <br/>![mandala-ipad](img/mandala-ipad.png)<br/>
 
-**5. tei** <br/>
+**5. Tei** <br/>
 Este último término es sumamente interesante si, una vez más, lo ponemos en contexto:
 <br/>![mandala-tei](img/mandala-tei.png)<br/>
 Como podemos observar, _tei_ se encuentra exclusivamente en los textos 3 y 4, que son _La edición crítica digital de textos teatrales_ y _La edición digital de textos literarios planteamientos y perspectivas de futuro_ respectivamente. Esto ilumina la problemática de ***¿cómo "digitalizar" la literatura?*** específicamente ***el teatro***, ya que se hace referencia a esta herramienta de marcado digital en el único texto del corpus que trata directamente ejemplos de edición digital de teatro —texto 3— y, más aún, en un texto que se piensa el porvenir del campo —texto 4. Esta es una pregunta técnica, pero vital para este proyecto porque uno de sus componentes —como edición de obras completas— es la obra dramática —que Gertrudis Gómez de Avellaneda produjo prolíferamente— y buscamos la mejor _manera_ de "digitalizar" dicha obra.
 
-**Otros apuntes** <br/>
+### Otros apuntes ###
 En cuanto a Voyant Tools, quisiera destacar la herramienta _Dreamscape_, que está en desarrollo aún pero que ofrece un diagrama de posibles "conexiones" sobre un mapa geográfico. Es decir, muestra la "trayectoria geográfica" de los textos, de lo que hablan los textos y sus referencias, localizando las ciudades en el mapa y trazando líneas de "diálogo". Por ejemplo, en el corpus conectó la _Universidad Católica de Pelotas_, en Brasil, con la _Complutense_ de Madrid:
-<br/>![conexión-brasil-españa](img/conexión-brasil-españa.png)<br/>
+<br/>![conexión-brasil-españa](img/conexión-brasil-españa.png) <br/>
 
-Hay que reconocer que esta herramienta aún está en desarrollo y por eso tiene fallas como aquí, que confundió el apellido _Cantón_ con la ciudad China:
+Hay que reconocer que esta herramienta aún está en desarrollo y por eso tiene fallas como aquí, que confundió el apellido _Cantón_ con la ciudad China: <br/>
 ![error-cantón](img/error-cantón.png)
 
-Pero, en general puede ayudar a hacer conexiones geográficas que resultan interesantes para localizar espacialmente el diálogo, como esta entre Madrid —Universidad Complutense— y Cambridge:
+Pero, en general puede ayudar a hacer conexiones geográficas que resultan interesantes para localizar espacialmente el diálogo, como esta entre Madrid —Universidad Complutense— y Cambridge: <br/>
 ![madrid-cambridge](img/madrid-cambridge.png)
