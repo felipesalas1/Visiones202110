@@ -84,7 +84,7 @@ video (video)
 teaching (enseñanza)
 
 
-#### 5. Amplicación de búsquedas/ tema de investifación después del análisis. 
+#### 5. Ampliación de búsquedas/ tema de investigación después del análisis. 
 
 A continuación algunas ideas sobre ampliación de búsquedas sonbre el tema de investigación. 
 
