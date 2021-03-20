@@ -20,7 +20,8 @@ Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico:
 ![madala-internet](img/madala-internet.png)
 ![madala-tei](img/madala-tei.png)
 ![madala-hipertexto](img/madala-hipertexto.png)
-![dreamscape-error](img/dreamscape-error.png)
+![dreamspace-error](img/dreamspace-error.png)
+
 ![error-cantón](img/error-cantón.png)
 ![conexión-brasil-españa](img/conexión-brasil-españa.png)
 
