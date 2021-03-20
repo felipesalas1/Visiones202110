@@ -12,7 +12,7 @@ Así pues, habiendo eliminado dichas palabras, nos queda el siguiente gráfico: 
 ![flujo02](img/flujo02.png)
 
 <br/>
-El cual es interesante por dos acepciones: _papel_ y el número _2013_. La palabra _papel_ resalta en este corpus porque referencia a otro _tipo_ de edición —la edición análoga. Esto puede conducirnos a pensar que la edición digital en sí misma no puede describirse, posicionarse, sin retomar elementos de su predecesora. En contraste, es muy interesante que aparezca el número _2013_ con esta frecuencia en la mayoría de los textos —se encuentra brevemente en los textos 2, 6 y 7, lo que representa menos del 50% del corpus. Esto puede indicar que en este año pasó algo importante para la edición digital, o bien, que muchos textos sobre este tema fueron escritos este año, o que hay un texto de este año muy importante que fue citado varias veces en casi todo el corpus —debo revisar cuál de estas posibilidades es la correcta. 
+El cual es interesante por dos acepciones: _papel_ y el número _2013_. La palabra papel resalta en este corpus porque referencia a otro _tipo_ de edición —la edición análoga. Esto puede conducirnos a pensar que la edición digital en sí misma no puede describirse, posicionarse, sin retomar elementos de su predecesora. En contraste, es muy interesante que aparezca el número _2013_ con esta frecuencia en la mayoría de los textos —se encuentra brevemente en los textos 2, 6 y 7, lo que representa menos del 50% del corpus. Esto puede indicar que en este año pasó algo importante para la edición digital, o bien, que muchos textos sobre este tema fueron escritos este año, o que hay un texto de este año muy importante que fue citado varias veces en casi todo el corpus —debo revisar cuál de estas posibilidades es la correcta. 
 <br/><br/>
 
 Con más depuración de términos nos resulta esta otra gráfica: <br/><br/>
@@ -27,7 +27,7 @@ Asimismo, otra herramienta que iluminó mucho más el corpus fue _Mandala_: <br/
 
 Este diagrama sí lo manipulé más arbitrariamente puesto que, después de analizar las evidencias que arrojaron los Gráficos de flujo que vimos anteriormente, generé mi propia lista de _palabras clave_ que considero personalmente vale la pena examinar a detalle dentro del corpus.
 
-Revisemos las relaciones de los términos resultantes con los textos: 
+Revisemos las relaciones de los términos resultantes con los textos: <br/>
 **1. Hipertexto**
 <br/>![mandala-hipertexto](img/mandala-hipertexto.png)<br/>
 Aquí podemos evidenciar que este término, en efecto, no es transversal a todo el corpus, no es tan importante y, como se dijo anteriormente, se podría obviar. Definir un _hipertexto_ no es el "objetivo" de estos textos. 
