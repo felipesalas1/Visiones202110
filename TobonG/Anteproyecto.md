@@ -31,10 +31,13 @@ Con este proyecto me propongo realizar una edición digital de la obra completa 
 * Ubicación geográfica de dichos viajes en contraste con "centros culturales" de la época (teatros, principalmente).
 * Despliegue de su obra completa transcrita.
 * Despliegue y vinculación de la obra "facsimilar", o bien, de las primeras ediciones de las cuales se tomó el texto transcrito —están en la bibliografía.
-* Compilación de imágenes de la autora (no son muchas las existentes entonces tendré que pedir ayuda para ilustrar un poco el libro) que enriquezcan la estética de la aplicación web, le den fluidez a la lectura y a su vez homogeneicen el aspecto general del libro.
-* Clips de audio que contengan lectura en voz alta de las obras (al menos de los poemas, en primera instancia).
+* Compilación de imágenes de la autora —no son muchas las existentes entonces tendré que pedir ayuda para ilustrar un poco el libro— que enriquezcan la estética de la aplicación web, le den fluidez a la lectura y a su vez homogeneicen el aspecto general del libro.
+* Clips de audio que contengan lectura en voz alta de las obras —al menos de los poemas, en primera instancia.
 
 **Problema**
+El problema podría ser, en un principio, la "democratización" del conocimiento, de la literatura, en específico de la obra de la autora. ¿Por qué hay que editar a Gertrudis Gómez de Avellaneda ***hoy en día***? Se trata de una de las precursoras de la literatura del romanticismo —fundadora del movimiento en Latinoamérica—, además de la merecida visibilización de la literatura femenina. ¿Por qué editar a Gertrudis Gómez de Avellaneda ***en digital***? El medio digital es el medio de masificación de la información que está en auge hoy en día, es el medio perfecto para crear un _nicho_ que promueva el estudio de la autora, ya que permite la constante e instantánea comunicación e interacción de diversos lectores —tanto el experto como el estudiante y el apasionado.
+
+Sin embargo, otro problema que ronda este proyecto serían las cuestiones que apelan al _nuevo lector_, la _edición digital_ en general y _el libro electrónico_ en específico. ¿En qué consiste una edición literaria digital? ¿Cómo pensar el espacio digital como un espacio propicio para le lectura? ¿A qué tipo de lector me enfrento al proponer una edición digital? ¿Cómo dista el lector digital del análogo? y ¿Qué puedo hacer para mejorar _el libro digital_ con el fin de que se afine más a las necesidades y los derechos del _nuevo lector_ digital?
 
 **Hipótesis de trabajo**
 
@@ -45,3 +48,6 @@ Con este proyecto me propongo realizar una edición digital de la obra completa 
 * Esta es la bibliografía general que continene la obra completa de Gertrudis Gómez de Avellaneda: https://www.zotero.org/gntobonb/collections/DYZ3W9U8
 
 * Esta es bibliografía de apoyo sobre el libro y la lectura digitales: https://www.zotero.org/gntobonb/collections/UJU5VSYM
+
+**Referentes**
+* 
