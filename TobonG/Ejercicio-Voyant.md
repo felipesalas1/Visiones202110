@@ -1,7 +1,7 @@
 **Ejercicio Voyant Tools**
 
 
-![Gráfico de flujo](img/Gráfico-de-flujo.png)
+![flujo](img/flujo.png)
 
 
 
