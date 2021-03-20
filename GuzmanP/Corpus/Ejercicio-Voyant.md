@@ -47,10 +47,17 @@ A continuación algunas ideas sobre ampliación de búsquedas sonbre el tema de 
 
 #### 6. Palabras en el corpus con más relación. Correlación entre términos. 
 
-Se incluyen las palabras que tengan el puntaje de correlación más cercano a 1 que significa una relación directamente proporcional (lineal creciente), si una variable aumenta, la otra también. 
+Se incluyen las palabras que tengan el puntaje de correlación más cercano a 1; puntuación que significa una relación directamente proporcional (lineal creciente), si una variable aumenta, la otra también. Por otro lado, se incluye en el análisis las palabras que tengan el puntaje de significación menor a 0.05 que representa una relación fuerte. 
 
 ![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Correlaciones.png)
 
-Por otro lado, se incluye en el análisis las palabras que tengan el puntaje de significación menor a 0.5 que representa una relación fuerte. 
+Las palabras en el corpus que tienen más correlación y significación son: 
+
+* **education (educación)- learning (aprendizaje)**
+* **dance (danza) - learning (aprendizaje)**
+* **digital (digital) - learning (aprendizaje)**
+* **creative (creativo) - learning (aprendizaje)**
+
+Las siguientes palabras tienen un puntaje de significación mayor 0.05 que no evidencian una relación fuerte. 
 
 
