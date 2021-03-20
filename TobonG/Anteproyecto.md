@@ -11,7 +11,7 @@ Génesis Natalia Tobón Becerra
 201617884
 
 **Fecha** 
-Marzo, 5 de 2021
+Marzo, 19 de 2021
 
 **Título**
 _Una lectura digital de Gertrudis Gómez de Avellaneda: Obra completa_
