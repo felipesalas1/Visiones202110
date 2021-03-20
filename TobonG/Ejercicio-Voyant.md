@@ -1,6 +1,6 @@
 ## Ejercicio Voyant Tools ##
-
-Inicialmente, las palabras más comunes fueron _http_, _hipertexto_, _leer_, _información_ y _forma_. <br/><br/><br/>
+<br/><br/><br/>
+Inicialmente, las palabras más comunes fueron _http_, _hipertexto_, _leer_, _información_ y _forma_. <br/>
 ![flujo](img/flujo.png)
 
 Sin embargo, como se observa en el anterior gráfico de flujo, la palabra hipertexto se encuentra muy brevemente en los artículos 6 y 7, Y completamente ***ausente*** en 3, 4 y 5. Esto me lleva a pensar que, aunque hipertexto para mi proyecto sea una palabra _definitoria_, cuando se estudia transversalmente resulta redundante, pues pareciera que los textos estudiados la omiten no por su poca pertinencia sino por su obviedad: todo texto digital es entonces un _hipertexto_. <br/>
