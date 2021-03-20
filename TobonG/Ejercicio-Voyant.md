@@ -20,15 +20,25 @@ Con más depuración de términos nos resulta esta otra gráfica: <br/><br/>
 <br/>
 
 Aquí, las nueva palabras más frecuentes son: _conocimiento_, _acceso_ y _nuevo_. Sin embargo, revisando la herramienta _contextos_ de Voyant Tools, podemos descartarlos, pues están ligados uno a otro en frases como "(...) nuevo acceso al conocimiento (...)". Aunque el ejemplo anterior sustentaría mi hipótesis "lo digital como el medio de acceso al conocimiento", no es pertinente en esta búsqueda cuntítativa de términos. No obstante, sí apunta a _validar_ este corpus por su pertinencia en mi pesquisa. 
-
 <br/><br/>
-
-Asimismo, otra depuración importante fue 
-
+Asimismo, otra herramienta que iliminó mucho más el corpus fue _Mandala_: <br/><br/>
 ![mandala](img/mandala.png)
+<br/>
+
+Este diagráma sí lo manipulé más arbitrariamente puesto que, depués de analizar las evidencias que arrojaron los Gráficos de flujo que vimos anteriormente, generé mi propia lista de _palabras clave_ que considero personalmente vale la pena examinar a detalle dentro del corpus.
+
+Revisemos las relaciones de los términoa resultantea con los textos: 
+1. **Hipertexto**<br/>
+![mandala-hipertexto](img/mandala-hipertexto.png)
+<br/>
+Aquí podemos evidenciar que este término, en efecto, no es tranvesal a todo el corpus, no es tan importante y, como se dijo enteriormente, se podría obviar. Definir un _hipertexto_ no es el "objetivo" de estos textos. 
+
+2. **Web, internet y http** <br/>
+3. **tableta y ipad** <br/>
+4. **tei** <br/>
 
 ![madala-tableta](img/madala-tableta.png)
-![mandala-hipertexto](img/mandala-hipertexto.png)
+
 ![mandala-internet](img/mandala-internet.png)
 ![mandala-ipad](img/mandala-ipad.png)
 ![mandala-web](img/mandala-web.png)
