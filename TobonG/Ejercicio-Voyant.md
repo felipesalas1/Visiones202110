@@ -28,22 +28,32 @@ Asimismo, otra herramienta que iliminó mucho más el corpus fue _Mandala_: <br/
 Este diagráma sí lo manipulé más arbitrariamente puesto que, depués de analizar las evidencias que arrojaron los Gráficos de flujo que vimos anteriormente, generé mi propia lista de _palabras clave_ que considero personalmente vale la pena examinar a detalle dentro del corpus.
 
 Revisemos las relaciones de los términoa resultantea con los textos: 
-1. **Hipertexto**<br/>
+**1. Hipertexto**<br/>
 ![mandala-hipertexto](img/mandala-hipertexto.png)
 <br/>
 Aquí podemos evidenciar que este término, en efecto, no es tranvesal a todo el corpus, no es tan importante y, como se dijo enteriormente, se podría obviar. Definir un _hipertexto_ no es el "objetivo" de estos textos. 
 
-2. **Web, internet y http** <br/>
-3. **tableta y ipad** <br/>
-4. **tei** <br/>
-
-![madala-tableta](img/madala-tableta.png)
-
-![mandala-internet](img/mandala-internet.png)
-![mandala-ipad](img/mandala-ipad.png)
-![mandala-web](img/mandala-web.png)
-![mandala-http](img/mandala-http.png)
+**2. Literatura** <br/>
 ![mandala-literatura](img/mandala-literatura.png)
+A pesar de que este término puede parecer obvio en un corpus como este, creo que es importante que lo resaltemos pues esta palabra "aterriza" un poco este conjunto de textos. La edición en sí es algo bastante grande que, generalmente, alude a la literatura, pero **NO** es necesariamente constitutiva de la acción de _editar_. Su presencia en la totalidad de este corpus es señal, una vez, de la pertinencia, validez y _alineación_ con los objetivos de este proyecto -que son enteramente literarios.
+
+**3. Web, internet y http** <br/>
+En este caso, el término predominante, presente en todos los textos, es _http_: ![mandala-http](img/mandala-http.png) <br/>
+Esto parece indicar que _http_ es el término que "definiría" el corpus. Sin embargo, si hacemos una indagación más profunda con la herramienta "Contextos", nos podemmos dar cuenta que _http_ se repite en todo el corpus por su caracter literal y no referencial. Es decir, _http_ aparece en todos los textos porque se han citado direcciones electrónicas, pero no por su concepto de _Hypertext Transfer Protocol_. Entonces, debimos haberlo excluído antes. <br/>
+
+Por otro lado, _internet_ sólo se encuentra ausente en el texto 1: ![mandala-internet](img/mandala-internet.png) <br/>
+Y _web_ en 1 y 5: ![mandala-web](img/mandala-web.png) <br/>
+Esta frecuencia de estos términos indicaría que la edición digital se estaría volcando -según los autores- hacia la publicación en línea más que hacia otro tipo de distribución. Personalmente, me atrevería a asegurar que no se ha contemplado otro medio de distribución que no se internet y, tal vez, no otro receptáculo para la publicación digital que una _Web_. Aunque habría que revisar a qué se refiere cáda artículo con estos términos, todo parece apuntar a que toda edición digital debe ser publicada _en línea_, y que no se ha concevido un proyecto de edición que no requiera de dicha conexión.
+
+
+
+
+
+**4. tableta y ipad** <br/>
+![madala-tableta](img/madala-tableta.png)
+![mandala-ipad](img/mandala-ipad.png)
+
+**5. tei** <br/>
 ![mandala-tei](img/mandala-tei.png)
 
 
