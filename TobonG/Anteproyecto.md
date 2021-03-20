@@ -7,22 +7,22 @@
 
 Génesis Natalia Tobón Becerra 
 
-**Código** 
+**Código** <br /> 
 201617884
 
-**Fecha** 
+**Fecha** <br />
 Marzo, 19 de 2021
 
-**Título**
+**Título** <br />
 _Una lectura digital de Gertrudis Gómez de Avellaneda: Obra completa_
 
 
-**Palabras Clave:**
+**Palabras Clave** <br />
 Gertrudis Gómez de Avellaneda; libro digital; literatura; poesía; ensayo; teatro;
 
 **Abstract**
 
-**Objetivo General:**
+**Objetivo General:** <br />
 Con este proyecto me propongo realizar una edición digital de la obra completa de Gertrudis Gómez de Avellaneda que explore herramientas digitales intrínsecas de la creación de libros electrónicos. Así pues, el objetivo investigativo principal es encontrar las herramientas digitales que mejor se adapten a las necesidades del _nuevo lector_, el lector digital que demanda estímulos multisensoriales, hiper-conectividad multidireccional, y rechaza la simpleza y linealidad del formato pdf. Se busca que el producto final le ofrezca a este lector una lectura enriquecida tanto visualmente como en conexiones a aparatos investigativos externos y, ante todo, participativa (estilo Perusall).
 
 **Lista de productos esperados**
@@ -42,7 +42,7 @@ Sin embargo, otro problema que ronda este proyecto serían las cuestiones que ap
 Aún no lo tengo claro, pero creo que existe una conexión estrecha entre el primer problema —la democratización del conocimiento— y el segundo —la literatura digital—, siendo el último el _móvil_ dentro del 'cual se podría llevar a cabo' el anterior. En otras palabras, plantearía que para lograr una _democratización del conocimiento_ el mejor medio es, sin duda, la _literatura digital_. (este último argumento podría bien encajar como ***hipótesis de trabajo***)
 
 **Hipótesis de trabajo**
-**Fuentes** ----
+**Fuentes** <br />
 ¿Aquí irían las obras de la autora que pretendo "digitalizar" o las referencias sobre el libro y la lectura digitales?
 
 **Metodología**
