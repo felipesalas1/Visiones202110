@@ -11,6 +11,8 @@
 
 ## Análisis de seis documentos de bibliografía anotada en la aplicación Voyant Tools.
 
+El corpus analizado tiene 6 documentos con 54,974 total de palabras y 6,785 formulario de palabra única.
+
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2819973/bibliografa_visiones_guzman/library 
 Carpeta _*Corpus documental*_. 
 
@@ -36,7 +38,21 @@ pedagogy (pedagogía)
 
 #### 4. Categorización de lista de palabras más comunes. Creación de etiquetas. 
 
-
+dance (danza)
+learning (aprendizaje)
+technology (tecnología)
+research (investigación)
+education (educación)
+online (en línea)
+practice (práctica)
+project (proyecto)
+teaching (enseñanza)
+digital (digital)
+process (proceso)
+student (estudiante)
+creative (creativo)
+technique (técnica)
+video (video)
 
 #### 5. Amplicación de búsquedas/ tema de investifación después del análisis. 
 
