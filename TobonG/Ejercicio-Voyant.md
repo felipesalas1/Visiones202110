@@ -15,13 +15,12 @@ Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico:
 
 ![madala-tableta](img/madala-tableta.png)
 ![mandala-hipertexto](img/mandala-hipertexto.png)
-
-![madala-ipad](img/madala-ipad.png)
-![madala-web](img/madala-web.png)
-![madala-http](img/madala-http.png)
-![madala-literatura](img/madala-literatura.png)
-![madala-internet](img/madala-internet.png)
-![madala-tei](img/madala-tei.png)
+![mandala-internet](img/mandala-internet.png)
+![mandala-ipad](img/mandala-ipad.png)
+![mandala-web](img/mandala-web.png)
+![mandala-http](img/mandala-http.png)
+![mandala-literatura](img/mandala-literatura.png)
+![mandala-tei](img/mandala-tei.png)
 
 
 ![dreamspace-error](img/dreamspace-error.png)
