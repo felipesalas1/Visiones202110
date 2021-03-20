@@ -15,9 +15,7 @@ Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico:
 El cual es interesante por dos acepciones: _papel_ y el número _2013_. La palabra _papel_ resalta en este corpus porque referencia a otro _tipo_ de edición -la edición análoga. Esto puede conducirnos a pensar que la edición digital en sí misma no puede describirse, posicionarse, sin retomar elementos de su predecesora. En contraste, es muy interesante que aparezca el número _2013_ con esta frecuencia en la mayoría de los textos -se encuentra brevemente en los textos 2, 6 y 7, lo que representa menos del 50% del corpus. Esto puede indicar que en este año pasó algo importante para la edición digital, o bien, que muchos textos sobre este tema fueron escritos este año, o que hay un texto de este año muy importante que fue citado varias veces en casi todo el corpus -debo revisar cuál de estas posibilidades es la correcta. 
 <br/><br/>
 
-Con más depuración de términos nos resulta esta otra gráfica: 
-
-<br/><br/>
+Con más depuración de términos nos resulta esta otra gráfica: <br/><br/>
 ![flujo03](img/flujo03.png)
 <br/>
 
