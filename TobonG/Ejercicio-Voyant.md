@@ -63,10 +63,10 @@ Como podemos observar, _tei_ se encuentra exclusivamente en los textos 3 y 4, qu
 
 ### Otros apuntes ###
 En cuanto a Voyant Tools, quisiera destacar la herramienta _Dreamscape_, que está en desarrollo aún pero que ofrece un diagrama de posibles "conexiones" sobre un mapa geográfico. Es decir, muestra la "trayectoria geográfica" de los textos, de lo que hablan los textos y sus referencias, localizando las ciudades en el mapa y trazando líneas de "diálogo". Por ejemplo, en el corpus conectó la _Universidad Católica de Pelotas_, en Brasil, con la _Complutense_ de Madrid:<br/>
-<br/>![conexión-brasil-españa](img/conexión-brasil-españa.png) <br/>
+<br/>![conexión-brasil-españa](img/conexión-brasil-españa.png) <br/><br/>
 
 Hay que reconocer que esta herramienta aún está en desarrollo y por eso tiene fallas como aquí, que confundió el apellido _Cantón_ con la ciudad China: <br/><br/>
-![error-cantón](img/error-cantón.png)
+![error-cantón](img/error-cantón.png)<br/><br/>
 
 Pero, en general puede ayudar a hacer conexiones geográficas que resultan interesantes para localizar espacialmente el diálogo, como esta entre Madrid —Universidad Complutense— y Cambridge: <br/><br/>
 ![madrid-cambridge](img/madrid-cambridge.png)
