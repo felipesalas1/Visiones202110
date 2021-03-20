@@ -1,6 +1,9 @@
 **Ejercicio Voyant Tools**
 
 
+En el siguiente Gráfico de flujo:
+
+![export URL](img/Gráfico de flujo.png)
 
 ¿Cuáles son las palabras más comunes en sus artículos? 
 ¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema? 
