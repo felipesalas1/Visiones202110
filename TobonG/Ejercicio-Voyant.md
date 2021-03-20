@@ -62,11 +62,11 @@ Este último término es sumamente interesante si, una vez más, lo ponemos en c
 Como podemos observar, _tei_ se encuentra exclusivamente en los textos 3 y 4, que son _La edición crítica digital de textos teatrales_ y _La edición digital de textos literarios planteamientos y perspectivas de futuro_ respectivamente. Esto ilumina la problemática de ***¿cómo "digitalizar" la literatura?*** específicamente ***el teatro***, ya que se hace referencia a esta herramienta de marcado digital en el único texto del corpus que trata directamente ejemplos de edición digital de teatro —texto 3— y, más aún, en un texto que se piensa el porvenir del campo —texto 4. Esta es una pregunta técnica, pero vital para este proyecto porque uno de sus componentes —como edición de obras completas— es la obra dramática —que Gertrudis Gómez de Avellaneda produjo prolíferamente— y buscamos la mejor _manera_ de "digitalizar" dicha obra.
 
 ### Otros apuntes ###
-En cuanto a Voyant Tools, quisiera destacar la herramienta _Dreamscape_, que está en desarrollo aún pero que ofrece un diagrama de posibles "conexiones" sobre un mapa geográfico. Es decir, muestra la "trayectoria geográfica" de los textos, de lo que hablan los textos y sus referencias, localizando las ciudades en el mapa y trazando líneas de "diálogo". Por ejemplo, en el corpus conectó la _Universidad Católica de Pelotas_, en Brasil, con la _Complutense_ de Madrid:
+En cuanto a Voyant Tools, quisiera destacar la herramienta _Dreamscape_, que está en desarrollo aún pero que ofrece un diagrama de posibles "conexiones" sobre un mapa geográfico. Es decir, muestra la "trayectoria geográfica" de los textos, de lo que hablan los textos y sus referencias, localizando las ciudades en el mapa y trazando líneas de "diálogo". Por ejemplo, en el corpus conectó la _Universidad Católica de Pelotas_, en Brasil, con la _Complutense_ de Madrid:<br/>
 <br/>![conexión-brasil-españa](img/conexión-brasil-españa.png) <br/>
 
-Hay que reconocer que esta herramienta aún está en desarrollo y por eso tiene fallas como aquí, que confundió el apellido _Cantón_ con la ciudad China: <br/>
+Hay que reconocer que esta herramienta aún está en desarrollo y por eso tiene fallas como aquí, que confundió el apellido _Cantón_ con la ciudad China: <br/><br/>
 ![error-cantón](img/error-cantón.png)
 
-Pero, en general puede ayudar a hacer conexiones geográficas que resultan interesantes para localizar espacialmente el diálogo, como esta entre Madrid —Universidad Complutense— y Cambridge: <br/>
+Pero, en general puede ayudar a hacer conexiones geográficas que resultan interesantes para localizar espacialmente el diálogo, como esta entre Madrid —Universidad Complutense— y Cambridge: <br/><br/>
 ![madrid-cambridge](img/madrid-cambridge.png)
