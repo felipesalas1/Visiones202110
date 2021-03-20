@@ -42,12 +42,12 @@ Sin embargo, otro problema que ronda este proyecto serían las cuestiones que ap
 
 Aún no lo tengo claro, pero creo que existe una conexión estrecha entre el primer problema —la democratización del conocimiento— y el segundo —la literatura digital—, siendo el último el _móvil_ dentro del 'cual se podría llevar a cabo' el anterior. En otras palabras, plantearía que para lograr una _democratización del conocimiento_ el mejor medio es, sin duda, la _literatura digital_. (este último argumento podría bien encajar como ***hipótesis de trabajo***)
 
-**Hipótesis de trabajo** <br />
+**Hipótesis de trabajo** <br /><br />
 
 **Fuentes** <br />
 ~~¿Aquí irían las obras de la autora que pretendo "digitalizar" o las referencias sobre el libro y la lectura digitales?~~
 
-**Metodología** <br />
+**Metodología** <br /><br />
 
 **Bibliografía anotada**
 * Esta es la bibliografía general que contiene la obra completa de Gertrudis Gómez de Avellaneda: https://www.zotero.org/gntobonb/collections/DYZ3W9U8
