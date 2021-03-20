@@ -12,7 +12,8 @@ Así pues, habíendo eliminado dichas palabras, nos queda el siguiente gráfico:
 
 ![flujo02](img/flujo02.png)
 ![flujo03](img/flujo03.png)
-
+![madala-tableta](img/madala-tableta.png)
+![madala-ipad](img/madala-tableta.png)![madala-tableta](img/madala-tableta.png)![madala-tableta](img/madala-tableta.png)![madala-tableta](img/madala-tableta.png)![madala-tableta](img/madala-tableta.png)![madala-tableta](img/madala-tableta.png)![madala-tableta](img/madala-tableta.png)
 
 ¿Cuáles son las palabras más comunes en sus artículos? 
 ¿Hay palabras que excluiría o incluiría en futuras consultas sobre su tema? 
