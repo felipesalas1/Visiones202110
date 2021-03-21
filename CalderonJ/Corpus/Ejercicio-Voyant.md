@@ -17,7 +17,7 @@ Incluiría ‘hispanoamericana’ o, en todo caso, ‘latinoamericana’, debido
 
 •	Al revisar la lista de "distinctive words", ¿podría organizar bajo una etiqueta común algunas de ellas?
 
-Podrían entenderse como categorías próximas las palabras ‘digital’ y ‘electrónica’ cuando se usan para definir un tipo de literatura. Si bien se refiere una, ‘digital’, a una subcategoría de la otra, 'electrónica', en los casos revisados la distinción no es relevante. Podría agruparse bajo una etiqueta como ‘tipo’, mientras que ‘poesía’ y ‘literatura’ podrían responder a la etiqueta ‘creación’ junto con ‘texto’ y ‘obra’. Encuentro que los distintos textos agrupan de manera casi uniforme las palabras más recurrentes. Así lo muestra la mandala. 
+Podrían entenderse como categorías próximas las palabras ‘digital’ y ‘electrónica’ cuando se usan para definir un tipo de literatura. Si bien se refiere una, ‘digital’, a una subcategoría de la otra, 'electrónica', en los casos revisados la distinción no es relevante. Podría agruparse bajo una etiqueta como ‘tipo’, mientras que ‘poesía’ y ‘literatura’ podrían responder a la etiqueta ‘creación’ junto con ‘texto’ y ‘obra’. Encuentro que los distintos textos agrupan de manera casi uniforme las palabras más recurrentes. Ello creo que demuestra que las fuentes se mueven dentro de un nivel general. Así lo muestra la mandala. 
 ![Imagen de mandala](
 https://github.com/nivaca/Visiones202110/blob/main/CalderonJ/Corpus/Mandala.png)
 
