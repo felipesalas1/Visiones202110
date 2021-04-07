@@ -26,7 +26,7 @@ Según el corpus que se creó, se visualiza la siguiente nube de palabras.
 
 Las 15 palabras más comúnes en el corpus son: dance (danza), learning (aprendizaje), technology (tecnología), research (investigación), education (educación), online (en línea), practice (práctica), project (proyecto), teaching (enseñanza), digital (digital), process (proceso), student (estudiante), creative (creativo), technique (técnica) y video (video). 
 
-![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Palabras%20ma%CC%81s%20comunes.png)
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Palabras%20m%C3%A1s%20comunes.png)
 
 #### 2. Palabras excluidas. 
 
@@ -40,11 +40,11 @@ pedagogy (pedagogía)
 
 A partir del gráfico de mandala que la aplicación visualiza, que muestra las relaciones entre los términos según su frecuencia, se deduce una categorización según las intersecciones más comunes. Estos son los principales términos de búsqueda (términos imanes) que extraen documentos hacia ellos. 
 
-![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Mandala:categori%CC%81as.png)
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/Mandala:categor%C3%ADas.png)
 
 Del árbol de palabras que se visualiza se pueden extraer palabras adicionales para ser categorizadas; studio (estudio), learner (aprendiz), community (comunidad). 
 
-![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/A%CC%81rbol%20de%20palabras.png)
+![imagen](https://github.com/nivaca/Visiones202110/blob/main/GuzmanP/Corpus/Im%C3%A1genes/%C3%81rbol%20de%20palabras.png)
 
 
 ##### _*Categorías y palabras principales emcarcadas en cada etiqueta:*_
