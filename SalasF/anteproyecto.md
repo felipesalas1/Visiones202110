@@ -36,7 +36,27 @@ Los algoritmos de recomendación, desde su concepción, están sesgados y siguen
 
 ## Fuentes
 
+
+**Referentes - APIs**
+
+Un posible inconveniente con el uso de las APIs es que estas pueden cambiar la cantidad y los datos que se pueden obtener de la plataforma. Por ahora, su uso es gratuito y permiten crear una cuenta de desarrollador para hacer uso de la herramienta. Sin embargo, se debe tener en cuenta los términos y condiciones del uso de las APIs y revisar que el proyecto sigue respetando el uso de las plataformas.
+
+* Apple. Apple Music API | Apple Developer Documentation. https://developer.apple.com/documentation/applemusicapi/. Consultado el 9 de febrero de 2021.
+
+* Google. “Youtube API”. Google Developers API, https://developers.google.com/youtube/v3.
+
+* Spotify. Web API | Spotify for Developers. https://developer.spotify.com/documentation/web-api/. Consultado el 9 de febrero de 2021.
+
+
 ## Metodología
+
+Para el desarrollo de este proyecto se usará un servidor web, el frontend va a ser en HTML y CSS y el back end, para ser compatible con los APIs de las plataformas de streaming, va a hacerse en JSON basándose en REST y en JS (estoy considerando Python). Para poder desplegar los primeros prototipos de la plataforma usaré la capa gratuita de Amazon AWS, la cual me permitirá, por un año, tener acceso a un servidor web en la nube para hacer las pruebas y prototipos.  
+  
+La plataforma consiste en recomendar nuevos proyectos musicales a los usuarios. Para hacer esto, se va a tener en cuenta su librería de música, las recomendaciones que da el algoritmo de las plataformas y la la base datos propia de proyectos musicales. El producto final es una playlist creada a la medida de cada usuario.  
+  
+Es importante tener en cuenta que las APIs pueden limitar el número de datos entregados por cada consulta, esto puede ser un problema al consultar la librería musical de los usuarios. Por lo anterior, es necesario recopilar información de proyectos musicales bogotanos de fuentes externas (fuentes propias, colectivos musicales de la ciudad como La Cara de Emer, El Enemigo, EMV –una rama del IDRD–, y bases de datos distritales de músicos), para después categorizarlas y hacer recomendaciones en grupos más pequeños. 
+
+
 
 ## Bibliografía anotada
 
