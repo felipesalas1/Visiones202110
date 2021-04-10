@@ -58,8 +58,5 @@ Personalmente, he tenido contacto con _Scalar_ &mdash;plataforma especializada e
 
 * Esta es bibliografía de apoyo sobre el libro y la lectura digitales: https://www.zotero.org/groups/2850890/bibliografa-visiones/collections/NV5KVNUV 
 
-* Esta es la bibliografía de proyectos referentes: 
+* Esta es la bibliografía de proyectos referentes: https://www.zotero.org/groups/2850890/bibliografa-visiones/collections/33D2GY92
 <br />
-
-**Referentes**
-* La dama boba: edición crítica y archivo digital http://damaboba.unibo.it/proyecto
