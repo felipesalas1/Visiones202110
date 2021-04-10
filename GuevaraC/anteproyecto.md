@@ -23,7 +23,7 @@ Situar en una narración digital y no lineal los diferentes lugares de enunciaci
 ## Hipótesis de trabajo
 ## Fuentes
 
-Para el desarrollo del proyecto se han seleccionado como fuentes primarias, relatos sobre el conflicto armado en Colombia, estos presentados por medio de crónicas, cortos, literatura y reportaje. Es necesario que sea evidente la narrativa presenta por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales, imágenes de escritos a mano alzada, entre otros. 
+Para el desarrollo del proyecto se han seleccionado como fuentes primarias, relatos sobre el conflicto armado en Colombia, estos, presentados por medio de crónicas, cortos, literatura y reportaje. Es necesario que sea evidente la narrativa presenta por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales, imágenes de escritos a mano alzada, entre otros. 
 
 * Criterios de selección 
 
