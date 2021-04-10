@@ -45,10 +45,11 @@ Aún no lo tengo claro, pero creo que existe una conexión estrecha entre el pri
 **Hipótesis de trabajo** <br /><br />
 
 **Fuentes** <br />
-~~¿Aquí irían las obras de la autora que pretendo "digitalizar" o las referencias sobre el libro y la lectura digitales?~~
-<br />
+En este caso la fuente primaria en la que me voy a apoyar para realizar mi proyecto es la obra completa de Gertrudis Gómez de Avellaneda &mdash;se encuentran listados en la bibliografía de Zotero&mdash; la que se encuentra, en su mayoría en _Internet Archive_;, _Google Books_ y _Cervantes virtual_ a excepción de "Leoncia" &mdash;obra de teatro&mdash; que se encuentra en librería digital _HathiTrust_. En cuanto a la situación legal, las obras con las que voy a trabajar se encuentran ya en dominio público, faltaría hacer una transcripción de los facsímiles encontrados en los archivos y bibliotecas digitales anteriormente mencionadas con el fin de poder reproducir su contenido.<br />
 
-**Metodología** <br /><br />
+**Metodología** <br />
+ ¿Qué conocimiento de herramientas, y/o plataformas digitales, o metodologías digitales y no digitales necesitas para desarrollar el proyecto? ¿Cuáles son las limitaciones y cómo podrías superarlas? (máximo 200 palabras)
+ <br />
 
 **Bibliografía anotada**
 * Esta es la bibliografía completa https://www.zotero.org/groups/2850890/bibliografa-visiones/library
