@@ -1,0 +1,2 @@
+- No ha completados los datos mínimos del anteproyecto.
+- No ha avanzado en lo solicitado en el anteproyecto: Problema, Fuentes, Metodología, Bibl. anotada.
