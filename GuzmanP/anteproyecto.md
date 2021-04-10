@@ -59,6 +59,8 @@ Se debe diseñar encuestas, ejercicios de danza y tecnología y procesos de regi
 
 ## Metodología
 
+La metodología para el proyecto se ejecutará con prácticas del método inductivo. Partiendo de casos de estudio en academias de ballet clásico se evalúa la hipótesis del proyecto. Así mismo, se aplicarán métodos experimentales con dos variables: tecnología y educación en danza; como resultado, la manipulación de las variables permitirá probar el impacto del uso de tecnología en educación en ballet clásico. De las prácticas se obtendrán datos cuantitativos y cualitativos para documentar la investigación.  
+
 Para desarrollar el proyecto sería interesante explorar: 
 
 - Instrumentos para el análisis de los datos recopilados en el trabajo de campo. 
