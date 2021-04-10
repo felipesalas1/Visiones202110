@@ -37,7 +37,7 @@ Los algoritmos de recomendación, desde su concepción, están sesgados y siguen
 ## Fuentes
 
 
-**Referentes - APIs**
+**APIs**
 
 Un posible inconveniente con el uso de las APIs es que estas pueden cambiar la cantidad y los datos que se pueden obtener de la plataforma. Por ahora, su uso es gratuito y permiten crear una cuenta de desarrollador para hacer uso de la herramienta. Sin embargo, se debe tener en cuenta los términos y condiciones del uso de las APIs y revisar que el proyecto sigue respetando el uso de las plataformas.
 
