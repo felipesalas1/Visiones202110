@@ -1,6 +1,3 @@
-# Autor
-Calderón (*complete todos sus datos!!!*)
-
 # Título tentativo
 Bulopoemas: exploración de poesía digital a partir de noticias falsas
 
