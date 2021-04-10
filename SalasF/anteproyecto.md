@@ -6,27 +6,31 @@
 ## Fecha: enero 30 de 2021
 
 ## Título
-**Algoritmos de recomendación de música: una mirada desde el sur global y la música emergente**
+**Algoritmos de recomendación de música: una mirada desde Colombia y la música emergente**
 
 ## Palabras clave
-* Algoritmos de recomendación; Plataformas de Streaming (Apple Music, Spotify, Youtube Music); AI; Sesgos de los Algoritmos; Música Emergente
+* Algoritmos de recomendación; Plataformas de Streaming (Apple Music, Spotify, Youtube Music); AI; Sesgos de los Algoritmos; Música Emergente; Filtro Burbuja
 
 ## Abstract
 
+
+
+
 ## Objetivo general
 
-Entender el funcionamiento de los algoritmos de recomendación de música, identificar sus sesgos y cómo afectan el descubrimiento de nuevos proyectos musicales. Con la finalidad de usar las APIs de las plataformas de streaming para crear una nueva experiencia para conocer nueva música. 
-
-Comentarios Grupo: 
-- Quizá meter algunos Generos músicales o especificar eso.
-- Revisar cuál es mi fin, es crear la experiencia. primero poner mi experiencia y despues el cómo.
-
-- Relación entre la teoria del algoritmos y la parte practica 
+Con el uso de las API de las plataformas de streaming, crear una herramienta para conocer nuevos proyectos musicales de Bogotá. Esto con el fin de contrarestar el filtro burbuja y la baja diversidad de consumo de música causada por los algoritmos de recomendación usados en Spotify, Apple Music y Youtube Music. Con esto, podré identificar cómo los algoritmos de recomendación afectan el descubrimiento de proyectos musicales emergentes. 
 
 
 ## Lista de productos esperados 
 
+1. * Aplicación web que permite a los usuarios agregar nueva música a sus cuentas de las plataformas de streaming
+2. * Texto 
+
 ## Problema
+
+Los algoritmos de recomendación, desde su concepción, están sesgados y siguen un modelo capitalista de busqueda de lucro. Esto ha provocado que baje la diversidad de contenido consumido en las plataformas de streaming. En consecuencia, los nuevos proyectos musicales tienen dificultad para ser descubiertos y que sean escuchados por más usuarios. 
+
+- No estoy seguro si esto es más la hipótesis de trabajo que el problema.
 
 ## Hipótesis de trabajo
 
