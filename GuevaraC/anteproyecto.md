@@ -18,7 +18,10 @@ Situar en una narración digital y no lineal los diferentes lugares de enunciaci
 ## Lista de productos esperados
 ## Problema
 
-¿Cómo relatar el conflicto armado desde diferentes lugares de enunciación y multiformidad de la verdad contada por diferentes actores involucrados, en donde prevalezca el reconocimiento de otras experiencias como lugares válidos para narrar?  
+¿Cómo relatar el conflicto armado colombiano a través de una narración no lineal?
+
+De tal forma que se dé cuenta de relatos que sean producto de ejercicios de memoria, los cuales cuenten lo ocurrido en el conflicto desde diversas perspectivas para así comprender que lo acontecido puede tener diferentes formas de ser contado siendo todas estas válidas en el marco de un discurso crítico y en el reconocimiento de que la verdad de cada actor que ha participado del conflicto es legítima.
+ 
 
 ## Hipótesis de trabajo
 ## Fuentes
