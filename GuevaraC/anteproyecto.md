@@ -45,6 +45,8 @@ Para el desarrollo del proyecto se contemplan como elementos esenciales a domina
 
 Respecto de los aspectos digitales es indispensable tener conocimiento en organización de bases de datos para un primer momento de organización y análisis de las fuentes principales recopiladas. La información resultante de la construcción textual del marco teórico, la justificación y los hallazgos de las fuentes principales dejarán como saldo la información necesaria para definir cómo presentar una narración que atienda a la multiformidad de la verdad recopilada de los distintos relatos, por último, será necesario entonces tener conocimiento en herramientas, y/o plataformas digitales que permitan situar dicha narración de forma no lineal. 
 
+NOTA: ¿Cuáles son las historias que voy a contar? ¿De dónde? ¿Con qué parámetros?
+
 
 ## Bibliografía anotada
 
