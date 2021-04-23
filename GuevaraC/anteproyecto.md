@@ -4,7 +4,7 @@
 ## Fecha: marzo 06 de 2021
 ## Título
 
-Legitimidad comunicativa en las narraciones digitales que hablan sobre el conflicto armado en Colombia
+Narrar el conflicto armado en Colombia desde diferentes realidades
 
 ## Palabras clave
 
