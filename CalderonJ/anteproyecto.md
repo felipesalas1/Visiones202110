@@ -8,18 +8,28 @@ Fecha: abril 23 de 2021
 # Título
 Contenido Manipulado: exploración de poesía digital a partir de noticias falsas
 
+# Abstract
+En tiempos de incertidumbre, como el contexto actual de la pandemia del COVID-19, proliferan los bulos o noticias falsas. ¿Se puede abordar este problema desde la creación con medios digitales? Este proyecto se concentra en reflexionar respecto a las noticias falsas como fenómeno social y tecnológico: su concepción, producción, distribución y detección, para luego explorar la posibilidad de su deconstrucción y recomposición a partir del manejo y gestión de bases de datos. Se trata de un proyecto de creación de poesía  electrónica, específicamente de desarrollo técnico y conceptual de una plataforma digital con la cual el usuario pueda manipular los textos de los bulos sobre el COVID-19 que circulan en Twitter para crear poesía.
+
 # Palabras clave
 Poesía combinatoria, noticias falsas, escritura conceptual, poesía electrónica, entorno digital
 
-# Objetivo del proyecto
+# Objetivo general
 El proyecto de creación recolectará textos de noticias falsas que circulan en la red social Twitter sobre el COVID-19 para apropiarse de ellos y recontextualizarlos como poesía dentro de una plataforma digital interactiva. En ese sentido, busca explorar la potencialidad de la lengua a partir de la aplicación de operaciones combinatorias a distintos textos en el marco de la tradición de poesía combinatoria. Del mismo modo, busca explorar posibles reformulaciones del concepto de autor ya que la poesía digital incorpora al lector como co-creador. En este caso en particular, podría agregarse un nivel a esta reflexión ya que las noticias falsas, materia textual que sirve de base, se caracterizan por no tener autor conocido.
 El proyecto como tal no busca generar un texto, sino distintas posibilidades de textos a partir de la aplicación de procedimientos informáticos. Ello tiene como finalidad mostrar que estas noticias están compuestas de palabras que pueden ser manipulables creativamente. De tal modo, el trasfondo del proyecto se enlaza con una reflexión ético-política respecto a la información en el entorno digital. Ello se complementa con una reflexión estética al reenmarcar textos no canónicos como poesía y al redirigirlos desde su función informativa (en este caso maliciosa) hacia una función poética.
+
+# Lista de productos esperados
+Plataforma web del proyecto de poesía electrónica
+Texto del trabajo de grado
 
 # Problema
 El proyecto de creación propone una aproximación a las noticias falsas como material artístico. En ese sentido, se plantea ofrecer una reflexión sobre la forma en que estas se configuran como texto. Al ser la poesía un tipo de discurso que llama la atención sobre la construcción de sus enunciados, convoca un tipo de lectura específica. De ese modo, al leer las noticias falsas como material poético, se pueden revelar sus mecanismos de construcción. De este modo, el proyecto busca llamar la atención sobre las noticias falsas como texto que genera un material informativo malicioso y que puede deconstruirse para ser utilizado con objetivos estéticos.  
 
 # Metodología
 El proyecto se propone, en primer lugar, recolectar noticias falsas accediendo a la API de Twitter, desde la cual se podrá evaluar la viralidad de ciertos tweets con contenido no verdadero. Es decir, a partir del material encontrado en Twitter se buscará construir una base de datos propia de noticias falsas en español. En segundo lugar, se plantea crear un algoritmo que ejecute permutaciones para combinar los enunciados principales (titulares) de las noticias falsas como si fueran versos. De ese modo, la posibilidad de combinaciones posibles se multiplicará exponencialmente, dando lugar a múltiples poemas que puedan ser leídos por el usuario de la plataforma. 
+
+# Hipótesis de trabajo
+Las noticias falsas sobre el coronavirus que circulan en la red social Twitter representan una materia textual valiosa para ser trabajada con fines artísticos. En ese sentido, con procedimientos propios de la poesía electrónica es posible explotar ese potencial estético. Bajo esa lógica, su recontextualización como poesía en un entorno digital permite pensarlas de distinto modo, como texto manipulable, y evaluar sus modos de construcción, su sintaxis, y su impacto comunicativo, el cual podría servir a generar un efecto estético.
 
 # Fuentes
 
