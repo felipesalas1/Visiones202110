@@ -7,13 +7,13 @@
 ## Fecha: 6 de marzo de 2021
 
 ## Título
-**Uso de tecnología en la educación de ballet clásico -en Bogotá, Colombia- para impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción entre los bailarines.**
+**Uso de tecnología digital en la educación de ballet clásico -en Bogotá, Colombia- para impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción entre los bailarines.**
 
 ## Palabras clave
 Danza; Aprendizaje; Tecnología; Educación; Colombia  
 
 ## Abstract
-El uso de la tecnología en los espacios de danza impulsa los procesos de aprendizaje, enseñanza, experimentación creativa e interacción entre los bailarines. Sin embargo, en Bogotá, Colombia, la exploración pedagógica con herramientas digitales en los estudios de ballet clásico es escasa. En los ambientes de entrenamiento, los bailarines requieren de habilidades como: pensamiento crítico y relacionamiento teórico- corporal, improvisación, creatividad, trabajo en equipo, investigación, autonomía, resolución de problemas, reconocimiento, planeación, evaluación, recursividad y observación. 
+El uso de la tecnología digital en los espacios de danza impulsa los procesos de aprendizaje, enseñanza, experimentación creativa e interacción entre los bailarines. Sin embargo, en Bogotá, Colombia, la exploración pedagógica con herramientas digitales en los estudios de ballet clásico es escasa. En los ambientes de entrenamiento, los bailarines requieren de habilidades como: pensamiento crítico y relacionamiento teórico- corporal, improvisación, creatividad, trabajo en equipo, investigación, autonomía, resolución de problemas, reconocimiento, planeación, evaluación, recursividad y observación. 
 
 Aptitudes que son integrales en la formación de los bailarines en las que el uso de la tecnología: (a) alienta las experiencias de aprendizaje y enseñanza; (b) impulsa los procesos creativos y técnicos por medio de la reflexividad; (c) solidifica la colaboración e interacción entre compañeros en el aula; (d) y multiplica las posibilidades de aprendizaje autónomo a través de interfaces terciarias al estudio de danza y al instructor; los bailarines se empoderan como mentores y responsables de sus procesos dancísticos. 
 
@@ -63,6 +63,8 @@ Este espacio multimedia: documenta los procesos dancísticos; propicia la innova
 ***¿Cómo impulsar la educación en ballet clásico por medio del uso de tecnología?***
 
 ## Hipótesis de trabajo
+
+El uso de herramientas de tecnología digital en los espacios de entrenamiento de danza impulsa los procesos de aprendizaje, enseñanza, experimentación creativa e interacción entre los bailarines de ballet clásico en Bogotá, Colombia.  
 
 ## Fuentes
 
