@@ -14,7 +14,7 @@ Génesis Natalia Tobón Becerra
 Marzo, 19 de 2021
 
 **Título** <br />
-_Una lectura digital de Gertrudis Gómez de Avellaneda: Obra completa_
+_"Sab" de Gertrudis Gómez de Avellaneda: una lectura digital_
 
 
 **Palabras Clave** <br />
