@@ -2,10 +2,10 @@ Visiones de la Investigación 202110, Maestría en Humanidades Digitales, Univer
 Anteproyecto de trabajo de grado
 Juan Calderón, código 202115912
 
-Fecha: abril 10 de 2021
+Fecha: abril 23 de 2021
 
 
-# Título tentativo
+# Título
 Contenido Manipulado: exploración de poesía digital a partir de noticias falsas
 
 # Palabras clave
@@ -23,20 +23,29 @@ El proyecto se propone, en primer lugar, recolectar noticias falsas accediendo a
 
 # Fuentes
 
-Adell, Joan-Elies. Poéticas electrónicas: Una aproximación al estudio semiótico de la “e-poesía”
-
-Begoña Regueiro, Salgado. ¿Qué es poesía?: La literariedad en la poesía digital
+Adell, Joan-Elies. "Poéticas electrónicas: Una aproximación al estudio semiótico de la “e-poesía”". En Muro Munilla, Miguel (coord.). (2004). Arte y nuevas tecnologías: X Congreso de la Asociación Española de Semiótica, pp. 138-148, https://dialnet.unirioja.es/servlet/articulo?codigo=940132. Consultado el 21 de febrero de 2021.
 
 Berti, Agustin. “La referenciabilidad discreta de las palabras esquivas: procedimientos de la poesía web argentina”. Perífrasis 8.15 (2017): 10-28, http://www.scielo.org.co/scielo.php?pid=S2145-89872017000100002&script=sci_abstract&tlng=es. Consultado el 22 de marzo de 2021.
+ 
+Chacón, Hilda. “Poética y posmodernidad en usos contestatarios del ciberespacio en América Latina”. En Correa-Díaz, Luis y Weintraub, Scott (Editores). (2015). Poesía y poéticas digitales / electrónicas / Tecnos / new-media en América Latina: Definiciones y exploraciones. Bogotá: Ediciones Universidad Central.  http://editorial.ucentral.edu.co/editorialuc/index.php/editorialuc/catalog/book/365. Consultado el 16 de abril de 2021. 
+
+Correa-Díaz, Luis. (2019). “Playlist: Poesía latinx-americana digital / electrónica: un muestrario crítico y creativo” En: Novissima verba. Huellas digitales / electrónicas / cibernéticas en la poesía latinoamericana. Santiago: RIL editores-Ærea carménère, pp. 159-246. https://www.researchgate.net/publication/343022718_Novissima_verba_huellas_digitales_electronicas_ciberneticas_en_la_poesia_latinoamericana. Consultado el 2 de abril de 2021.
 
 Escandell Montiel, Daniel. “POETuitéame: aproximación teórica de la poesía no creativa mediada por los hashtags de Twitter y análisis de la experiencia lectora”. Revista Chilena de Literatura 101 (2020): 203-222, https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-22952020000100203&lng=pt&nrm=iso. Consultado el 13 de marzo de 2021.
  
 Flores, Leonardo. “La literatura electrónica latinoamericana, caribeña y global: generaciones, fases y tradiciones”. Artelogie 11 (2017): 1-10, https://journals.openedition.org/artelogie/1590. Consultado el 17 de febrero de 2021.
  
-Goldsmith, Kenneth. Escritura no creativa. 2015. Editorial Caja Negra. Traducción de Alan Page.
+Goldsmith, Kenneth. (2015). Escritura no creativa. Traducción de Alan Page. Buenos Aires: Editorial Caja Negra. 
 
-Labrador, Germán. Poética y ciberspacio. Comunidades de opinión, crítica literaria, discursos culturales y generadores automáticos de poesía en Internet. Un estudio aplicado, https://dialnet.unirioja.es/descarga/articulo/2365889.pdf
+Kozak, Claudia. “Mallarmé e IBM: Los inicios de la poesía digital en Brasil y Argentina”. Ipotesi,  19.1 (2015): 1-18, https://ri.conicet.gov.ar/handle/11336/54124. Consultado el 9 de marzo de 2021. 
 
+Kozak, Claudia. “Poéticas/políticas de la materialidad en la poesía digital latinoamericana”. Perífrasis 10.20 (2019): 71-93, https://www.redalyc.org/jatsRepo/4781/478160319006/index.html. Consultado el 9 de abril de 2021. 
+
+Labrador, Germán. Poética y ciberspacio. Comunidades de opinión, crítica literaria, discursos culturales y generadores automáticos de poesía en Internet. Un estudio aplicado, https://dialnet.unirioja.es/descarga/articulo/2365889.pdf. Consultado el 15 de febrero de 2021.
+
+Regueiro Salgado, Begoña. "¿Qué es poesía?: La literariedad en la poesía digital". En Alemany Ferrer, Rafael y Chico Rico Francisco (eds.). (2012). Actas del XVIII Simposio de la SELGYC  Ciberliteratura y comparatismo. pp. 233-248. http://www.cervantesvirtual.com/nd/ark:/59851/bmcfj475. Consultado el 12 de febrero de 2021.
+
+Taylor, Claire. “Entre «born digital» y herencia literaria: el diálogo entre formatos literarios y tecnología digital en la poética electrónica hispanoamericana”. Tropelías. Revista de Teoría de la Literatura y Literatura Comparada, 27 (2017): 79-90, https://dialnet.unirioja.es/servlet/articulo?codigo=5790820. Consultado el 12 de abril de 2021. 
 
 
 # Bibliografía
