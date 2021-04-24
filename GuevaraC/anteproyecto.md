@@ -4,7 +4,7 @@
 ## Fecha: marzo 06 de 2021
 ## Título
 
-Legitimidad comunicativa en las narraciones digitales que hablan sobre el conflicto armado en Colombia
+Narrar el conflicto armado en Colombia desde diferentes realidades
 
 ## Palabras clave
 
@@ -18,15 +18,15 @@ Situar en una narración digital y no lineal los diferentes lugares de enunciaci
 ## Lista de productos esperados
 ## Problema
 
-¿Cómo relatar el conflicto armado colombiano a través de una narración no lineal?
+¿Cómo se ha relatado el conflicto armado colombiano a través de elementos digitales?
 
-De tal forma que se dé cuenta de relatos que sean producto de ejercicios de memoria, los cuales cuenten lo ocurrido en el conflicto desde diversas perspectivas para así comprender que lo acontecido puede tener diferentes formas de ser contado siendo todas estas válidas en el marco de un discurso crítico y en el reconocimiento de que la verdad de cada actor que ha participado del conflicto es legítima.
+De tal forma que se dé cuenta de relatos que sean producto de ejercicios de memoria, los cuales cuenten lo ocurrido en el conflicto desde diversas perspectivas para así comprender que lo acontecido puede tener diferentes formas de ser contado, siendo todas estas válidas en el marco de un discurso crítico y desde el reconocimiento de que la verdad de cada actor que ha participado del conflicto es legítima.
  
 
 ## Hipótesis de trabajo
 ## Fuentes
 
-Para el desarrollo del proyecto se han seleccionado como fuentes primarias, relatos sobre el conflicto armado en Colombia, estos, presentados por medio de crónicas, cortos, literatura y reportaje. Es necesario que sea evidente la narrativa presenta por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales, imágenes de escritos a mano alzada, entre otros. 
+Para el desarrollo del proyecto se han seleccionado como fuentes primarias, relatos sobre el conflicto armado en Colombia, estos, presentados por medio de crónicas, cortos, literatura y reportaje. Es necesario que sea evidente la narrativa presentada por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales, imágenes de escritos a mano alzada, entre otros. 
 
 * Criterios de selección 
 
@@ -41,9 +41,50 @@ Para el desarrollo del proyecto se han seleccionado como fuentes primarias, rela
 
 ## Metodología
 
-Para el desarrollo del proyecto se contemplan como elementos esenciales a dominar desde lo no digital, la capacidad de analizar documentación teórica respecto a la memoria, la verdad, la narratología, el lugar de enunciación y las maneras en als que se ha narrado en conflicto armado; respecto de ello es necesario construir una base teórica que sustente el proyecto. De forma adicional, se espera construir a modo de justificación un panorama respecto a las dificultades que socialmente se atraviesan en Colombia respecto del reconocimiento popular de la población respecto a la implementación de los Acuerdos de Paz, especialmente lo relacionado con el ejercicio de relatar la verdad de lo ocurrido a la comunidad. 
+1. **Construcción del marco teórico:** Al situar el proyecto y el fenómeno de estudio primario – narraciones del conflicto armado colombiano- se consideran algunos elementos importantes o ejes temáticos para ubicar un marco teórico que pueda comprender mejor el conflicto desde su lugar geopolítico como escenario general.  Entender las narrativas del conflicto como un escenario más particular respecto al fenómeno, teniendo presente el lugar desde donde se enuncian las mismas, esto con el fin, de dar un marco de legitimidad a las narrativas. De otra parte, la complejidad del conflicto armado atraviesa por la incertidumbre misma de lo ocurrido, dada la complejidad de reconstruir hechos del pasado y la coyuntura de un país históricamente polarizado, en este sentido se presentan diferentes versiones de una sola historia, en donde cada cual lucha por su veracidad, por lo anterior es necesario debatir el concepto mismo de “verdad” en el marco de la reconstrucción de memoria. 
 
-Respecto de los aspectos digitales es indispensable tener conocimiento en organización de bases de datos para un primer momento de organización y análisis de las fuentes principales recopiladas. La información resultante de la construcción textual del marco teórico, la justificación y los hallazgos de las fuentes principales dejarán como saldo la información necesaria para definir cómo presentar una narración que atienda a la multiformidad de la verdad recopilada de los distintos relatos, por último, será necesario entonces tener conocimiento en herramientas, y/o plataformas digitales que permitan situar dicha narración de forma no lineal. 
+   *	Definir ejes temáticos 
+  
+        * Pensamiento critico latinoamericano y el lugar de enunciación
+     
+        * Narración digital y memoria
+     
+        * Reconstrucción de memoria sobre el conflicto armado – narrativas
+     
+        *	La verdad como concepto teórico
+
+   *	Elaborar un texto argumentativo con base en los ejes
+   * Establecer parámetros de búsqueda respecto a las fuentes primarias
+   * Definir variables para el diseño de la matriz para base de datos
+
+2.	**Elaboración de antecedentes digitales:** Al ser un proyecto de investigación-creación, la parte de creación deberá encontrarse relacionada con los ejes temáticos y comprenderse desde herramientas digitales que se puedan analizar como un marco de antecedentes digitales, en este sentido, se han explorado recursos digitales relacionados con el escenario de investigación, *narraciones del conflicto armado en Colombia:*
+
+    * Exploración de proyectos digitales sobre el conflicto armado
+    
+    * Elaborar un texto descriptivo respecto a los recursos digitales
+   
+    * Definir variables para el diseño de la matriz para base de datos
+
+3.	**Exploración de fuentes primarias:**
+
+    * Diseño de matriz para base de datos
+    
+    * Primera búsqueda de fuentes primarias
+    
+    * Ajuste a matriz 
+    
+    * Segunda búsqueda de fuentes primarias
+    
+    * Análisis de la base de datos encontrados
+
+4.	**Diseño de visualización y disposición de datos en la web:** 
+
+    * Selección de herramientas digitales a usar para visualización de datos
+    
+    * Interpretación del análisis de la base de datos encontrados
+    
+    * Disposición interpretativa de los datos de forma inclusiva 
+
 
 
 ## Bibliografía anotada

@@ -7,44 +7,60 @@
 ## Fecha: 6 de marzo de 2021
 
 ## Título
-**Uso de tecnología en la educación de ballet clásico -en Bogotá, Colombia- para impulsar el aprendizaje, la enseñanza y la experimentación creativa de los bailarines.**
+**Uso de tecnología en la educación de ballet clásico -en Bogotá, Colombia- para impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción entre los bailarines.**
 
 ## Palabras clave
 Danza; Aprendizaje; Tecnología; Educación; Colombia  
 
 ## Abstract
-El uso de la tecnología en los espacios de danza impulsa los procesos de aprendizaje, enseñanza y experimentación creativa. Sin embargo, en Bogotá, Colombia, la exploración pedagógica con herramientas digitales en los estudios de ballet clásico es escasa. En los ambientes de entrenamiento, los bailarines requieren de habilidades como: pensamiento crítico y relacionamiento teórico- corporal, improvisación, creatividad, trabajo en equipo, investigación, autonomía, resolución de problemas, reconocimiento, planeación, evaluación, recursividad y observación. 
+El uso de la tecnología en los espacios de danza impulsa los procesos de aprendizaje, enseñanza, experimentación creativa e interacción entre los bailarines. Sin embargo, en Bogotá, Colombia, la exploración pedagógica con herramientas digitales en los estudios de ballet clásico es escasa. En los ambientes de entrenamiento, los bailarines requieren de habilidades como: pensamiento crítico y relacionamiento teórico- corporal, improvisación, creatividad, trabajo en equipo, investigación, autonomía, resolución de problemas, reconocimiento, planeación, evaluación, recursividad y observación. 
 
-Aptitudes que son integrales en la formación de los bailarines en las que el uso de la tecnología: (a) alienta las experiencias de aprendizaje y enseñanza; (b) expande el conocimiento corporal y teórico; (c) impulsa los procesos creativos y técnicos por medio de la reflexividad; (d) solidifica la colaboración e interacción entre compañeros en el aula; (e) genera nuevas dinámicas de roles en el liderazgo de enseñanza entre el estudiante y el profesor, en el que los bailarines se empoderan como mentores y responsables de sus procesos dancísticos; (f) enriquece el aula de entrenamiento con encuentros significativos con tecnologías que producen retroalimentación; (g) y multiplica las posibilidades de aprendizaje autónomo a través de interfaces terciarias al estudio de danza y al instructor. 
+Aptitudes que son integrales en la formación de los bailarines en las que el uso de la tecnología: (a) alienta las experiencias de aprendizaje y enseñanza; (b) impulsa los procesos creativos y técnicos por medio de la reflexividad; (c) solidifica la colaboración e interacción entre compañeros en el aula; (d) y multiplica las posibilidades de aprendizaje autónomo a través de interfaces terciarias al estudio de danza y al instructor; los bailarines se empoderan como mentores y responsables de sus procesos dancísticos. 
 
-Así pues, es fundamental llevar a cabo desarrollos tecnológicos para la educación en ballet clásico dentro de los espacios de práctica. Aunque los estudios de danza en Bogotá son campos de transmisión e intercambio de conocimiento dancístico, los resultados en los procesos de aprendizaje y enseñanza son parciales, efímeros y fragmentados. Son parciales pues no poseen un componente teórico insertado en los currículos de formación; y son efímeros y fragmentados pues emergen de comunidades aisladas entre sí. La educación en ballet clásico en Bogotá carece de un ecosistema digital que organice -con de herramientas virtuales- el aprendizaje, la enseñanza, la interacción y la colaboración.  
+Así pues, es fundamental llevar a cabo desarrollos tecnológicos para la educación en ballet clásico que expandan los espacios de práctica. Aunque los estudios de danza en Bogotá son campos de transmisión e intercambio de conocimiento dancístico, los resultados en los procesos de aprendizaje y enseñanza son parciales, fragmentados y limitados. Son parciales pues no poseen un componente teórico insertado en los currículos de formación; son fragmentados pues emergen de comunidades aisladas entre sí; y son limitados pues condicionan el aprendizaje a un espacio físico. 
 
 ## Objetivo general
-Construir una herramienta con tecnología digital para la educación de ballet clásico en Colombia. Instrumento que cuenta con tres espacios virtuales principales para (1) formalizar e integrar las relaciones entre la práctica artística y la formación intelectual; (2) conectar los actores culturales del gremio dancístico dentro y fuera del aula; (3) innovar en los procesos de creación en danza. Se realizará en espacios de aprendizaje, representación y colaboración.
+Construir una herramienta tecnológica para la educación de ballet clásico con el fin de impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción de los bailarines. 
 
-**1 Espacio de aprendizaje.** 
+## Objetivos específicos
+
+1) Formalizar las relaciones entre la práctica artística y la formación intelectual unificando el conocimiento corporal y teórico.  
+
+2) Enriquecer el aula de entrenamiento con tecnologías que generan trabajo interdisciplinar y reflexividad. 
+
+3) Multiplicar las posibilidades de aprendizaje autónomo fuera del espacio de entrenamiento para la experimentación creativa.  
+
+4) Conectar a los actores culturales del gremio dancístico dentro y fuera del aula para propiciar el intercambio y en la conservación de conocimiento. 
+
+## Acciones. ¿Cómo se logrará cada objetivo? 
+
+**1) Recursos teóricos de danza.**  
 
 Los usuarios podrán acceder a un plan pedagógico que contiene:  
 
-Módulos teóricos con acceso abierto a información digital dancística de diversas temáticas académicas. Los bailarines podrán aprender de anatomía y movimiento, historia y análisis de danza, vestuario, maquillaje, escenografía, teatralidad, entre otros. Este espacio multimedia permite complementar los procesos de entrenamiento corporal en danza con una formación teórica. 
+Módulos teóricos con acceso abierto a información dancística de diversas temáticas académicas. Los bailarines podrán aprender de anatomía y movimiento, historia y análisis de danza, vestuario, maquillaje, escenografía, teatralidad, entre otros. Este espacio multimedia permite complementar los procesos de entrenamiento corporal en danza con una formación teórica. 
 
-Módulos prácticos para explorar -en el estudio de danza- el uso de tecnología con máquinas multimedia (cámaras, software y otras) para aprender y enseñar ballet clásico. Metodologías que requieren una participación activa de los bailarines en sus procesos de formación; que solidifican el trabajo en equipo dentro del aula; y que impulsan los procesos creativos.  
+**2) Guías prácticas para el espacio de entrenamiento.**  
 
-**2 Espacio de representación.**  
+Los usuarios podrán acceder a un plan pedagógico que contiene: 
 
-Red de contenidos públicos de la comunidad de danza en Colombia.  
+Módulos prácticos para explorar -en el estudio de danza- el uso de tecnología (equipos audiovisuales, softwares, sensores de movimiento, luces y lentes de realidad aumentada) para aprender y enseñar ballet clásico. Metodologías que requieren una participación activa de los bailarines en sus procesos de formación; que solidifican el trabajo interdisciplinar en equipo dentro del aula; y que producen reflexividad.  
 
-En esta sección, la herramienta propicia el intercambio y en la conservación de conocimiento. Los usuarios podrán contribuir con contenidos como registros de las clases, ejercicios, coreografías, procesos de experimentación corporal, entre otros. Este espacio multimedia: documenta los procesos dancísticos contemporáneos; propicia la creación de objetos dancísticos en innovación académica (nuevos lenguajes, prácticas, métodos, sistemas de información, tecnologías de aprendizaje, entre otros) y, genera una comunidad digital de ballet en Bogotá. 
+**3) Recursos para la experimentación.** 
 
-**3 Espacio de colaboración.** 
+El espacio de experimentación y sus medios están por explorar. 
 
-El espacio de colaboración y sus medios están por explorar. 
+**4) Espacios para la colaboración y el registro.**  
+
+Los usuarios podrán acceder a una red de contenidos públicos de la comunidad de danza en Colombia. En esta sección, la herramienta propicia el intercambio y en la conservación de conocimiento. Los usuarios podrán contribuir con contenidos como registros de las clases, ejercicios, coreografías, procesos de experimentación corporal, entre otros.  
+
+Este espacio multimedia: documenta los procesos dancísticos; propicia la innovación académica en danza (nuevos lenguajes, prácticas, métodos, sistemas de información, tecnologías de aprendizaje, entre otros); y genera una comunidad digital de ballet en Bogotá. 
 
 ## Lista de productos esperados 
 
 ## Problema/pregunta de trabajo de grado
 
-**¿Cómo impulsar la educación en ballet clásico por medio del uso de tecnología?** 
+***¿Cómo impulsar la educación en ballet clásico por medio del uso de tecnología?***
 
 ## Hipótesis de trabajo
 

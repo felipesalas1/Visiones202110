@@ -42,7 +42,7 @@ Ver cómo agregarle un nuevo algoritmo saca el filtro burbuja y la busqeuda de l
 
 - Base de datos de músicos Bogotanos, tengo acceso a la de La Cara de Emer, legalmente puedo usar los datos. puedo solicitar el de el IDRD por medio de un derecho de petición. y hacer una convocatoria (revisar si tengo que hacer algo con el cómite de ética)
 
-**Referentes - APIs**
+**APIs**
 
 Un posible inconveniente con el uso de las APIs es que estas pueden cambiar la cantidad y los datos que se pueden obtener de la plataforma. Por ahora, su uso es gratuito y permiten crear una cuenta de desarrollador para hacer uso de la herramienta. Sin embargo, se debe tener en cuenta los términos y condiciones del uso de las APIs y revisar que el proyecto sigue respetando el uso de las plataformas.
 
