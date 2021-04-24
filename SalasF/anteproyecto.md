@@ -30,12 +30,17 @@ Con el uso de las API de las plataformas de streaming, crear una herramienta par
 
 Los algoritmos de recomendación, desde su concepción, están sesgados y siguen un modelo capitalista de busqueda de lucro. Esto ha provocado que baje la diversidad de contenido consumido en las plataformas de streaming. En consecuencia, los nuevos proyectos musicales tienen dificultad para ser descubiertos y que sean escuchados por más usuarios. 
 
+Quisiera investigar cómo los algoritmos han afectado a la escena de música emergente de Bogotá.
+
+Ver cómo agregarle un nuevo algoritmo saca el filtro burbuja y la busqeuda de lucro. ver los proyectos que están en el artículo de Tedone. 
+
 - No estoy seguro si esto es más la hipótesis de trabajo que el problema.
 
 ## Hipótesis de trabajo
 
 ## Fuentes
 
+- Base de datos de músicos Bogotanos, tengo acceso a la de La Cara de Emer, legalmente puedo usar los datos. puedo solicitar el de el IDRD por medio de un derecho de petición. y hacer una convocatoria (revisar si tengo que hacer algo con el cómite de ética)
 
 **Referentes - APIs**
 
@@ -54,10 +59,31 @@ Para el desarrollo de este proyecto se usará un servidor web, el frontend va a 
   
 La plataforma consiste en recomendar nuevos proyectos musicales a los usuarios. Para hacer esto, se va a tener en cuenta su librería de música, las recomendaciones que da el algoritmo de las plataformas y la la base datos propia de proyectos musicales. El producto final es una playlist creada a la medida de cada usuario.  
   
-Es importante tener en cuenta que las APIs pueden limitar el número de datos entregados por cada consulta, esto puede ser un problema al consultar la librería musical de los usuarios. Por lo anterior, es necesario recopilar información de proyectos musicales bogotanos de fuentes externas (fuentes propias, colectivos musicales de la ciudad como La Cara de Emer, El Enemigo, EMV –una rama del IDRD–, y bases de datos distritales de músicos), para después categorizarlas y hacer recomendaciones en grupos más pequeños. 
+Es importante tener en cuenta que las APIs pueden limitar el número de datos entregados por cada consulta, esto puede ser un problema al consultar la librería musical de los usuarios. Por lo anterior, es necesario recopilar información de proyectos musicales bogotanos de fuentes externas (fuentes propias, colectivos musicales de la ciudad como La Cara de Emer, El Enemigo, EMV –una rama del IDRD–, y bases de datos distritales de músicos), para después categorizarlas y hacer recomendaciones en grupos más pequeños.
+
+- Usar Knime y tensor flow para el manejo de datos
 
 
 
 ## Bibliografía anotada
 
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2803661/bibliografavisiones/library
+
+## Comentarios de mis compañeras y de Nicolás
+
+Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
+Si voy a alcanzar a salir de eso
+
+- Salir del filtro burbuja 
+- En que medida se puede salir 
+- comparar papers sobre los datos de los algoritmos. 
+- Echarle cabeza si quiero llegar a la plataforma o desde lo investigativo
+
+
+## Comentarios presentación
+
+* Añadir lo que quiero hacer, mis objetivos
+* Añadir que es lo que busco 
+* Aclarar si voy a poder responder las dos preguntas, quizá la segunda solamente por encima
+* Añadir una diapositiva con la hipotesis y poner fuentes 
+* No tiene que ser tan rigido, puedo añadir más partes
