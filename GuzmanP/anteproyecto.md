@@ -7,13 +7,13 @@
 ## Fecha: 6 de marzo de 2021
 
 ## Título
-**Uso de tecnología en la educación de ballet clásico -en Bogotá, Colombia- para impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción de los bailarines.**
+**Uso de tecnología en la educación de ballet clásico -en Bogotá, Colombia- para impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción entre los bailarines.**
 
 ## Palabras clave
 Danza; Aprendizaje; Tecnología; Educación; Colombia  
 
 ## Abstract
-El uso de la tecnología en los espacios de danza impulsa los procesos de aprendizaje, enseñanza y experimentación creativa. Sin embargo, en Bogotá, Colombia, la exploración pedagógica con herramientas digitales en los estudios de ballet clásico es escasa. En los ambientes de entrenamiento, los bailarines requieren de habilidades como: pensamiento crítico y relacionamiento teórico- corporal, improvisación, creatividad, trabajo en equipo, investigación, autonomía, resolución de problemas, reconocimiento, planeación, evaluación, recursividad y observación. 
+El uso de la tecnología en los espacios de danza impulsa los procesos de aprendizaje, enseñanza, experimentación creativa e interacción entre los bailarines. Sin embargo, en Bogotá, Colombia, la exploración pedagógica con herramientas digitales en los estudios de ballet clásico es escasa. En los ambientes de entrenamiento, los bailarines requieren de habilidades como: pensamiento crítico y relacionamiento teórico- corporal, improvisación, creatividad, trabajo en equipo, investigación, autonomía, resolución de problemas, reconocimiento, planeación, evaluación, recursividad y observación. 
 
 Aptitudes que son integrales en la formación de los bailarines en las que el uso de la tecnología: (a) alienta las experiencias de aprendizaje y enseñanza; (b) impulsa los procesos creativos y técnicos por medio de la reflexividad; (c) solidifica la colaboración e interacción entre compañeros en el aula; (d) y multiplica las posibilidades de aprendizaje autónomo a través de interfaces terciarias al estudio de danza y al instructor; los bailarines se empoderan como mentores y responsables de sus procesos dancísticos. 
 
