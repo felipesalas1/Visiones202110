@@ -13,18 +13,26 @@
 
 ## Abstract
 
+Con la aparición de las plataformas de streaming de música, el funcionamiento de la industria musical y el consumo de música ha cambiado radicalmente. El descubrimiento de nueva música ha pasado de ser influenciada por emisoras de radio, o por escuchar nuevos proyectos en tiendas de discos, a ser dictadas, en su mayoría, por algoritmos de recomendación (algoritmos BART) que hacen parte de las plataformas de streaming. Con esto, los algoritmos se convirtieron en los curadores personales de música para los usuarios. La experiencia que cada oyente tiene en las plataformas de streaming está mediada por un algoritmo que decide que música poner en aleatorio, o que canciones mostrar en las listas de reproducción para descubrir nueva música.  
 
+En consecuencia, los algoritmos disminuyen la diversidad de consumo de música, y tienen sesgos que afectan a proyectos musicales que no aportan al afán de lucro de las plataformas de streaming. Por lo anterior, en este proyecto se va a desarrollar una plataforma donde usuarios de Spotify van a poder recibir recomendaciones de proyectos musicales bogotanos que, probablemente, el algoritmo no les va a recomendar en otras situaciones. Con esto, busco comprobar si es posible que, usando el mismo algoritmo de Spotify y su API, se logre bajar los sesgos y aumentar la diversidad de consumo de música en esta plataforma de streaming.  
 
 
 ## Objetivo general
 
-Con el uso de las API de las plataformas de streaming, crear una herramienta para conocer nuevos proyectos musicales de Bogotá. Esto con el fin de contrarestar el filtro burbuja y la baja diversidad de consumo de música causada por los algoritmos de recomendación usados en Spotify, Apple Music y Youtube Music. Con esto, podré identificar cómo los algoritmos de recomendación afectan el descubrimiento de proyectos musicales emergentes. 
+Con el uso de las API de las plataformas de streaming, crear una herramienta para conocer nuevos proyectos musicales de Bogotá. Esto con el fin de contrarestar el filtro burbuja y la baja diversidad de consumo de música causada por los algoritmos de recomendación usados en Spotify, Apple Music o Youtube Music. Con esto, podré identificar cómo los algoritmos de recomendación afectan el descubrimiento de proyectos musicales emergentes.
+
+### Objetivos Específicos
+
+1. Investigar los aspectos estéticos de los algoritmos y ver cómo estos hacen parte de la experiencia musical en el siglo XXI
+2. Medir en que forma la aplicación web contrarresta el sesgo y la baja diversidad de consumo del algoritmo dde Spotify
+3. Estudiar cómo el algoritmo de Sppotify afecta a la escena musical emergenten de Bogotá
 
 
 ## Lista de productos esperados 
 
 1. * Aplicación web que permite a los usuarios agregar nueva música a sus cuentas de las plataformas de streaming
-2. * Texto 
+2. * Texto con los resultados de la plataforma y reflexión sobre los algoritmos
 
 ## Problema
 
@@ -32,11 +40,13 @@ Los algoritmos de recomendación, desde su concepción, están sesgados y siguen
 
 Quisiera investigar cómo los algoritmos han afectado a la escena de música emergente de Bogotá.
 
-Ver cómo agregarle un nuevo algoritmo saca el filtro burbuja y la busqeuda de lucro. ver los proyectos que están en el artículo de Tedone. 
+> Ver cómo agregarle un nuevo algoritmo saca el filtro burbuja y la busqeuda de lucro. ver los proyectos que están en el artículo de Tedone. 
 
-- No estoy seguro si esto es más la hipótesis de trabajo que el problema.
+> - No estoy seguro si esto es más la hipótesis de trabajo que el problema.
 
 ## Hipótesis de trabajo
+
+Los algoritmos de recomendación tienen sesgos, disminuyen la diversidad de consumo y afectan el consumo de música que no aporta a su afán de lucro. Sin embargo, usando el API de Spotify se puede cambiar el comportamiento del algoritmo y contrarestar sus efectos negativos en el consumo de música.
 
 ## Fuentes
 
@@ -61,6 +71,7 @@ La plataforma consiste en recomendar nuevos proyectos musicales a los usuarios. 
   
 Es importante tener en cuenta que las APIs pueden limitar el número de datos entregados por cada consulta, esto puede ser un problema al consultar la librería musical de los usuarios. Por lo anterior, es necesario recopilar información de proyectos musicales bogotanos de fuentes externas (fuentes propias, colectivos musicales de la ciudad como La Cara de Emer, El Enemigo, EMV –una rama del IDRD–, y bases de datos distritales de músicos), para después categorizarlas y hacer recomendaciones en grupos más pequeños.
 
+
 - Usar Knime y tensor flow para el manejo de datos
 
 
@@ -71,19 +82,19 @@ El enlace de la bibliografía es este: https://www.zotero.org/groups/2803661/bib
 
 ## Comentarios de mis compañeras y de Nicolás
 
-Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
-Si voy a alcanzar a salir de eso
+> Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
+> Si voy a alcanzar a salir de eso
 
-- Salir del filtro burbuja 
-- En que medida se puede salir 
-- comparar papers sobre los datos de los algoritmos. 
-- Echarle cabeza si quiero llegar a la plataforma o desde lo investigativo
+> - Salir del filtro burbuja 
+> - En que medida se puede salir 
+> - comparar papers sobre los datos de los algoritmos. 
+> - Echarle cabeza si quiero llegar a la plataforma o desde lo investigativo
 
 
 ## Comentarios presentación
 
-* Añadir lo que quiero hacer, mis objetivos
-* Añadir que es lo que busco 
-* Aclarar si voy a poder responder las dos preguntas, quizá la segunda solamente por encima
-* Añadir una diapositiva con la hipotesis y poner fuentes 
-* No tiene que ser tan rigido, puedo añadir más partes
+> Añadir lo que quiero hacer, mis objetivos
+> Añadir que es lo que busco 
+> Aclarar si voy a poder responder las dos preguntas, quizá la segunda solamente por encima
+> Añadir una diapositiva con la hipotesis y poner fuentes 
+> No tiene que ser tan rigido, puedo añadir más partes
