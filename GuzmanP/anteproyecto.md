@@ -7,20 +7,22 @@
 ## Fecha: 6 de marzo de 2021
 
 ## Título
-**Uso de tecnología digital en la educación de ballet clásico -en Bogotá, Colombia- para impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción entre los bailarines.**
+**Laboratorio de danza para ballet clásico en Bogotá, Colombia.**
 
 ## Palabras clave
 Danza; Aprendizaje; Tecnología; Educación; Colombia  
 
 ## Abstract
-El uso de la tecnología digital en los espacios de danza impulsa los procesos de aprendizaje, enseñanza, experimentación creativa e interacción entre los bailarines. Sin embargo, en Bogotá, Colombia, la exploración pedagógica con herramientas digitales en los estudios de ballet clásico es escasa. En los ambientes de entrenamiento, los bailarines requieren de habilidades como: pensamiento crítico y relacionamiento teórico- corporal, improvisación, creatividad, trabajo en equipo, investigación, autonomía, resolución de problemas, reconocimiento, planeación, evaluación, recursividad y observación. 
+Históricamente, la danza se ha caracterizado por transferencias de conocimiento canónico desde expertos hacia aprendices. Sin embargo, la innovación tecnológica ha evolucionado los métodos tradicionales. 
 
-Aptitudes que son integrales en la formación de los bailarines en las que el uso de la tecnología: (a) alienta las experiencias de aprendizaje y enseñanza; (b) impulsa los procesos creativos y técnicos por medio de la reflexividad; (c) solidifica la colaboración e interacción entre compañeros en el aula; (d) y multiplica las posibilidades de aprendizaje autónomo a través de interfaces terciarias al estudio de danza y al instructor; los bailarines se empoderan como mentores y responsables de sus procesos dancísticos. 
+Se ha demostrado que el uso de habilitadores digitales en danza, entre otras ventajas, fortalece las destrezas de los bailarines por medio de experiencias alternativas de aprendizaje y enseñanza; impulsa los procesos creativos y técnicos incentivando la reflexividad; solidifica la colaboración e interacción entre compañeros en el aula y entre actores del gremio; y multiplica las posibilidades de instrucción autónoma a través de interfaces terciarias al estudio de danza y al profesor; los bailarines se empoderan como mentores de sus procesos dancísticos. 
 
-Así pues, es fundamental llevar a cabo desarrollos tecnológicos para la educación en ballet clásico que expandan los espacios de práctica. Aunque los estudios de danza en Bogotá son campos de transmisión e intercambio de conocimiento dancístico, los resultados en los procesos de aprendizaje y enseñanza son parciales, fragmentados y limitados. Son parciales pues no poseen un componente teórico insertado en los currículos de formación; son fragmentados pues emergen de comunidades aisladas entre sí; y son limitados pues condicionan el aprendizaje a un espacio físico. 
+Pero, en Bogotá, Colombia, la exploración con tecnología digital en los estudios de ballet clásico es escasa. Por ende, es fundamental llevar a cabo proyectos experimentales que contribuyan a la consolidación de una comunidad de danza que ejerza el ballet clásico con prácticas modernas e interdisciplinares. Así mismo, se aspira hilar diálogos entre los actores de la danza y las prácticas de las humanidades digitales para producir nuevo conocimiento cultural.  
+
+La investigación desarrollará un laboratorio de danza con habilitadores digitales para los estudios de ballet clásico con el objetivo de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. Se llevará a cabo con métodos experimentales en los que los bailarines de ballet clásico interactuarán con 10 herramientas digitales en cuatro etapas: (1) etapa teórica-corporal; (2) etapa de trabajo interdisciplinar; (3) etapa de aprendizaje autónomo; y (4) etapa de producción de conocimiento.  
 
 ## Objetivo general
-Construir una herramienta tecnológica para la educación de ballet clásico con el fin de impulsar el aprendizaje, la enseñanza, la experimentación creativa y la interacción de los bailarines. 
+Desarrollar un laboratorio de danza con habilitadores digitales para los estudios de ballet clásico en Bogotá, Colombia, con el fin de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. 
 
 ## Objetivos específicos
 
@@ -32,63 +34,52 @@ Construir una herramienta tecnológica para la educación de ballet clásico con
 
 4) Conectar a los actores culturales del gremio dancístico dentro y fuera del aula para propiciar el intercambio y en la conservación de conocimiento. 
 
-## Acciones. ¿Cómo se logrará cada objetivo? 
+## Lista de productos esperados
 
-**1) Recursos teóricos de danza.**  
+1) Experiencia multimedia narrativa de realidad aumentada para Google cardboard VR sobre un componente teórico del ballet clásico en Colombia. 
 
-Los usuarios podrán acceder a un plan pedagógico que contiene:  
+2) Juego de interacción e inmersión para aplicación y evaluación del conocimiento teórico adquirido. 
 
-Módulos teóricos con acceso abierto a información dancística de diversas temáticas académicas. Los bailarines podrán aprender de anatomía y movimiento, historia y análisis de danza, vestuario, maquillaje, escenografía, teatralidad, entre otros. Este espacio multimedia permite complementar los procesos de entrenamiento corporal en danza con una formación teórica. 
+3) Repositorio audiovisual de ejercicios prácticos resultantes de la experimentación creativa con el Azure Kinect DK y el Azure Kinect Viewer en los estudios de ballet clásico. 
 
-**2) Guías prácticas para el espacio de entrenamiento.**  
+4) Serie de performances multimedia construidos con softwares de creación de ambientes multimedia. 
 
-Los usuarios podrán acceder a un plan pedagógico que contiene: 
+5) Programa pedagógico en línea para trabajo autónomo de los bailarines en Moodle. 
 
-Módulos prácticos para explorar -en el estudio de danza- el uso de tecnología (equipos audiovisuales, softwares, sensores de movimiento, luces y lentes de realidad aumentada) para aprender y enseñar ballet clásico. Metodologías que requieren una participación activa de los bailarines en sus procesos de formación; que solidifican el trabajo interdisciplinar en equipo dentro del aula; y que producen reflexividad.  
-
-**3) Recursos para la experimentación.** 
-
-El espacio de experimentación y sus medios están por explorar. 
-
-**4) Espacios para la colaboración y el registro.**  
-
-Los usuarios podrán acceder a una red de contenidos públicos de la comunidad de danza en Colombia. En esta sección, la herramienta propicia el intercambio y en la conservación de conocimiento. Los usuarios podrán contribuir con contenidos como registros de las clases, ejercicios, coreografías, procesos de experimentación corporal, entre otros.  
-
-Este espacio multimedia: documenta los procesos dancísticos; propicia la innovación académica en danza (nuevos lenguajes, prácticas, métodos, sistemas de información, tecnologías de aprendizaje, entre otros); y genera una comunidad digital de ballet en Bogotá. 
-
-## Lista de productos esperados 
+6) Aplicación móvil que permita una navegación de todos los recursos del laboratorio de danza. 
 
 ## Problema/pregunta de trabajo de grado
 
-***¿Cómo impulsar la educación en ballet clásico por medio del uso de tecnología?***
+***¿Cómo desarrollar un programa con tecnología digital para mejorar la educación integral en ballet clásico e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines?***
 
 ## Hipótesis de trabajo
 
-El uso de herramientas de tecnología digital en los espacios de entrenamiento de danza impulsa los procesos de aprendizaje, enseñanza, experimentación creativa e interacción entre los bailarines de ballet clásico en Bogotá, Colombia.  
+La ejecución de las cuatro etapas del laboratorio de danza fortalecerá la educación integral en ballet clásico e impulsará la reflexividad, la experimentación creativa y la interacción entre bailarines.
 
 ## Fuentes
 
-Las fuentes que se utilizarán para explorar la pregunta de investigación son testimoniales (entrevistas y recolección de datos cuantitativos y cualitativos). Estos se encuentran en personajes como:  
+Las fuentes que se utilizarán para responder la pregunta de investigación son dos; testimoniales y de trabajo interdisciplinar.  
 
-- Voceros de las entidades de danza en Bogotá, Colombia. (La Casona de La Danza, Gerencia de Danza en Idartes, Alma en Movimiento, entre otros.  
-- Directores, profesores y bailarines de academias de danza en Bogotá, Colombia.  
+1) Fuentes testimoniales. Entrevistas, documentación y recolección de datos cuantitativos y cualitativos. Estos se encuentran en personajes como voceros de las entidades líderes de danza en Bogotá, Colombia. (La Casona de La Danza, Gerencia de Danza en Idartes, Alma en Movimiento, entre otros). También, en directores, profesores y bailarines de academias de ballet clásico en Bogotá, Colombia.  
 
-Se debe diseñar encuestas, ejercicios de danza y tecnología y procesos de registros audiovisuales en el aula de danza. Se llevará a cabo un trabajo de campo para identificar el uso de tecnología en la educación de ballet clásico. ¿Están usando herramientas de tecnología en el aula? ¿Cómo la tecnología impulsa sus procesos de aprendizaje, enseñanza y experimentación creativa?  
+De las fuentes testimoniales se obtendrán dos insumos principales:  
+
+Contexto actual de uso de tecnología digital en los estudios de ballet clásico en Bogotá, Colombia. Encuesta de comportamientos y mapeo poblacional.  
+
+Datos cualitativos y cuantitativos de los ejercicios de experimentación con los habilitadores digitales para identificar oportunidades de mejora en los recursos del laboratorio de danza.   
+
+2) Fuentes de trabajo interdisciplinar. (Por explorar con tutor).  
 
 ## Metodología
 
-La metodología para el proyecto se ejecutará con prácticas del método inductivo. Partiendo de casos de estudio en academias de ballet clásico se evalúa la hipótesis del proyecto. Así mismo, se aplicarán métodos experimentales con dos variables: tecnología y educación en danza; como resultado, la manipulación de las variables permitirá probar el impacto del uso de tecnología en educación en ballet clásico. De las prácticas se obtendrán datos cuantitativos y cualitativos para documentar la investigación.  
+La investigación desarrollará un laboratorio de danza con habilitadores digitales para los estudios de ballet clásico con el objetivo de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. Se llevará a cabo con métodos experimentales en los que los bailarines de ballet clásico interactuarán con 10 herramientas digitales en cuatro etapas: (1) etapa teórica-corporal; (2) etapa de trabajo interdisciplinar; (3) etapa de aprendizaje autónomo; y (4) etapa de producción de conocimiento. 
 
-Para desarrollar el proyecto sería interesante explorar: 
+Ver Tabla 1. 
 
-- Instrumentos para el análisis de los datos recopilados en el trabajo de campo. 
-- CMS como Moodle y plataformas de participación y socialización. 
-- Software y dispositivos audiovisuales con realidad aumentada o inteligencia artificial para los registros y ejercicios en el aula de danza.  
-- Metodologías digitales de clasificación y organización de contenido audiovisual registrado en el trabajo de campo. 
-- Metodologías mixtas (digitales y no digitales) de pedagogía, colaboración y participación para invitar a los bailarines a participar, registrar y socializar sus procesos.  
-- Metodologías de análisis geográfico para generar un mapa de las academias de danza en Bogotá y tener una muestra representativa de las organizaciones incluidas para la investigación según datos poblaciones del área donde se encuentran (economía, sociedad y espacio físico).  
+## Limitación del proyecto
 
-La limitación del proyecto es la brecha digital que la comunidad de ballet clásico colombiana presenta. No toda la población tiene acceso a dispositivos digitales personales para su participación en el proyecto. Para superar este obstáculo -y no excluir de la investigación individuos que no posean tecnología para participar- se debería contar con equipos de préstamo para comunidades dancísticas de bajos recursos. 
+La limitación del proyecto es la brecha digital que la comunidad de ballet clásico colombiana presenta. No toda la población tiene acceso y conocimiento del manejo de los habilitadores digitales para su participación en el proyecto. Para superar este obstáculo -y no excluir de la investigación individuos que no posean tecnología para participar- se debería contar con patrocinios económicos para cubrir los vacíos en equipos y en habilidades técnicas de los bailarines.  
+
 
 ## Bibliografía anotada
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2819973/bibliografa_visiones_guzman/library
