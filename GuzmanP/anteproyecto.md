@@ -76,6 +76,8 @@ La investigación desarrollará un laboratorio de danza con habilitadores digita
 
 Ver Tabla 1. 
 
+https://github.com/nivaca/Visiones202110/blob/4441ed3e3abd7bc5e5e75ab3c729435f86c827dd/GuzmanP/ConjuntoDatosGuzman/Tabla%201.%20Laboratorio%20de%20danza..xlsx
+
 ## Limitación del proyecto
 
 La limitación del proyecto es la brecha digital que la comunidad de ballet clásico colombiana presenta. No toda la población tiene acceso y conocimiento del manejo de los habilitadores digitales para su participación en el proyecto. Para superar este obstáculo -y no excluir de la investigación individuos que no posean tecnología para participar- se debería contar con patrocinios económicos para cubrir los vacíos en equipos y en habilidades técnicas de los bailarines.  
