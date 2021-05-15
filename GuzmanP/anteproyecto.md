@@ -50,7 +50,7 @@ Desarrollar un laboratorio de danza con habilitadores digitales para los estudio
 
 ## Problema/pregunta de trabajo de grado
 
-***¿Cómo desarrollar un programa con tecnología digital para mejorar la educación integral en ballet clásico e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines?***
+***¿Cómo desarrollar un programa en danza con tecnología digital para mejorar la educación integral en ballet clásico e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines?***
 
 ## Hipótesis de trabajo
 
