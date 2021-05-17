@@ -14,7 +14,7 @@ Colombia; memoria; narraciones digitales; conflicto armado; proceso de paz; luga
 
 ## Objetivo general
  
-Situar en una narración digital y no lineal los diferentes lugares de enunciación de actores involucrados en el conflicto armado en Colombia desde la comprensión de la multiformidad de la verdad.  
+Indagar las diferentes narrativas digitales sobre el conflicto armado y el proceso de paz en Colombia entre 2016 y 2021 con análisis de datos relacional presentando una colección de narrativas digitales y una interfaz de narrativas gráficas accesibles.  
 
 ## Lista de productos esperados
 
@@ -89,8 +89,7 @@ Para el desarrollo del proyecto se han seleccionado como fuentes primarias, rela
 
     * Selección de herramientas digitales a usar para visualización de datos
     
-         * 
-    
+           
     * Interpretación del análisis de la base de datos encontrados
     
     * Disposición interpretativa de los datos de forma inclusiva 
