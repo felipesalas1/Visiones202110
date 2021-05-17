@@ -4,26 +4,35 @@
 ## Fecha: marzo 06 de 2021
 ## Título
 
-Narrar el conflicto armado en Colombia desde diferentes realidades
+Narrar el conflicto armado y una trasnsición al procesos de paz en Colombia desde diferentes realidades
 
 ## Palabras clave
 
-Colombia; memoria; narraciones digitales; conflicto armado; legitimidad comunicativa
+Colombia; memoria; narraciones digitales; conflicto armado; proceso de paz; lugar de enunciación
 
 ## Abstract
+
 ## Objetivo general
  
 Situar en una narración digital y no lineal los diferentes lugares de enunciación de actores involucrados en el conflicto armado en Colombia desde la comprensión de la multiformidad de la verdad.  
 
 ## Lista de productos esperados
+
+* Documento de investigación
+* Base da datos de narrativas digitales sobre el conflicto armado y el proceso de paz 
+* Sitio web 
+
 ## Problema
 
-¿Cómo se ha relatado el conflicto armado colombiano a través de elementos digitales?
+¿Cómo se ha relatado el conflicto armado y el proceso de paz  a través de elementos digitales entre el 2016 y el 2021?
 
-De tal forma que se dé cuenta de relatos que sean producto de ejercicios de memoria, los cuales cuenten lo ocurrido en el conflicto desde diversas perspectivas para así comprender que lo acontecido puede tener diferentes formas de ser contado, siendo todas estas válidas en el marco de un discurso crítico y desde el reconocimiento de que la verdad de cada actor que ha participado del conflicto es legítima.
+De tal forma que se dé cuenta de relatos que sean producto de ejercicios de memoria, los cuales cuenten especialmente la transición entre el conflicto armado y el proceso de paz, desde diversas perspectivas para así comprender que lo acontecido puede tener diferentes formas de ser contado, siendo todas estas válidas en el marco de un discurso crítico y desde el reconocimiento de que la verdad de cada actor que ha participado del conflicto es legítima.
  
 
 ## Hipótesis de trabajo
+
+Encontrar difrentes formas de contar unos hechos concretos, pueden ayudarnos a comprender un fenomeno como el conflicto armado en Colombia, sin embargo, la trasisión entre el conflicto armado y el proceso de paz, llevado a cabo desde el 2016, propuso un esfuerzo por buscar y definir nuevas narrativas, unas que fueran contadas desde diferentes actores involucrados en el conflicto. Es por lo anterior que es relevante encontrar puntos de encuentro entre diferentes narrativas digitales que relaten la transición, estos puntos no serán utiles para contar una sola historia, sino para reconocer que dentro del mundo narrativo y la construcción de memoria que existen diferentes lugares de enunciación y son legitimos.
+
 ## Fuentes
 
 Para el desarrollo del proyecto se han seleccionado como fuentes primarias, relatos sobre el conflicto armado en Colombia, estos, presentados por medio de crónicas, cortos, literatura y reportaje. Es necesario que sea evidente la narrativa presentada por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales, imágenes de escritos a mano alzada, entre otros. 
@@ -50,8 +59,7 @@ Para el desarrollo del proyecto se han seleccionado como fuentes primarias, rela
         * Narración digital y memoria
      
         * Reconstrucción de memoria sobre el conflicto armado – narrativas
-     
-        *	La verdad como concepto teórico
+
 
    *	Elaborar un texto argumentativo con base en los ejes
    * Establecer parámetros de búsqueda respecto a las fuentes primarias
@@ -80,6 +88,8 @@ Para el desarrollo del proyecto se han seleccionado como fuentes primarias, rela
 4.	**Diseño de visualización y disposición de datos en la web:** 
 
     * Selección de herramientas digitales a usar para visualización de datos
+    
+         * 
     
     * Interpretación del análisis de la base de datos encontrados
     
