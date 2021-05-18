@@ -1,24 +1,4 @@
-Nombre de la sección del libro;Página de inicio;Página final;# de páginas
-Página legal;10;10;1
-Dos palabras al lector;11;12;2
-Primera parte;12;105;94
-Capítulo 1;12;22;11
-Capítulo 2;22;28;7
-Capítulo 3;28;36;9
-Capítulo 4;36;43;8
-Capítulo 5;43;51;9
-Capítulo 6;51;58;8
-Capítulo 7;59;64;6
-Capítulo 8;64;71;8
-Capítulo 9;71;80;10
-Capítulo 10;80;95;16
-Capítulo 11;95;105;11
-Segunda parte;106;159;54
-Capítulo 1;106;117;12
-Capítulo 2;118;131;14
-Capítulo 3;132;141;10
-Capítulo 4;142;150;9
-Capítulo 5;151;159;9
-Conclusión;160;180;21
-*Carta de Sab a Carlota*;167;177;11
-Total de páginas del libro;;;181
+Esta tabla muestra una lista controlada de las diferentes partes y capítulos en los que se organiza la novela Sab -la cual es mi objeto de estudio y fuente primaria. 
+
+Esta tabla, en primer lugar, me ayudará para realizar el cronográma de transcripción. 
+En segundo lugar, me permite tener un sentido global de la secciones del libro para organizar, a su vez, la interfaz de la aplicación web que manejaré para el proyecto. 
