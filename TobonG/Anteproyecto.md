@@ -27,8 +27,6 @@ Con este proyecto me propongo realizar una edición digital de la novela _Sab_ d
 
 **Lista de productos esperados**
 * Aplicación web interactiva de la autora
-* Línea temporal gráfica de sus viajes por España y hacia Cuba.
-* Ubicación geográfica de dichos viajes en contraste con "centros culturales" de la época (teatros, principalmente).
 * Despliegue de la novela _Sab_ completa transcrita.
 * Despliegue y vinculación de la obra "facsimilar", o bien, de las primeras ediciones de las cuales se tomó el texto transcrito —están en la bibliografía.
 * Compilación de imágenes de la autora —no son muchas las existentes entonces tendré que pedir ayuda para ilustrar un poco el libro— que enriquezcan la estética de la aplicación web, le den fluidez a la lectura y a su vez homogeneicen el aspecto general del libro.
