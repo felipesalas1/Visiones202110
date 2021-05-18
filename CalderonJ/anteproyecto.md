@@ -1,8 +1,10 @@
 Visiones de la Investigación 202110, Maestría en Humanidades Digitales, Universidad de los Andes
+
 Anteproyecto de trabajo de grado
+
 Juan Calderón, código 202115912
 
-Fecha: abril 23 de 2021
+Fecha: mayo 18 de 2021
 
 
 # Título
