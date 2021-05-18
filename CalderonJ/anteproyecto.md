@@ -31,6 +31,9 @@ El proyecto se divide en distintas etapas. En primer lugar, se recolectarán not
 # Hipótesis de trabajo
 Las noticias falsas sobre el coronavirus que circulan en la red social Twitter representan una materia textual valiosa para ser trabajada con fines artísticos. En ese sentido, con procedimientos propios de la poesía electrónica es posible explotar ese potencial estético. Bajo esa lógica, su recontextualización como poesía en un entorno digital permite pensarlas de distinto modo, como texto manipulable, y evaluar sus modos de construcción, su sintaxis, y su impacto comunicativo, el cual podría servir a generar un efecto estético.
 
+# Aporte a las Humanidades Digitales
+El proyecto explora los límites realizativos y de recepción del arte/literatura producidos por medios digitales. En ese sentido, desde el punto de vista de la producción, se trabajará con un material textual no canónico y no considerado como literatura, y, desde la perspectiva de la recepción, el usuario puede ampliar su concepción sobre el arte/literatura digitales entendiendo que materiales textuales heterodoxos pueden servir de materia prima para ser trabajados con fines estéticos. Es decir, el medio digital, dentro de sus variados contextos, bajo lógicas y procedimientos que le son propios, puede resemantizar distintos tipos de producciones culturales. Es así que posibilita no solo la diseminación de noticias falsas, sino su detección y formalización como material estético, más allá de su intención comunicativa, en proyectos que incorporan una reflexión crítica sobre ellas.
+
 # Fuentes
 
 Adell, Joan-Elies. "Poéticas electrónicas: Una aproximación al estudio semiótico de la “e-poesía”". En Muro Munilla, Miguel (coord.). (2004). Arte y nuevas tecnologías: X Congreso de la Asociación Española de Semiótica, pp. 138-148, https://dialnet.unirioja.es/servlet/articulo?codigo=940132. Consultado el 21 de febrero de 2021.
