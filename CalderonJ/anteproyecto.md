@@ -49,7 +49,9 @@ Correa-Díaz, Luis. (2019). “Playlist: Poesía latinx-americana digital / elec
 Escandell Montiel, Daniel. “POETuitéame: aproximación teórica de la poesía no creativa mediada por los hashtags de Twitter y análisis de la experiencia lectora”. Revista Chilena de Literatura 101 (2020): 203-222, https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-22952020000100203&lng=pt&nrm=iso. Consultado el 13 de marzo de 2021.
  
 Flores, Leonardo. “La literatura electrónica latinoamericana, caribeña y global: generaciones, fases y tradiciones”. Artelogie 11 (2017): 1-10, https://journals.openedition.org/artelogie/1590. Consultado el 17 de febrero de 2021.
- 
+
+Glovine, María Andrea. "Estéticas transmediales. reflexiones en torno a la literatura electrónica". En Galina Russell, Isabel, Peña Pimentel, Miriam y Ernesto Priani Siasó et al (coordinadores). Humanidades digitales: edición, literatura y arte. (2018) Ciudad de México: Bonilla Artigas Editores.
+
 Goldsmith, Kenneth. (2015). Escritura no creativa. Traducción de Alan Page. Buenos Aires: Editorial Caja Negra. 
 
 Kozak, Claudia. “Mallarmé e IBM: Los inicios de la poesía digital en Brasil y Argentina”. Ipotesi,  19.1 (2015): 1-18, https://ri.conicet.gov.ar/handle/11336/54124. Consultado el 9 de marzo de 2021. 
@@ -57,6 +59,8 @@ Kozak, Claudia. “Mallarmé e IBM: Los inicios de la poesía digital en Brasil 
 Kozak, Claudia. “Poéticas/políticas de la materialidad en la poesía digital latinoamericana”. Perífrasis 10.20 (2019): 71-93, https://www.redalyc.org/jatsRepo/4781/478160319006/index.html. Consultado el 9 de abril de 2021. 
 
 Labrador, Germán. Poética y ciberspacio. Comunidades de opinión, crítica literaria, discursos culturales y generadores automáticos de poesía en Internet. Un estudio aplicado, https://dialnet.unirioja.es/descarga/articulo/2365889.pdf. Consultado el 15 de febrero de 2021.
+
+Queneau, Raymond et al. (2016). Oulipo: Ejercicios de literatura potencial. Traducción de Ezequiel Alemian. Buenos Aires: Caja Negra Editora.
 
 Regueiro Salgado, Begoña. "¿Qué es poesía?: La literariedad en la poesía digital". En Alemany Ferrer, Rafael y Chico Rico Francisco (eds.). (2012). Actas del XVIII Simposio de la SELGYC  Ciberliteratura y comparatismo. pp. 233-248. http://www.cervantesvirtual.com/nd/ark:/59851/bmcfj475. Consultado el 12 de febrero de 2021.
 
