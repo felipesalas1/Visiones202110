@@ -52,6 +52,14 @@ Desarrollar un laboratorio de danza con habilitadores digitales para los estudio
 
 ***¿Cómo desarrollar un programa en danza con tecnología digital para mejorar la educación integral en ballet clásico e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines?***
 
+## Metodología
+
+La investigación desarrollará un laboratorio de tecnología y danza con habilitadores digitales para los estudios de ballet clásico con el objetivo de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. Se llevará a cabo con métodos experimentales en los que los bailarines de ballet clásico interactuarán con 10 herramientas digitales en cuatro etapas: (1) etapa teórica-corporal; (2) etapa de trabajo interdisciplinar; (3) etapa de aprendizaje autónomo; y (4) etapa de producción de conocimiento. 
+
+Ver Tabla 1.1 
+
+https://github.com/nivaca/Visiones202110/blob/04d8406ba4d87d82812956ef93fa4b8305153432/GuzmanP/ConjuntoDatosGuzman/Tabla%201.1%20Laboratorio%20de%20tecnologi%CC%81a%20y%20danza..xlsx
+
 ## Hipótesis de trabajo
 
 La ejecución de las cuatro etapas del laboratorio de danza fortalecerá la educación integral en ballet clásico e impulsará la reflexividad, la experimentación creativa y la interacción entre bailarines.
@@ -68,15 +76,6 @@ Contexto actual de uso de tecnología digital en los estudios de ballet clásico
 
 Datos cualitativos y cuantitativos de los ejercicios de experimentación con los habilitadores digitales para identificar oportunidades de mejora en los recursos del laboratorio de danza.   
 
-2) Fuentes de trabajo interdisciplinar. (Por explorar con tutor).  
-
-## Metodología
-
-La investigación desarrollará un laboratorio de danza con habilitadores digitales para los estudios de ballet clásico con el objetivo de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. Se llevará a cabo con métodos experimentales en los que los bailarines de ballet clásico interactuarán con 10 herramientas digitales en cuatro etapas: (1) etapa teórica-corporal; (2) etapa de trabajo interdisciplinar; (3) etapa de aprendizaje autónomo; y (4) etapa de producción de conocimiento. 
-
-Ver Tabla 1. 
-
-https://github.com/nivaca/Visiones202110/blob/4441ed3e3abd7bc5e5e75ab3c729435f86c827dd/GuzmanP/ConjuntoDatosGuzman/Tabla%201.%20Laboratorio%20de%20danza..xlsx
 
 ## Limitación del proyecto
 
