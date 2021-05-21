@@ -7,7 +7,7 @@
 ## Fecha: 6 de marzo de 2021
 
 ## Título
-**Laboratorio de danza para ballet clásico en Bogotá, Colombia.**
+**Laboratorio de danza y tecnología para ballet clásico en Bogotá, Colombia.**
 
 ## Palabras clave
 Danza; Aprendizaje; Tecnología; Educación; Colombia  
