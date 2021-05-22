@@ -61,6 +61,10 @@ Kozak, Claudia. “Poéticas/políticas de la materialidad en la poesía digital
 
 Labrador, Germán. Poética y ciberspacio. Comunidades de opinión, crítica literaria, discursos culturales y generadores automáticos de poesía en Internet. Un estudio aplicado, https://dialnet.unirioja.es/descarga/articulo/2365889.pdf. Consultado el 15 de febrero de 2021.
 
+Lozano Marín, Laura. "Aproximación a la poesía electrónica escrita por mujeres en español: Belén Gache y Alex Saum". Signa: revista de la Asociación Española de Semiótica. Sección monográfica II. Sobre poesía y cultura digital, 28 (2019), 307-329. http://www.cervantesvirtual.com/obra/aproximacion-a-la-poesia-electronica-escrita-por-mujeres-en-espanol-belen-gache-y-alex-saum-986155/. Consulta: 15 de mayo de 2021.
+
+Perloff, Marjorie. "Unoriginal genius: An Introduction". En: Unoriginal genius: poetry by other means in the new century (2010). pp. 11.25. Chicago: University of Chicago Press. 
+
 Queneau, Raymond et al. (2016). Oulipo: Ejercicios de literatura potencial. Traducción de Ezequiel Alemian. Buenos Aires: Caja Negra Editora.
 
 Regueiro Salgado, Begoña. "¿Qué es poesía?: La literariedad en la poesía digital". En Alemany Ferrer, Rafael y Chico Rico Francisco (eds.). (2012). Actas del XVIII Simposio de la SELGYC  Ciberliteratura y comparatismo. pp. 233-248. http://www.cervantesvirtual.com/nd/ark:/59851/bmcfj475. Consultado el 12 de febrero de 2021.
