@@ -63,7 +63,7 @@ Labrador, Germán. Poética y ciberspacio. Comunidades de opinión, crítica lit
 
 Lozano Marín, Laura. "Aproximación a la poesía electrónica escrita por mujeres en español: Belén Gache y Alex Saum". Signa: revista de la Asociación Española de Semiótica. Sección monográfica II. Sobre poesía y cultura digital, 28 (2019), 307-329. http://www.cervantesvirtual.com/obra/aproximacion-a-la-poesia-electronica-escrita-por-mujeres-en-espanol-belen-gache-y-alex-saum-986155/. Consulta: 15 de mayo de 2021.
 
-Perloff, Marjorie. "Unoriginal genius: An Introduction". En: Unoriginal genius: poetry by other means in the new century (2010). pp. 11.25. Chicago: University of Chicago Press. 
+Perloff, Marjorie. "Unoriginal genius: An Introduction". En: Unoriginal genius: poetry by other means in the new century (2010). pp. 11.25. Chicago: University of Chicago Press. http://writing.upenn.edu/~taransky/unoriginalgenius.pdf. Consulta: 2 de mayo de 2021. 
 
 Queneau, Raymond et al. (2016). Oulipo: Ejercicios de literatura potencial. Traducción de Ezequiel Alemian. Buenos Aires: Caja Negra Editora.
 
