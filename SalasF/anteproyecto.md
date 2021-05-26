@@ -15,12 +15,13 @@
 
 Con la aparición de las plataformas de streaming de música, el funcionamiento de la industria musical y el consumo de música ha cambiado radicalmente. El descubrimiento de nueva música ha pasado de ser influenciada por emisoras de radio, o por escuchar nuevos proyectos en tiendas de discos, a ser dictadas, en su mayoría, por algoritmos de recomendación (algoritmos BART) que hacen parte de las plataformas de streaming. Con esto, los algoritmos se convirtieron en los curadores personales de música para los usuarios. La experiencia que cada oyente tiene en las plataformas de streaming está mediada por un algoritmo que decide que música poner en aleatorio, o que canciones mostrar en las listas de reproducción para descubrir nueva música.  
 
-En consecuencia, los algoritmos disminuyen la diversidad de consumo de música, y tienen sesgos que afectan a proyectos musicales que no aportan al afán de lucro de las plataformas de streaming. Por lo anterior, en este proyecto se va a desarrollar una plataforma donde usuarios de Spotify van a poder recibir recomendaciones de proyectos musicales bogotanos que, probablemente, el algoritmo no les va a recomendar en otras situaciones. Con esto, busco comprobar si es posible que, usando el mismo algoritmo de Spotify y su API, se logre bajar los sesgos y aumentar la diversidad de consumo de música en esta plataforma de streaming.  
+En consecuencia, los algoritmos disminuyen la diversidad de consumo de música, y tienen sesgos que afectan a proyectos musicales que no aportan al afán de lucro de las plataformas de streaming. Este proyecto, se va a basar en dos partes, en a primera, se investigará sobre la estética de los algoritmos, los sesgos y el fitro burbuja; en la segunda, se va a desarrollar una plataforma donde usuarios de Spotify van a poder recibir recomendaciones de proyectos musicales bogotanos que, probablemente, el algoritmo no les va a recomendar en otras situaciones. Con esto, busco comprobar si es posible que, usando el mismo algoritmo de Spotify y su API, se logre bajar los sesgos y aumentar la diversidad de consumo de música en esta plataforma de streaming.  
 
 
 ## Objetivo general
 
-Con el uso de las API de las plataformas de streaming, crear una herramienta para conocer nuevos proyectos musicales de Bogotá. Esto con el fin de contrarestar el filtro burbuja y la baja diversidad de consumo de música causada por los algoritmos de recomendación usados en Spotify, Apple Music o Youtube Music. Con esto, podré identificar cómo los algoritmos de recomendación afectan el descubrimiento de proyectos musicales emergentes.
+Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, y cómo son los mediadores de a experiencia en las plataformas de streaming. Con la finalidad de identificar cómo estos afectan el descubrimiento de proyectos musicales emergentes que no aportan al afán de lucro de las plataformas de streaming.
+
 
 ### Objetivos Específicos
 
@@ -31,8 +32,9 @@ Con el uso de las API de las plataformas de streaming, crear una herramienta par
 
 ## Lista de productos esperados 
 
-1. * Aplicación web que permite a los usuarios agregar nueva música a sus cuentas de las plataformas de streaming
-2. * Texto con los resultados de la plataforma y reflexión sobre los algoritmos
+
+1. * Reflexión sobre la estética de los algoritmos de los resultados de la plataforma
+2. * Aplicación web que permite a los usuarios agregar nueva música a sus cuentas de las plataformas de streaming
 
 ## Problema
 
@@ -65,11 +67,13 @@ Un posible inconveniente con el uso de las APIs es que estas pueden cambiar la c
 
 ## Metodología
 
-Para el desarrollo de este proyecto se usará un servidor web, el frontend va a ser en HTML y CSS y el back end, para ser compatible con los APIs de las plataformas de streaming, va a hacerse en JSON basándose en REST y en JS (estoy considerando Python). Para poder desplegar los primeros prototipos de la plataforma usaré la capa gratuita de Amazon AWS, la cual me permitirá, por un año, tener acceso a un servidor web en la nube para hacer las pruebas y prototipos.  
+Este proyecto se divide en dos partes, una teórica y una práctica. Para la primera parte, estudiaré los aspectos estéticos y los sesgos del algoritmo de recomendación de música de Spotify. Esta sección será la base para la creación de la plataforma, y se basa en la hipótesis que es imposible que los algoritmos de recomendación no estén sesgados y contribuyan a filtro burbuja, más que todo cuándo están al servicio de la búsqueda de lucro. 
   
-La plataforma consiste en recomendar nuevos proyectos musicales a los usuarios. Para hacer esto, se va a tener en cuenta su librería de música, las recomendaciones que da el algoritmo de las plataformas y la la base datos propia de proyectos musicales. El producto final es una playlist creada a la medida de cada usuario.  
-  
-Es importante tener en cuenta que las APIs pueden limitar el número de datos entregados por cada consulta, esto puede ser un problema al consultar la librería musical de los usuarios. Por lo anterior, es necesario recopilar información de proyectos musicales bogotanos de fuentes externas (fuentes propias, colectivos musicales de la ciudad como La Cara de Emer, El Enemigo, EMV –una rama del IDRD–, y bases de datos distritales de músicos), para después categorizarlas y hacer recomendaciones en grupos más pequeños.
+Para el desarrollo de la segunda parte, se usará un servidor web, el frontend va a ser en HTML y CSS y el back end, para ser compatible con los APIs de las plataformas de streaming, va a hacerse en JSON basándose en REST y en JS (estoy considerando Python). Para poder desplegar los primeros prototipos de la plataforma usaré la capa gratuita de Amazon AWS, la cual me permitirá, por un año, tener acceso a un servidor web en la nube para hacer las pruebas y prototipos.   
+   
+La plataforma consiste en recomendar nuevos proyectos musicales a los usuarios. Para hacer esto, se va a tener en cuenta su librería de música, las recomendaciones que da el algoritmo de las plataformas y la base datos propia de proyectos musicales. El producto final es una playlist creada a la medida de cada usuario.   
+   
+Es importante tener en cuenta que las APIs pueden limitar el número de datos entregados por cada consulta, esto puede ser un problema al consultar la librería musical de los usuarios. Por lo anterior, es necesario recopilar información de proyectos musicales bogotanos de fuentes externas (fuentes propias, colectivos musicales de la ciudad como La Cara de Emer, El Enemigo, EMV –una rama del IDRD–, y bases de datos distritales de músicos), para después categorizarlas y hacer recomendaciones en grupos más pequeños. 
 
 
 - Usar Knime y tensor flow para el manejo de datos
