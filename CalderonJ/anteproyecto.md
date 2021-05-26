@@ -62,6 +62,8 @@ Glovine, María Andrea. "Estéticas transmediales. reflexiones en torno a la lit
 
 Goldsmith, Kenneth. (2015). Escritura no creativa. Traducción de Alan Page. Buenos Aires: Editorial Caja Negra. 
 
+Gutiérrez-Coba, Liliana, Coba-Gutiérrez, Patricia, Gómez-Diaz, Javier Andrés. La Noticias falsas y desinformación sobre el Covid-19: análisis comparativo de seis países iberoamericanos. Revista Latina de Comunicación Social, 78 (2020), 237-264, https://dialnet.unirioja.es/servlet/articulo?codigo=7625687. Consultado el 25 de mayo de 2021.
+
 Kozak, Claudia. “Mallarmé e IBM: Los inicios de la poesía digital en Brasil y Argentina”. Ipotesi,  19.1 (2015): 1-18, https://ri.conicet.gov.ar/handle/11336/54124. Consultado el 9 de marzo de 2021. 
 
 Kozak, Claudia. “Poéticas/políticas de la materialidad en la poesía digital latinoamericana”. Perífrasis 10.20 (2019): 71-93, https://www.redalyc.org/jatsRepo/4781/478160319006/index.html. Consultado el 9 de abril de 2021. 
