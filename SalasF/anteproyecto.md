@@ -39,7 +39,7 @@ Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, 
 
 Los algoritmos de recomendación, desde su concepción, están sesgados y siguen un modelo capitalista de busqueda de lucro. Esto ha provocado que baje la diversidad de contenido consumido en las plataformas de streaming. En consecuencia, los nuevos proyectos musicales tienen dificultad para ser descubiertos y que sean escuchados por más usuarios. 
 
-Quisiera investigar cómo los algoritmos han afectado a la escena de música emergente de Bogotá.
+¿Existe la posibilidad de crear una herramienta que ayude a contrarrestar el filtro burbuja y la baja diversidad de consumo en Spotify?
 
 
 ## Hipótesis de trabajo
