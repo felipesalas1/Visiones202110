@@ -3,10 +3,10 @@
 
 ## Felipe Salas Noguera, código 201413117
 
-## Fecha: enero 30 de 2021
+## Fecha: Mayo 26 de 2021
 
 ## Título
-**Algoritmos de recomendación de música: una mirada desde Colombia y la música emergente**
+**Algoritmos de recomendación de música: una reflexión desde a estética a **
 
 ## Palabras clave
 * Algoritmos de recomendación; Plataformas de Streaming (Apple Music, Spotify, Youtube Music); AI; Sesgos de los Algoritmos; Música Emergente; Filtro Burbuja
@@ -20,7 +20,7 @@ En consecuencia, los algoritmos disminuyen la diversidad de consumo de música, 
 
 ## Objetivo general
 
-Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, y cómo son los mediadores de a experiencia en las plataformas de streaming. Con la finalidad de identificar cómo estos afectan el descubrimiento de proyectos musicales emergentes que no aportan al afán de lucro de las plataformas de streaming.
+Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, y cómo son los mediadores de a experiencia en las plataformas de streaming. Con la finalidad de identificar cómo estos aspectos afectan el descubrimiento de proyectos musicales emergentes que no aportan al afán de lucro de las plataformas de streaming.
 
 
 ### Objetivos Específicos
@@ -32,7 +32,6 @@ Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, 
 
 ## Lista de productos esperados 
 
-
 1. * Reflexión sobre la estética de los algoritmos de los resultados de la plataforma
 2. * Aplicación web que permite a los usuarios agregar nueva música a sus cuentas de las plataformas de streaming
 
@@ -42,9 +41,6 @@ Los algoritmos de recomendación, desde su concepción, están sesgados y siguen
 
 Quisiera investigar cómo los algoritmos han afectado a la escena de música emergente de Bogotá.
 
-> Ver cómo agregarle un nuevo algoritmo saca el filtro burbuja y la busqeuda de lucro. ver los proyectos que están en el artículo de Tedone. 
-
-> - No estoy seguro si esto es más la hipótesis de trabajo que el problema.
 
 ## Hipótesis de trabajo
 
