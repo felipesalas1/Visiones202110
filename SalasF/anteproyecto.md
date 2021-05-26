@@ -6,7 +6,7 @@
 ## Fecha: Mayo 26 de 2021
 
 ## Título
-**Algoritmos de recomendación de música: una reflexión desde a estética a **
+**Algoritmos de recomendación de música: filtro burbuja, sesgos y la estética del algoritmo curador**
 
 ## Palabras clave
 * Algoritmos de recomendación; Plataformas de Streaming (Apple Music, Spotify, Youtube Music); AI; Sesgos de los Algoritmos; Música Emergente; Filtro Burbuja
@@ -20,13 +20,13 @@ En consecuencia, los algoritmos disminuyen la diversidad de consumo de música, 
 
 ## Objetivo general
 
-Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, y cómo son los mediadores de a experiencia en las plataformas de streaming. Con la finalidad de identificar cómo estos aspectos afectan el descubrimiento de proyectos musicales emergentes que no aportan al afán de lucro de las plataformas de streaming.
+Investigar sobre la estética de los algoritmos, sus sesgos, el filtro burbuja, y cómo son los mediadores de a experiencia en las plataformas de streaming. Con la finalidad de identificar cómo estos aspectos de los algoritmos afectan el descubrimiento de proyectos musicales emergentes que no aportan al afán de lucro de las plataformas de streaming.
 
 
 ### Objetivos Específicos
 
 1. Investigar los aspectos estéticos de los algoritmos y ver cómo estos hacen parte de la experiencia musical en el siglo XXI
-2. Medir en que forma la aplicación web contrarresta el sesgo y la baja diversidad de consumo del algoritmo dde Spotify
+2. Crear una aplicación que intenta contrarrestar el filtro burbuja usando el API de Spotify
 3. Estudiar cómo el algoritmo de Sppotify afecta a la escena musical emergenten de Bogotá
 
 
@@ -63,7 +63,7 @@ Un posible inconveniente con el uso de las APIs es que estas pueden cambiar la c
 
 ## Metodología
 
-Este proyecto se divide en dos partes, una teórica y una práctica. Para la primera parte, estudiaré los aspectos estéticos y los sesgos del algoritmo de recomendación de música de Spotify. Esta sección será la base para la creación de la plataforma, y se basa en la hipótesis que es imposible que los algoritmos de recomendación no estén sesgados y contribuyan a filtro burbuja, más que todo cuándo están al servicio de la búsqueda de lucro. 
+Este proyecto se divide en dos partes, una teórica y una práctica. Para la primera parte, estudiaré los aspectos estéticos y los sesgos del algoritmo de recomendación de música de Spotify. Esta sección será la base para la creación de la plataforma, se basa en la hipótesis que es imposible que los algoritmos de recomendación no estén sesgados y contribuyan a filtro burbuja, más que todo cuándo están al servicio de la búsqueda de lucro. 
   
 Para el desarrollo de la segunda parte, se usará un servidor web, el frontend va a ser en HTML y CSS y el back end, para ser compatible con los APIs de las plataformas de streaming, va a hacerse en JSON basándose en REST y en JS (estoy considerando Python). Para poder desplegar los primeros prototipos de la plataforma usaré la capa gratuita de Amazon AWS, la cual me permitirá, por un año, tener acceso a un servidor web en la nube para hacer las pruebas y prototipos.   
    
