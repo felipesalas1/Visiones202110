@@ -4,7 +4,7 @@
 ## Fecha: marzo 06 de 2021
 ## Título
 
-Del conflicto armado hacía un proceso de paz en Colombia ¿Cómo ha sido contada esa parte de la historia?
+Del conflicto armado hacía un proceso de paz en Colombia ¿Cómo ha sido contada esa parte de la historia a través del canal de televisión nacional Señal Colombia y la Comisión de la Verdad?
 
 ## Palabras clave
 
@@ -14,43 +14,35 @@ memoria; narraciones digitales; conflicto armado; proceso de paz; lugar de enunc
 
 ## Objetivo general
  
-Indagar las diferentes narrativas digitales sobre el conflicto armado y el proceso de paz en Colombia entre 2016 y 2021 con análisis de datos relacional presentando una colección de narrativas digitales y una interfaz de narrativas gráficas accesibles.  
+Indagar desde narrativas presentes en el canal de televisión nacional Señal Colombia y la Comisión de la Verdad sobre el conflicto armado y el proceso de paz en Colombia entre 2016 y 2021 por medio del análisis de datos relacional.
 
 ## Lista de productos esperados
 
 * Documento de investigación
 * Base da datos de narrativas digitales sobre el conflicto armado y el proceso de paz 
-* Sitio web 
+* Sitio web transmedia en donde se relate el proceso de investigación 
 
 ## Problema
 
-¿Cómo se ha relatado el conflicto armado y el proceso de paz  a través de elementos digitales entre el 2016 y el 2021?
+Los relatos expuestos a través de entrevistas y crónicas, ubicadas especialmente en la transición entre el conflicto armado y el proceso de paz, siendo productos de los medios de comunicación oficiales y de carácter nacional tales como: el canal de televisión Señal Colombia y los medios de comunicación digitales de la Comisión de la  Verdad, son relatos que dan cuenta de un ejercicio nacional y oficial por preservar hechos de un carácter socio-político importante a un público amplio.  Aquí cabe la necesidad de establecer un ejercicio comunicativo que atienda a las diversidades mismas de la población, ¿cómo se ha hecho esto? Y ¿en qué lugares narrativos se han ubicado los distintos relatos?
 
-De tal forma que se dé cuenta de relatos que sean producto de ejercicios de memoria, los cuales cuenten especialmente la transición entre el conflicto armado y el proceso de paz, desde diversas perspectivas para así comprender que lo acontecido puede tener diferentes formas de ser contado, siendo todas estas válidas en el marco de un discurso crítico y desde el reconocimiento de que la verdad de cada actor que ha participado del conflicto es legítima.
+¿Cómo y quiénes han relatado el conflicto armado y el proceso de paz a través el canal de televisión nacional Señal Colombia y la Comisión de la Verdad entre el 2016 y el 2021? ¿Cuáles narrativas han quedado expuestas durante el ejercicio de relatar en periodo de transición socio-política en Colombia? Comprender que lo acontecido puede tener diferentes formas de ser contado, y en un ejercicio de comunicación imparcial como se supone debe ser la que proviene de orden nacional, se asume o se deben asumir como válidas las narrativas presentadas. 
+
+Hacer un ejercicio que relacione los productos narrativos digitales del canal Señal Colombia junto con los de la Comisión de la Verdad, quizás podría brindar una mirada que pretenda ampliar las dudas o responder algunas de las ya planteadas.
  
 
 ## Hipótesis de trabajo
 
-Encontrar difrentes formas de contar unos hechos concretos, pueden ayudarnos a comprender un fenomeno como el conflicto armado en Colombia, sin embargo, la trasisión entre el conflicto armado y el proceso de paz, llevado a cabo desde el 2016, propuso un esfuerzo por buscar y definir nuevas narrativas, unas que fueran contadas desde diferentes actores involucrados en el conflicto. Es por lo anterior que es relevante encontrar puntos de encuentro entre diferentes narrativas digitales que relaten la transición, estos puntos no serán utiles para contar una sola historia, sino para reconocer que dentro del mundo narrativo y la construcción de memoria que existen diferentes lugares de enunciación y son legitimos.
+Encontrar diferentes formas de contar unos hechos concretos, pueden ayudarnos a comprender un fenómeno como el conflicto armado en Colombia, sin embargo, la transición entre el conflicto armado y el proceso de paz, llevado a cabo desde el 2016, propuso un esfuerzo por buscar y definir nuevas narrativas para ser contadas desde organismos oficiales. Narrativas que fueran contadas desde diferentes actores involucrados en el conflicto. Es por lo anterior que es relevante encontrar puntos de encuentro entre diferentes narrativas digitales que relaten la transición, estos puntos no serán útiles para contar una sola historia, sino para reconocer que dentro del mundo narrativo y la construcción de memoria que existen diferentes lugares de enunciación y son legítimos.
 
 ## Fuentes
 
-Para el desarrollo del proyecto se han seleccionado como fuentes primarias, relatos sobre el conflicto armado en Colombia, estos, presentados por medio de crónicas, cortos, literatura y reportaje. Es necesario que sea evidente la narrativa presentada por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales, imágenes de escritos a mano alzada, entre otros. 
-
-* Criterios de selección 
-
-   * Accesibilidad: En cuanto sea viable encontrar la información desde la ciudad de Bogotá y cumpla con el libre consumo.
-
-   * Formato: Las fuentes deben estar al menos una de estas presentaciones: audio, vídeo o textual. Pueden también estar relacionadas con aspectos gráficos, animados y ambientados. 
-
-   * Origen geográfico: Respecto al lugar de donde provenga la experiencia que da vida al relato, serán priorizados por aquellos en donde hubo presencia de diferentes grupos armados, tanto ilegales como legales.
-
-   * Actores del conflicto: Es necesario contar con fuentes que den cuenta de la mayor cantidad de actores involucrados, como, víctimas directas e indirectas de hechos violentos, grupos armados, organizaciones sociales, entre otras. 
+Para el desarrollo del proyecto se han seleccionado como fuentes primarias, entrevistas y crónicas sobre el conflicto armado en Colombia y el proceso de paz, producidas por el canal de televisión nacional Señal Colombia y la Comisión de la Verdad. Es necesario que sea evidente la narrativa presentada por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales o productos transmedia.
 
 
 ## Metodología
 
-1. **Construcción del marco teórico:** Al situar el proyecto y el fenómeno de estudio primario – narraciones del conflicto armado colombiano- se consideran algunos elementos importantes o ejes temáticos para ubicar un marco teórico que pueda comprender mejor el conflicto desde su lugar geopolítico como escenario general.  Entender las narrativas del conflicto como un escenario más particular respecto al fenómeno, teniendo presente el lugar desde donde se enuncian las mismas, esto con el fin, de dar un marco de legitimidad a las narrativas. De otra parte, la complejidad del conflicto armado atraviesa por la incertidumbre misma de lo ocurrido, dada la complejidad de reconstruir hechos del pasado y la coyuntura de un país históricamente polarizado, en este sentido se presentan diferentes versiones de una sola historia, en donde cada cual lucha por su veracidad, por lo anterior es necesario debatir el concepto mismo de “verdad” en el marco de la reconstrucción de memoria. 
+1. **Construcción del marco teórico:** Al situar el proyecto y el fenómeno de estudio primario – narraciones del conflicto armado colombiano- se consideran algunos elementos importantes o ejes temáticos para ubicar un marco teórico que pueda comprender mejor el conflicto desde su lugar geopolítico como escenario general. Entender las narrativas del conflicto como un escenario más particular respecto al fenómeno, teniendo presente el lugar desde donde se enuncian las mismas, esto con el fin, de dar un marco de legitimidad a las narrativas. 
 
    *	Definir ejes temáticos 
   
@@ -65,34 +57,21 @@ Para el desarrollo del proyecto se han seleccionado como fuentes primarias, rela
    * Establecer parámetros de búsqueda respecto a las fuentes primarias
    * Definir variables para el diseño de la matriz para base de datos
 
-2.	**Elaboración de antecedentes digitales:** Al ser un proyecto de investigación-creación, la parte de creación deberá encontrarse relacionada con los ejes temáticos y comprenderse desde herramientas digitales que se puedan analizar como un marco de antecedentes digitales, en este sentido, se han explorado recursos digitales relacionados con el escenario de investigación, *narraciones del conflicto armado en Colombia:*
-
-    * Exploración de proyectos digitales sobre el conflicto armado
-    
-    * Elaborar un texto descriptivo respecto a los recursos digitales
-   
-    * Definir variables para el diseño de la matriz para base de datos
-
-3.	**Exploración de fuentes primarias:**
+2.	**Exploración de fuentes primarias:** entrevistas y crónicas sobre el conflicto armado en Colombia y el proceso de paz, producidas por el canal de televisión nacional Señal Colombia y la Comisión de la Verdad.
 
     * Diseño de matriz para base de datos
     
-    * Primera búsqueda de fuentes primarias
-    
-    * Ajuste a matriz 
-    
-    * Segunda búsqueda de fuentes primarias
-    
+    * Búsqueda de fuentes primarias
+        
     * Análisis de la base de datos encontrados
 
-4.	**Diseño de visualización y disposición de datos en la web:** 
+4.	**Diseño de visualización y disposición de datos en la web:** los elementos que se usarán para el procesos de investigación y creación son: 
 
-    * Selección de herramientas digitales a usar para visualización de datos
+    * Base de datos relacional con el uso del código MySGL
+               
+    * Colección de recursos analizados Omeka
     
-           
-    * Interpretación del análisis de la base de datos encontrados
-    
-    * Disposición interpretativa de los datos de forma inclusiva 
+    * Sitio web programado con JavaScrip – p5.js
 
 
 
