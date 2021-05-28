@@ -4,7 +4,7 @@
 ## Fecha: marzo 06 de 2021
 ## Título
 
-Del conflicto armado hacía un proceso de paz en Colombia ¿Cómo ha sido contada esa parte de la historia a través del canal de televisión nacional Señal Colombia y la Comisión de la Verdad?
+Del conflicto armado hacía un proceso de paz en Colombia ¿Cómo ha sido contada esa parte de la historia a través del canal de televisión nacional Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad?
 
 ## Palabras clave
 
@@ -14,11 +14,11 @@ memoria; narraciones digitales; conflicto armado; proceso de paz; lugar de enunc
 
 El relato sucede como un eje transversal principal de una reconstrucción de hechos acontecidos en la vida real, así mismo, su complejidad avanza en cuanto involucra un tiempo extendido, diferentes lugares espaciales y muchas personas involucradas. El conflicto armado y el proceso de transición hacía un proceso de paz de Colombia, presentan precisamente un reto al pretender ser relatados desde un ejercicio de orden nacional u oficial más cuando la diversidad de la población es múltiple y en esencia los contenidos comunicativos deben estar dirigidos a esa diversidad.
 
-Se traen entonces como un ejercicio de análisis dos objetos a investigar, productos realizados por el canal de televisión Señal Colombia y la Comisión de la verdad, fundamentalmente entrevistas y crónicas que realizadas entre 2016 y 2021. La pretensión de la investigación y la creación estarán mediadas por el uso de análisis de datos relacional, una disposición de los recursos encontrados en forma de colección y la presentación del proceso de investigación de manera narrativa y transmedial. 
+Se traen entonces como un ejercicio de análisis dos objetos a investigar, productos realizados por el canal de televisión Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la verdad, fundamentalmente entrevistas y crónicas que realizadas entre 2016 y 2021. La pretensión de la investigación y la creación estarán mediadas por el uso de análisis de datos relacional, una disposición de los recursos encontrados en forma de colección y la presentación del proceso de investigación de manera narrativa y transmedial. 
 
 ## Objetivo general
  
-Indagar desde narrativas presentes en el canal de televisión nacional Señal Colombia y la Comisión de la Verdad sobre el conflicto armado y el proceso de paz en Colombia entre 2016 y 2021 por medio del análisis de datos relacional.
+Indagar desde narrativas presentes en el canal de televisión nacional Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad sobre el conflicto armado y el proceso de paz en Colombia entre 2016 y 2021 por medio del análisis de datos relacional.
 
 ## Lista de productos esperados
 
@@ -28,11 +28,11 @@ Indagar desde narrativas presentes en el canal de televisión nacional Señal Co
 
 ## Problema
 
-Los relatos expuestos a través de entrevistas y crónicas, ubicadas especialmente en la transición entre el conflicto armado y el proceso de paz, siendo productos de los medios de comunicación oficiales y de carácter nacional tales como: el canal de televisión Señal Colombia y los medios de comunicación digitales de la Comisión de la  Verdad, son relatos que dan cuenta de un ejercicio nacional y oficial por preservar hechos de un carácter socio-político importante a un público amplio.  Aquí cabe la necesidad de establecer un ejercicio comunicativo que atienda a las diversidades mismas de la población, ¿cómo se ha hecho esto? Y ¿en qué lugares narrativos se han ubicado los distintos relatos?
+Los relatos expuestos a través de entrevistas y crónicas, ubicadas especialmente en la transición entre el conflicto armado y el proceso de paz, siendo productos de los medios de comunicación oficiales y de carácter nacional tales como: eel canal de televisión Señal Colombia, documentales, podcasts y especiales digitales del Centro de Nacional Memoria Histórica y los medios de comunicación digitales de la Comisión de la  Verdad, son relatos que dan cuenta de un ejercicio nacional y oficial por preservar hechos de un carácter socio-político importante a un público amplio.  Aquí cabe la necesidad de establecer un ejercicio comunicativo que atienda a las diversidades mismas de la población, ¿cómo se ha hecho esto? Y ¿en qué lugares narrativos se han ubicado los distintos relatos?
 
-¿Cómo y quiénes han relatado el conflicto armado y el proceso de paz a través el canal de televisión nacional Señal Colombia y la Comisión de la Verdad entre el 2016 y el 2021? ¿Cuáles narrativas han quedado expuestas durante el ejercicio de relatar en periodo de transición socio-política en Colombia? Comprender que lo acontecido puede tener diferentes formas de ser contado, y en un ejercicio de comunicación imparcial como se supone debe ser la que proviene de orden nacional, se asume o se deben asumir como válidas las narrativas presentadas. 
+¿Cómo y quiénes han relatado el conflicto armado y el proceso de paz a través el canal de televisión nacional Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad entre el 2016 y el 2021? ¿Cuáles narrativas han quedado expuestas durante el ejercicio de relatar en periodo de transición socio-política en Colombia? Comprender que lo acontecido puede tener diferentes formas de ser contado, y en un ejercicio de comunicación imparcial como se supone debe ser la que proviene de orden nacional, se asume o se deben asumir como válidas las narrativas presentadas. 
 
-Hacer un ejercicio que relacione los productos narrativos digitales del canal Señal Colombia junto con los de la Comisión de la Verdad, quizás podría brindar una mirada que pretenda ampliar las dudas o responder algunas de las ya planteadas.
+Hacer un ejercicio que relacione los productos narrativos digitales del canal Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad, quizás podría brindar una mirada que pretenda ampliar las dudas o responder algunas de las ya planteadas.
  
 
 ## Hipótesis de trabajo
@@ -41,7 +41,7 @@ Encontrar diferentes formas de contar unos hechos concretos, pueden ayudarnos a 
 
 ## Fuentes
 
-Para el desarrollo del proyecto se han seleccionado como fuentes primarias, entrevistas y crónicas sobre el conflicto armado en Colombia y el proceso de paz, producidas por el canal de televisión nacional Señal Colombia y la Comisión de la Verdad. Es necesario que sea evidente la narrativa presentada por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales o productos transmedia.
+Para el desarrollo del proyecto se han seleccionado como fuentes primarias, entrevistas y crónicas sobre el conflicto armado en Colombia y el proceso de paz, producidas por el canal de televisión nacional Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad. Es necesario que sea evidente la narrativa presentada por las personas que exponen sus relatos, ya sea con transcripción textual, grabaciones audiovisuales o productos transmedia.
 
 
 ## Metodología
@@ -61,7 +61,7 @@ Para el desarrollo del proyecto se han seleccionado como fuentes primarias, entr
    * Establecer parámetros de búsqueda respecto a las fuentes primarias
    * Definir variables para el diseño de la matriz para base de datos
 
-2.	**Exploración de fuentes primarias:** entrevistas y crónicas sobre el conflicto armado en Colombia y el proceso de paz, producidas por el canal de televisión nacional Señal Colombia y la Comisión de la Verdad.
+2.	**Exploración de fuentes primarias:** entrevistas y crónicas sobre el conflicto armado en Colombia y el proceso de paz, producidas por el canal de televisión nacional Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad.
 
     * Diseño de matriz para base de datos
     
