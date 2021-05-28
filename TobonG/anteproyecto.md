@@ -1,4 +1,4 @@
-###### Visiones de la Invetigación 202010 
+###### Visiones de la Investigación 202010 
 ###### Maestría en Humanidades Digitales
 ###### Universidad de los Andes
 
@@ -20,19 +20,19 @@ Gertrudis Gómez de Avellaneda; libro digital; novela antiesclavista; Romanticis
 **Abstract**
 _"Sab": una lectura de experiencia digital_ es un proyecto que busca crear una edición digital anotada y moderna de la novela antiesclavista _Sab_ (1841) de la autora cubana Gertrudis Gómez de Avellaneda (1814 - 1873) por medio de la transcripción manual, el marcado TEI, la transformación a HTML y el diseño de la apariencia de la aplicación web en CSS y JavaScript. 
 
-**Objetivo General:** <br />
+**Objetivo General** <br />
 Este proyecto se propone como objetivo general suplir la necesidad de una edición digital moderna, interactiva, cómoda de leer de la novela _Sab_. La meta es encontrar las herramientas digitales que mejor se adapten a las necesidades del _nuevo lector_, el lector digital que demanda estímulos multisensoriales, hiper-conectividad multidireccional, y rechaza la simpleza y linealidad del formato pdf. Se busca que el producto final le ofrezca a este lector una lectura enriquecida tanto visualmente como en conexiones a aparatos investigativos externos y, ante todo, participativa.
 
 **Lista de productos esperados**
 * Aplicación web interactiva de la autora
 * Despliegue de la novela _Sab_ completa transcrita.
 * Despliegue y vinculación de la obra "facsimilar", o bien, de las primeras ediciones de las cuales se tomó el texto transcrito —están en la bibliografía.
-* Compilación de imágenes de la autora —no son muchas las existentes entonces tendré que pedir ayuda para ilustrar un poco el libro— que enriquezcan la estética de la aplicación web, le den fluidez a la lectura y a su vez homogeneicen el aspecto general del libro.
+* Compilación de imágenes de la autora &mdash;no son muchas las existentes entonces tendré que pedir ayuda para ilustrar un poco el libro&mdash; que enriquezcan la estética de la aplicación web, le den fluidez a la lectura y a su vez homogeneicen el aspecto general del libro.
 
 
 **Problema** <br />
-Este proyecto busca responder en concreto el siguiente interrogante investigativo: ¿cómo realizar una edición digital de la novela _Sab_? Y a su vez, debido a que se trata de un texto tan largo -como lo es una novela-, ¿cómo mantener la atención del lectur en el entorno digital?, ¿cómo propiciar una lectura más cómmoda? 
-Circundante a este problema, también se encuentran las preguntas de ¿por qué editar a Gertrudis Gómez de Avellaneda ***hoy en día***?, también, ¿por qué editarla ***en digital***? En primer lugar, Gertrudis Gómez de Avellaneda es una de las precursoras de la literatura del romanticismo —fundadora del movimiento en Latinoamérica—, además de la merecida visibilización de la literatura femenina, el medio digital es el medio de masificación de la información que está en auge hoy en día, es el medio perfecto para crear un nicho que promueva el estudio de la autora, ya que permite la constante e instantánea comunicación e interacción de diversos lectores —tanto el experto como el estudiante y el apasionado. 
+Este proyecto busca responder en concreto el siguiente interrogante investigativo: ¿cómo realizar una edición digital de la novela _Sab_? Y a su vez, debido a que se trata de un texto tan largo -como lo es una novela-, ¿cómo mantener la atención del lector en el entorno digital?, ¿cómo propiciar una lectura más cómoda? 
+Circundante a este problema, también se encuentran las preguntas de ¿por qué editar a Gertrudis Gómez de Avellaneda ***hoy en día***?, también, ¿por qué editarla ***en digital***? En primer lugar, Gertrudis Gómez de Avellaneda es una de las precursoras de la literatura del romanticismo &mdash;fundadora del movimiento en Latinoamérica&mdash;, además de la merecida visibilización de la literatura femenina, el medio digital es el medio de masificación de la información que está en auge hoy en día, es el medio perfecto para crear un nicho que promueva el estudio de la autora, ya que permite la constante e instantánea comunicación e interacción de diversos lectores &mdash;tanto el experto como el estudiante y el apasionado. 
 
 Otras preguntas que interpelan este proyecto serían las cuestiones que apelan al _nuevo lector_, la _literatura digital_ en general y _el libro electrónico_ en específico. ¿En qué consiste una edición literaria digital? ¿Cómo pensar el espacio digital como un espacio propicio para le lectura? ¿A qué tipo de lector me enfrento al proponer una edición digital? ¿Cómo dista el lector digital del análogo? y ¿Qué puedo hacer para mejorar _el libro digital_ con el fin de que se afine más a las necesidades y los derechos del _nuevo lector_ digital?
 
