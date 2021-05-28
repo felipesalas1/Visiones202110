@@ -4,11 +4,11 @@
 ## Fecha: marzo 06 de 2021
 ## Título
 
-Narrar el conflicto armado y una trasnsición al procesos de paz en Colombia desde diferentes realidades
+Del conflicto armado hacía un proceso de paz en Colombia ¿Cómo ha sido contada esa parte de la historia?
 
 ## Palabras clave
 
-Colombia; memoria; narraciones digitales; conflicto armado; proceso de paz; lugar de enunciación
+memoria; narraciones digitales; conflicto armado; proceso de paz; lugar de enunciación
 
 ## Abstract
 
