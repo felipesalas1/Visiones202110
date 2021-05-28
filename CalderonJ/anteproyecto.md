@@ -4,7 +4,7 @@
 
 # Juan Calderón, código 202115912
 
-# Fecha: mayo 18 de 2021
+# Fecha: mayo 28 de 2021
 
 
 
@@ -26,10 +26,14 @@ En segundo lugar, el trasfondo del proyecto se enlaza con una reflexión ético-
 
 # Lista de productos esperados
 Plataforma web del proyecto de poesía electrónica
+
 Texto del trabajo de grado
 
 # Problema
-El proyecto de creación propone una aproximación a las noticias falsas como material artístico. En ese sentido, se plantea ofrecer una reflexión sobre la forma en que estas se configuran como texto. Al ser la poesía un tipo de discurso que llama la atención sobre la construcción de sus enunciados, convoca un tipo de lectura específica. De ese modo, al leer las noticias falsas como material poético, se pueden revelar sus mecanismos de construcción. De este modo, el proyecto busca llamar la atención sobre las noticias falsas como texto que genera un material informativo malicioso y que puede deconstruirse para ser utilizado con objetivos estéticos.  
+¿Cómo se podría generar una reflexión ético-política y estética a partir de la elaboración de las noticias falsas sobre el coronavirus como materia textual de un proyecto de poesía electrónica? Para responder a esa pregunta, el proyecto de creación propone una aproximación a las noticias falsas como material artístico. En ese sentido, se plantea ofrecer una reflexión sobre la forma en que estas se configuran como texto. Al ser la poesía un tipo de discurso que llama la atención sobre la construcción de sus enunciados, convoca un tipo de lectura específica. De ese modo, al leer las noticias falsas como material poético, se pueden revelar sus mecanismos de construcción. De este modo, el proyecto busca llamar la atención sobre las noticias falsas como texto que genera un material informativo malicioso y que puede deconstruirse para ser utilizado con objetivos estéticos.  
+
+Asimismo, busca generar una reflexión sobre la situación específica de Hispanoamérica al centralizar y movilizar textos que son producto de su contexto político, cultural, social y económico particular. Es decir, la presente propuesta parte de la concepción de que las noticias falsas, si bien constituyen un contenido malicioso dentro de la esfera de la web, son un reflejo de una realidad geopolítica que las hace posibles, las configura y las disemina. Como tales, los llamados bulos son considerados textos representativos de la condición actual de la región.  
+
 
 # Metodología
 El proyecto se divide en distintas etapas. En primer lugar, se recolectarán noticias falsas accediendo a la API de Twitter a través la herramienta de programación visual Knime, la que estará conectada con una cuenta de desarrollador de Twitter. En segundo lugar, a partir del material encontrado en Twitter y cruzando la información con fact-checkers certificados de la región, se buscará construir una base de datos de noticias falsas de Hispanoamérica. En tercer lugar, se plantea crear un algoritmo que ejecute permutaciones para combinar los enunciados principales (titulares) de las noticias falsas como si fueran versos. De ese modo, la posibilidad de combinaciones posibles se multiplicará exponencialmente, dando lugar a múltiples poemas que puedan ser leídos por el usuario de la plataforma. 
@@ -39,9 +43,6 @@ Las noticias falsas sobre el coronavirus que circulan en la red social Twitter r
 
 # Aporte a las Humanidades Digitales
 El proyecto explora los límites realizativos y de recepción del arte/literatura producidos por medios digitales. En ese sentido, desde el punto de vista de la producción, se trabajará con un material textual no canónico y no considerado como literatura, y, desde la perspectiva de la recepción, el usuario puede ampliar su concepción sobre el arte/literatura digitales entendiendo que materiales textuales heterodoxos pueden servir de materia prima para ser trabajados con fines estéticos. Es decir, el medio digital, dentro de sus variados contextos, bajo lógicas y procedimientos que le son propios, puede resemantizar distintos tipos de producciones culturales. Es así que posibilita no solo la diseminación de noticias falsas, sino su detección y formalización como material estético, más allá de su intención comunicativa, en proyectos que incorporan una reflexión crítica sobre ellas.
-
-Asimismo, busca generar una reflexión sobre la situación específica de Hispanoamérica al centralizar y movilizar textos que son producto de su contexto político, cultural, social y económico particular. Es decir, la presente propuesta parte de la concepción de que las noticias falsas, si bien constituyen un contenido malicioso dentro de la esfera de la web, son un reflejo de una realidad geopolítica que las hace posibles, las configura y las disemina. Como tales, los llamados bulos son considerados textos representativos de la condición actual de la región.  
-
 
 # Fuentes
 
