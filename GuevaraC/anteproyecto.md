@@ -4,7 +4,7 @@
 ## Fecha: marzo 06 de 2021
 ## Título
 
-Del conflicto armado hacía un proceso de paz en Colombia ¿Cómo ha sido contada esa parte de la historia a través del canal de televisión nacional Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad?
+Del conflicto armado hacía un proceso de paz en Colombia. Análisis de relatos del canal de televisión nacional Señal Colombia, el Centro de Nacional Memoria Histórica y la Comisión de la Verdad
 
 ## Palabras clave
 
