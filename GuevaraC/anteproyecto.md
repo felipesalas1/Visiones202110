@@ -12,6 +12,10 @@ memoria; narraciones digitales; conflicto armado; proceso de paz; lugar de enunc
 
 ## Abstract
 
+El relato sucede como un eje transversal principal de una reconstrucción de hechos acontecidos en la vida real, así mismo, su complejidad avanza en cuanto involucra un tiempo extendido, diferentes lugares espaciales y muchas personas involucradas. El conflicto armado y el proceso de transición hacía un proceso de paz de Colombia, presentan precisamente un reto al pretender ser relatados desde un ejercicio de orden nacional u oficial más cuando la diversidad de la población es múltiple y en esencia los contenidos comunicativos deben estar dirigidos a esa diversidad.
+
+Se traen entonces como un ejercicio de análisis dos objetos a investigar, productos realizados por el canal de televisión Señal Colombia y la Comisión de la verdad, fundamentalmente entrevistas y crónicas que realizadas entre 2016 y 2021. La pretensión de la investigación y la creación estarán mediadas por el uso de análisis de datos relacional, una disposición de los recursos encontrados en forma de colección y la presentación del proceso de investigación de manera narrativa y transmedial. 
+
 ## Objetivo general
  
 Indagar desde narrativas presentes en el canal de televisión nacional Señal Colombia y la Comisión de la Verdad sobre el conflicto armado y el proceso de paz en Colombia entre 2016 y 2021 por medio del análisis de datos relacional.
