@@ -36,7 +36,7 @@ Asimismo, busca generar una reflexión sobre la situación específica de Hispan
 
 
 # Metodología
-El proyecto se divide en distintas etapas. En primer lugar, se recolectarán noticias falsas accediendo a la API de Twitter a través la herramienta de programación visual Knime, la que estará conectada con una cuenta de desarrollador de Twitter. En segundo lugar, a partir del material encontrado en Twitter y cruzando la información con fact-checkers certificados de la región, se buscará construir una base de datos de noticias falsas de Hispanoamérica. En tercer lugar, se plantea crear un algoritmo que ejecute permutaciones para combinar los enunciados principales (titulares) de las noticias falsas como si fueran versos. De ese modo, la posibilidad de combinaciones posibles se multiplicará exponencialmente, dando lugar a múltiples poemas que puedan ser leídos por el usuario de la plataforma. 
+El proyecto se divide en distintas etapas. En primer lugar, se recolectarán noticias falsas accediendo a la API de Twitter a través de la herramienta de programación visual Knime, la que estará conectada con una cuenta de desarrollador de Twitter. En segundo lugar, a partir del material encontrado en Twitter y cruzando la información con fact-checkers certificados de la región, se buscará construir una base de datos de noticias falsas de Hispanoamérica. En tercer lugar, se plantea crear una plataforma web en la que se pueda acceder a la base de datos y en la cual se ejecuten permutaciones para combinar los enunciados principales (titulares) de las noticias falsas como si fueran versos. De ese modo, la posibilidad de combinaciones posibles se multiplicará exponencialmente, dando lugar a múltiples poemas que puedan ser leídos por el usuario de la plataforma. 
 
 # Hipótesis de trabajo
 Las noticias falsas sobre el coronavirus que circulan en la red social Twitter representan una materia textual valiosa para ser trabajada con fines artísticos. En ese sentido, con procedimientos propios de la poesía electrónica, es posible explotar ese potencial estético. Bajo esa lógica, su recontextualización como poesía en un entorno digital permite pensarlas de distinto modo, como texto manipulable, y evaluar sus modos de construcción, su sintaxis, y su impacto comunicativo, el cual podría servir a generar un efecto estético.
@@ -85,3 +85,4 @@ Taylor, Claire. “Entre «born digital» y herencia literaria: el diálogo entr
 
 # Bibliografía
 El enlace de la bibliografía es este: 
+https://www.zotero.org/groups/2815914/bibliografia_visiones/library
