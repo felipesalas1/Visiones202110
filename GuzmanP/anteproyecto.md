@@ -19,7 +19,7 @@ Se ha demostrado que el uso de tecnologías habilitadoras clave (KETs) en danza,
 
 Pero, en Bogotá, Colombia, la exploración con tecnología digital en los estudios de ballet clásico es escasa. Por ende, es fundamental llevar a cabo proyectos experimentales que contribuyan a la consolidación de una comunidad de danza que ejerza el ballet clásico con prácticas modernas e interdisciplinares. Así mismo, se aspira hilar diálogos entre los actores de la danza y las prácticas de las humanidades digitales para producir nuevo conocimiento cultural.  
 
-La investigación desarrollará un laboratorio de danza con tecnologías habilitadoras clave (KETs) para los estudios de ballet clásico con el objetivo de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. Se llevará a cabo con métodos experimentales en los que los bailarines de ballet clásico interactuarán con ocho herramientas digitales en cuatro etapas: (1) etapa teórica-corporal; (2) etapa de trabajo interdisciplinar; (3) etapa de aprendizaje autónomo; y (4) etapa de producción de conocimiento.   
+La investigación desarrollará un laboratorio de danza con tecnologías habilitadoras clave (KETs) para los estudios de ballet clásico con el objetivo de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. Se llevará a cabo con métodos experimentales en los que los bailarines de ballet clásico interactuarán con siete herramientas digitales en cuatro etapas: (1) etapa teórica-corporal; (2) etapa de trabajo interdisciplinar; (3) etapa de aprendizaje autónomo; y (4) etapa de producción de conocimiento.  
 
 ## Objetivo general
 Desarrollar un laboratorio de danza con tecnologías habilitadoras clave (KETs) para los estudios de ballet clásico en Bogotá, Colombia, con el fin de fortalecer la educación integral en danza e impulsar la reflexividad, la experimentación creativa y la interacción entre bailarines. 
@@ -39,6 +39,10 @@ Desarrollar un laboratorio de danza con tecnologías habilitadoras clave (KETs) 
 1) Experiencia multimedia narrativa de realidad virtual para dispositivos de realidad virtual sobre un componente teórico del ballet clásico en Colombia. 
 
 2) Juego de interacción e inmersión para aplicación y evaluación del conocimiento teórico adquirido. 
+
+**Tabla 1** Ver lista de productos esperados y su tecnología habilitadora clave aquí: 
+
+https://github.com/nivaca/Visiones202110/blob/3ba4e3dc072471a3d65e71aee43e95fcbb96b141/GuzmanP/ConjuntoDatosGuzman/Tabla%201.%20V2%20Laboratorio%20de%20tecnologi%CC%81a%20y%20danza.1.xlsx
 
 ## Problema/pregunta de trabajo de grado
 
