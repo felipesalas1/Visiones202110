@@ -79,22 +79,3 @@ Es importante tener en cuenta que las APIs pueden limitar el número de datos en
 ## Bibliografía anotada
 
 El enlace de la bibliografía es este: https://www.zotero.org/groups/2803661/bibliografavisiones/library
-
-## Comentarios de mis compañeras y de Nicolás
-
-> Pensar en la divuglación con personas de la Escena. mirar con la Cara de Emer!! 
-> Si voy a alcanzar a salir de eso
-
-> - Salir del filtro burbuja 
-> - En que medida se puede salir 
-> - comparar papers sobre los datos de los algoritmos. 
-> - Echarle cabeza si quiero llegar a la plataforma o desde lo investigativo
-
-
-## Comentarios presentación
-
-> Añadir lo que quiero hacer, mis objetivos
-> Añadir que es lo que busco 
-> Aclarar si voy a poder responder las dos preguntas, quizá la segunda solamente por encima
-> Añadir una diapositiva con la hipotesis y poner fuentes 
-> No tiene que ser tan rigido, puedo añadir más partes
